@@ -26,6 +26,11 @@ jobs:
       - name: Build project
         run: npm run build
 
+      - name: Restructure build output for S3
+        run: |
+          mkdir -p dist/the-hotline-suite
+          find dist -mindepth 1 -maxdepth 1 ! -name 'index.html' -exec mv {} dist/the-hotline-suite/ \;
+
       - name: Sync to S3
         uses: jakejarvis/s3-sync-action@v0.5.1
         with:

@@ -26,4 +26,5 @@ pnpm-debug.log*
 *.sw?
 node_modules
 
-# /public/Lost-N-Found
+/public/Lost-N-Found
+/public/hlm1-mods

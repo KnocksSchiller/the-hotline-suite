@@ -183,6 +183,10 @@ button:hover {
   overflow: auto;
 }
 
+.underline {
+  text-decoration: underline;
+}
+
 .animText {
   color: var(--lGreen);
   text-shadow: 4px 4px var(--red);

@@ -24,4 +24,8 @@ export default {
 ul {
     margin-left: 30px;
 }
+
+li {
+    color: var(--lGreen);
+}
 </style>

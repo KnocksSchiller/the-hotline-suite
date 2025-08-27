@@ -66,10 +66,6 @@ body {
   background: var(--bg);
 }
 
-/* #app {
-  text-align: center;
-} */
-
 .site-content {
   max-width: 1366px;
   margin: auto auto 2em;
@@ -90,19 +86,7 @@ h1,
 h2,
 h3,
 summary {
-  @media(min-width: 768px) {
-    width: max-content;
-  }
-
-}
-
-h1,
-h2,
-h3 {
-  @media(max-width:768px) {
-    text-align: center;
-  }
-
+  width: max-content;
 }
 
 h3 {
@@ -111,12 +95,6 @@ h3 {
 
 details {
   margin: 50px;
-
-  @media(max-width:768px) {
-    margin: 50px auto;
-    width: 90%;
-  }
-
 }
 
 p,
@@ -148,10 +126,6 @@ a {
 .site-content nav {
   border: 2px solid var(--lGreen);
   max-width: 666px;
-
-  @media(max-width:768px) {
-    margin: 0 8px;
-  }
 }
 
 ol {
@@ -190,10 +164,6 @@ button {
   margin: 20px 0;
   transition: all .1s;
   cursor: pointer;
-
-  @media(max-width:768px) {
-    margin: 20px 8px;
-  }
 }
 
 button:active {
@@ -210,28 +180,71 @@ a[target] {
   text-decoration: underline;
 }
 
-p,
-i {
-  @media(max-width:768px) {
-    padding: 0 10px;
-  }
-}
-
 .screenshot-grid {
   display: grid;
   grid-template-columns: auto auto auto;
   grid-column-gap: 15px;
   overflow: auto;
-
-  @media(max-width:768px) {
-    grid-column-gap: 10px;
-  }
 }
 
 .animText {
   color: var(--lGreen);
   text-shadow: 4px 4px var(--red);
   animation: hlmTextRotate 8s infinite, hlmTextShadow 5s linear infinite;
+}
+
+details p {
+  margin-left: 30px;
+  color: var(--lGreen);
+  cursor: default;
+}
+
+details details summary {
+  font-size: 28px;
+}
+
+/* mobile rules */
+@media(max-width:786px) {
+
+  h1,
+  h2,
+  h3 {
+    text-align: center;
+  }
+
+  details {
+    margin: 50px auto;
+    width: 90%;
+  }
+
+  .screenshot-grid {
+    grid-column-gap: 10px;
+  }
+
+  h1,
+  h2,
+  h3,
+  summary {
+    width: initial;
+  }
+
+  .site-content nav {
+    margin: 0 8px;
+  }
+
+  button {
+    margin: 20px 8px;
+  }
+
+  p,
+  i {
+    padding: 0 10px;
+  }
+
+  details p {
+    margin-left: 0px;
+  }
+
 }
 
 @keyframes hlmTextShadow {

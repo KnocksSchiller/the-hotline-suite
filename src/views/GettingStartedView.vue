@@ -76,31 +76,7 @@ export default {
 </script>
 
 <style scoped>
-details {
-    @media(min-width: 768px) {
-        margin: 24px 0;
-    }
-}
-
-details details summary {
-    font-size: 28px;
-
-    @media(min-width: 768px) {
-        margin-left: 32px;
-    }
-
-}
-
 p {
     margin-left: 8px;
-}
-
-details p {
-    margin-left: 30px;
-    color: var(--lGreen);
-
-    @media(max-width:768px) {
-        margin-left: 0px;
-    }
 }
 </style>

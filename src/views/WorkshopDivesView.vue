@@ -12,7 +12,7 @@
         </ul>
         <i>{{ textsections[15].extraContent[1] }}</i>
         <p>{{ textsections[15].extraContent[2] }}</p>
-        <ChapterText v-for="dive in dives.slice().reverse()":mobile="mobile" :text="dive"/>
+        <ChapterText v-for="dive in dives.slice().reverse()" :mobile="mobile" :text="dive" />
     </div>
 </template>
 

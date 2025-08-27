@@ -24,11 +24,6 @@ div {
     grid-column-gap: 50px;
     width: max-content;
     margin: auto;
-
-    @media(max-width:768px) {
-        grid-template-columns: auto;
-        grid-row-gap: 30px;
-    }
 }
 
 a {
@@ -42,24 +37,12 @@ a {
     justify-content: flex-end;
     padding: 0;
     z-index: 0;
-
-    @media(max-width:768px) {
-        height: 200px;
-        background: linear-gradient(var(--bg), var(--green), var(--green), var(--green));
-        flex-direction: column-reverse;
-    }
-
 }
 
 h3 {
     transition: all .5s;
     text-shadow: 0px 4px var(--bg);
     margin: 1em auto;
-
-    @media (max-width: 768px) {
-        color: var(--lGreen);
-        text-shadow: 4px 4px var(--red);
-    }
 }
 
 p {
@@ -67,10 +50,6 @@ p {
     opacity: 0;
     text-shadow: 4px 4px var(--bg);
     margin: 0;
-
-    @media(max-width: 768px) {
-        opacity: 1;
-    }
 }
 
 a:hover {
@@ -97,5 +76,22 @@ img {
 
 a:hover img {
     opacity: 0;
+}
+
+@media(max-width:768px) {
+    div {
+        grid-template-columns: auto;
+        grid-row-gap: 30px;
+    }
+
+    a {
+        height: 200px;
+        background: linear-gradient(var(--bg), var(--green), var(--green), var(--green));
+        flex-direction: column-reverse;
+    }
+
+    p {
+        opacity: 1;
+    }
 }
 </style>

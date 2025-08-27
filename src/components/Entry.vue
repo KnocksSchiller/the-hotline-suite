@@ -17,7 +17,7 @@
     <p v-for="e in entry.contents">{{ e }}</p>
     <template v-if="this.isDownload">
         <button @click="downloadFile(entry.link, entry.title)">Download</button> <i>{{ entry.title }}.zip ({{ entry.size
-        }} MB)</i>
+            }} MB)</i>
     </template>
 </template>
 
@@ -73,12 +73,6 @@ span {
     display: flex;
     justify-content: space-between;
     align-items: center;
-
-    @media(max-width:768px) {
-        flex-direction: column;
-        align-items: flex-start;
-        margin: 0 10px;
-    }
 }
 
 p {
@@ -90,24 +84,7 @@ p {
     grid-template-columns: 60% 40%;
     grid-column-gap: 30px;
     margin: 20px 0 40px;
-
-    @media(max-width:768px) {
-        grid-template-columns: auto;
-        grid-row-gap: 20px;
-        width: 95%;
-        margin: auto;
-    }
 }
-
-/* .screenshot-grid {
-    display: grid;
-    grid-template-columns: auto auto auto;
-    grid-column-gap: 15px;
-
-    @media(max-width:768px) {
-        grid-column-gap: 10px;
-    }
-} */
 
 img[aria-selected=true] {
     border: 2px solid var(--lGreen);
@@ -119,13 +96,28 @@ img[aria-selected=false] {
 
 h2 {
     text-align: left;
-
-    @media(max-width:768px) {
-        margin-left: 10px;
-    }
 }
 
 i {
     margin-left: 8px;
+}
+
+@media(max-width:768px) {
+    span {
+        flex-direction: column;
+        align-items: flex-start;
+        margin: 0 10px;
+    }
+
+    h2 {
+        margin-left: 10px;
+    }
+
+    .imgGrid {
+        grid-template-columns: auto;
+        grid-row-gap: 20px;
+        width: 95%;
+        margin: auto;
+    }
 }
 </style>

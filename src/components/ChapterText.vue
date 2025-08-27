@@ -19,12 +19,6 @@ h2 {
     font-family: "Retro-Computer";
 }
 
-a {
-    @media(max-width: 768px) {
-        padding: 0 10px;
-    }
-}
-
 .screenshot-flex {
     display: flex;
     overflow: auto;
@@ -34,9 +28,15 @@ a {
 
 .screenshot-flex img {
     min-width: 33%;
+}
 
-    @media(max-width: 768px) {
+@media(max-width: 768px) {
+    .screenshot-flex img {
         min-width: 90%;
+    }
+
+    a {
+        padding: 0 10px;
     }
 }
 </style>

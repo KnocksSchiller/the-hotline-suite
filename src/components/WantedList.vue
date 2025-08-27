@@ -27,8 +27,10 @@ ul>li {
 
 nav {
     max-width: 100%;
+}
 
-    @media(max-width:768px) {
+@media(max-width:768px) {
+    nav {
         max-height: 350px;
         overflow: auto;
     }

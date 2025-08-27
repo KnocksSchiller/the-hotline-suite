@@ -21,17 +21,6 @@ export default {
 </script>
 
 <style scoped>
-p,
-ul>li {
-    margin-left: 30px;
-    color: var(--lGreen);
-    cursor: default;
-
-    @media(max-width:768px) {
-        margin-left: 0px;
-    }
-}
-
 ul {
     margin-left: 30px;
 }

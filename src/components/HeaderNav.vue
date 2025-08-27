@@ -48,9 +48,6 @@ header {
 header img {
   max-height: 100px;
 
-  @media(max-width:750px) {
-    max-height: 75px;
-  }
 }
 
 .grid1 {
@@ -120,5 +117,11 @@ nav a:hover {
 .mobile-nav-enter-to,
 .mobile-nav-leave-from {
   transform: translateX(0)
+}
+
+@media(max-width:768px) {
+  header img {
+    max-height: 75px;
+  }
 }
 </style>

@@ -4,8 +4,9 @@
         <p> This page teaches you about the ins and outs of <a class="animText">Hotline modding </a>and how to get into
             it. </p>
         <p><a class="animText">Note:</a> This page mainly revolves around <a class="animText">Hotline Miami 2's Level
-                Editor</a> and the workshop around it. <br>For <a class="animText">modding Hotline Miami</a> (1), see <a
-                target="_self" :href="CatHlm1.to" class="animText">{{ CatHlm1.title }}</a>.</p>
+                Editor</a> and the workshop around it. <br>For <a class="animText">modding Hotline Miami</a> (1), see
+            <router-link :to="CatHlm1.to" class="animText">{{ CatHlm1.title }}</router-link>.
+        </p>
         <p>The following chapters of this page go as followed:</p>
         <nav>
             <ol>
@@ -76,6 +77,10 @@ export default {
 </script>
 
 <style scoped>
+a[href] {
+    text-decoration: underline;
+}
+
 p {
     margin-left: 8px;
 }

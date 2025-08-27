@@ -176,10 +176,6 @@ button:hover {
   transform: scale(1.1);
 }
 
-a[target] {
-  text-decoration: underline;
-}
-
 .screenshot-grid {
   display: grid;
   grid-template-columns: auto auto auto;

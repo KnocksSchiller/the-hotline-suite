@@ -10,7 +10,7 @@
             quality. We do not stand by the messages of any of the archive's entries and save them solely for
             preservation purposes.
         </p>
-        <SortedNavEntries :mobile="mobile" , :list="lfentries" />
+        <SortedNavEntries :mobile="mobile" , :list="lfentries" :isDownload="true"/>
         <FoldingText v-for="text in sortedLfFaq" :mobile="mobile" :text="text" />
         <WantedList :mobile="mobile" :list="textsections[14]" />
     </div>

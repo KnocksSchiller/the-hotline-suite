@@ -31,14 +31,13 @@ jobs:
           mkdir -p dist/the-hotline-suite
           find dist -mindepth 1 -maxdepth 1 \
           ! -name 'index.html' \
-          ! -name 'lfScreenshots' \
-          ! -name 'hlmLikesScreenshots' \
+          ! -name 'screenshots' \
           -exec mv {} dist/the-hotline-suite/ \;
 
       - name: Sync to S3
         uses: jakejarvis/s3-sync-action@v0.5.1
         with:
-          args: --delete --exclude "the-hotline-suite/lost-and-found-entries/*"
+          args: --delete --exclude "the-hotline-suite/lost-and-found-entries/*" "the-hotline-suite/hlm1-mods"
         env:
           AWS_S3_BUCKET: ${{ secrets.S3_BUCKET_NAME }}
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}

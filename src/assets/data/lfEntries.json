@@ -8,17 +8,17 @@
             "A campaign in the likes of Half-Life's infamous mod \"Crack-Life\". It comes with a single level, that tells the player to play the vanilla game of HLM2 with the mods installed. What's the worst thing that could happen?"
         ],
         "images": [
-            "/lfScreenshots/Crackline Uganda/0-thumbnail.png",
-            "/lfScreenshots/Crackline Uganda/1-miami-falls-2.jpeg",
-            "/lfScreenshots/Crackline Uganda/2-portal-escape.jpeg",
-            "/lfScreenshots/Crackline Uganda/3-squeal.jpeg",
-            "/lfScreenshots/Crackline Uganda/4-wild-thing-1.jpeg",
-            "/lfScreenshots/Crackline Uganda/5-twitch.jpeg",
-            "/lfScreenshots/Crackline Uganda/8-portal-escape - Kopie.jpeg",
-            "/lfScreenshots/Crackline Uganda/9-squeal - Kopie.jpeg",
-            "/lfScreenshots/Crackline Uganda/10-wild-thing-1 - Kopie.jpeg",
-            "/lfScreenshots/Crackline Uganda/11-miami-falls-2 - Kopie.jpeg",
-            "/lfScreenshots/Crackline Uganda/12-twitch - Kopie.jpeg"
+            "/screenshots/lost-and-found/Crackline Uganda/0-thumbnail.png",
+            "/screenshots/lost-and-found/Crackline Uganda/1-miami-falls-2.jpeg",
+            "/screenshots/lost-and-found/Crackline Uganda/2-portal-escape.jpeg",
+            "/screenshots/lost-and-found/Crackline Uganda/3-squeal.jpeg",
+            "/screenshots/lost-and-found/Crackline Uganda/4-wild-thing-1.jpeg",
+            "/screenshots/lost-and-found/Crackline Uganda/5-twitch.jpeg",
+            "/screenshots/lost-and-found/Crackline Uganda/8-portal-escape - Kopie.jpeg",
+            "/screenshots/lost-and-found/Crackline Uganda/9-squeal - Kopie.jpeg",
+            "/screenshots/lost-and-found/Crackline Uganda/10-wild-thing-1 - Kopie.jpeg",
+            "/screenshots/lost-and-found/Crackline Uganda/11-miami-falls-2 - Kopie.jpeg",
+            "/screenshots/lost-and-found/Crackline Uganda/12-twitch - Kopie.jpeg"
         ],
         "link": "lost-and-found-entries/Crackline Uganda.zip",
         "size": 250
@@ -52,9 +52,9 @@
         "date": "unknown",
         "contents": [],
         "images": [
-            "/lfScreenshots/Chopped/0-miami-falls-2.jpeg",
-            "/lfScreenshots/Chopped/1-twitch.jpeg",
-            "/lfScreenshots/Chopped/2-wild-thing-1.jpeg"
+            "/screenshots/lost-and-found/Chopped/0-miami-falls-2.jpeg",
+            "/screenshots/lost-and-found/Chopped/1-twitch.jpeg",
+            "/screenshots/lost-and-found/Chopped/2-wild-thing-1.jpeg"
         ],
         "link": "lost-and-found-entries/CHOPPED.zip",
         "size": 0.23

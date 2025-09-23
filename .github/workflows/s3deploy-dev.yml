@@ -1,0 +1,46 @@
+name: Build and Deploy to S3 Dev
+
+on:
+  push:
+    branches:
+      - dev
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'  # Adjust to your Node.js version
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build project
+        run: npm run build
+
+      - name: Restructure build output for S3
+        run: |
+          mkdir -p dist/the-hotline-suite
+          find dist -mindepth 1 -maxdepth 1 \
+          ! -name 'index.html' \
+          ! -name 'screenshots' \
+          -exec mv {} dist/the-hotline-suite/ \;
+
+      - name: Sync to S3
+        uses: jakejarvis/s3-sync-action@v0.5.1
+        with:
+          args: --delete --exclude "the-hotline-suite/lost-and-found-entries/*" --exclude "the-hotline-suite/hlm1-mods/*"
+        env:
+          AWS_S3_BUCKET: ${{ secrets.S3_DEV_BUCKET_NAME }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: ${{ secrets.AWS_REGION }}
+          SOURCE_DIR: dist

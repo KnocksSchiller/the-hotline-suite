@@ -7,7 +7,7 @@
         </ul>
     </nav>
     <button @click="randomizeCurrentEntry()">Randomize</button>
-    <Entry :isDownload="isDownload" :mobile="mobile" :entry="list[this.currentEntry]" />
+    <Entry :isDownload="isDownload" :mobile="mobile" :entry="list[this.currentEntry]"/>
 </template>
 
 <script>
@@ -24,7 +24,7 @@ export default {
     props: ['mobile', 'list', 'isDownload'],
     created() {
         this.randomizeCurrentEntry()
-    },
+    }, 
     methods: {
         randomizeCurrentEntry() {
             this.currentEntry = Math.floor(Math.random() * this.list.length)

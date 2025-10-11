@@ -179,7 +179,7 @@ button:hover {
 .screenshot-grid {
   display: grid;
   grid-template-columns: auto auto auto;
-  grid-column-gap: 15px;
+  gap: 10px 15px
 }
 
 .underline {
@@ -219,10 +219,11 @@ details details summary {
   .screenshot-grid {
     display: flex; 
     overflow: auto;
+    gap: 0 8px;
   }
 
   .screenshot-grid img {
-    max-width: 33%;
+    max-width: 40%;
   }
 
   h1,

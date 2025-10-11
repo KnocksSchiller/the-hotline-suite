@@ -84,14 +84,17 @@ p {
     grid-template-columns: 60% 40%;
     grid-column-gap: 30px;
     margin: 20px 0 40px;
+    align-items: start;
 }
 
 img[aria-selected=true] {
     border: 2px solid var(--lGreen);
+    box-sizing: border-box;
 }
 
 img[aria-selected=false] {
-    border: 2px solid black;
+    border: 2px solid var(--bg);
+    box-sizing: border-box;
 }
 
 h2 {

@@ -40,8 +40,18 @@
         "title": "2k Act 1",
         "author": "Janja",
         "date": "unknown",
-        "contents": [],
-        "images": [],
+        "contents": [
+            "A single level by janja, starring Evan who invades an office complex of some sort.",
+            "A noticable feature of this level is the rather cryptic dialogue being l33t-speak Russian (don't know how else to describe it). That and an amazing animation of a car crashing into the building similar to the second boss of the original Hotline Miami."
+        ],
+        "images": [
+            "/screenshots/lost-and-found/2k Act 1/20251011214512_1.jpg",
+            "/screenshots/lost-and-found/2k Act 1/20251011214556_1.jpg",
+            "/screenshots/lost-and-found/2k Act 1/20251011214559_1.jpg",
+            "/screenshots/lost-and-found/2k Act 1/20251011214713_1.jpg",
+            "/screenshots/lost-and-found/2k Act 1/20251011214724_1.jpg",
+            "/screenshots/lost-and-found/2k Act 1/20251011214827_1.jpg"
+        ],
         "link": "lost-and-found-entries/2K Act 1.zip",
         "size": 0.31
     },

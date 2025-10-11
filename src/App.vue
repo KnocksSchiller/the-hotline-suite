@@ -37,7 +37,13 @@ export default {
     toggleSidebar() {
       this.mobileNav = !this.mobileNav
     }
-  }
+  },
+  // Scroll to the top whenever the route changes
+  watch: {
+    $route(to, from) {
+      window.scrollTo(0, 0)
+    }
+  },
 }
 </script>
 
@@ -217,7 +223,7 @@ details details summary {
   }
 
   .screenshot-grid {
-    display: flex; 
+    display: flex;
     overflow: auto;
     gap: 0 8px;
   }

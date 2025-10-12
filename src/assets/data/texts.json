@@ -111,14 +111,15 @@
     {
         "name": "11 LostAndFound, Q2",
         "title": "How do I play those Lost Entries?",
-        "content": "Unlike public entries, that you can simply subscribe to via the Steam Workshop, those entries need to be downloaded manually and added to your local levels and campaigns folder. Usually you can find them here:",
+        "content": "Unlike public entries, that you can simply subscribe to via the Steam Workshop, those entries need to be downloaded manually and added to your local levels and campaigns folder. Usually you can find them here (on Windows):",
         "images": [
             "",
             "",
             ""
         ],
         "extraContent": [
-            "",
+            "On Linux:",
+            "On Mac:",
             "Simply put the level or campaign folder in either of the two folders and add the given patchwads (if there are any) into the global \"mods\" folder."
         ]
     },

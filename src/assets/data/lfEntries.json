@@ -7,19 +7,7 @@
         "contents": [
             "A campaign in the likes of Half-Life's infamous mod \"Crack-Life\". It comes with a single level, that tells the player to play the vanilla game of HLM2 with the mods installed. What's the worst thing that could happen?"
         ],
-        "images": [
-            "/screenshots/lost-and-found/Crackline Uganda/0-thumbnail.png",
-            "/screenshots/lost-and-found/Crackline Uganda/1-miami-falls-2.jpeg",
-            "/screenshots/lost-and-found/Crackline Uganda/2-portal-escape.jpeg",
-            "/screenshots/lost-and-found/Crackline Uganda/3-squeal.jpeg",
-            "/screenshots/lost-and-found/Crackline Uganda/4-wild-thing-1.jpeg",
-            "/screenshots/lost-and-found/Crackline Uganda/5-twitch.jpeg",
-            "/screenshots/lost-and-found/Crackline Uganda/8-portal-escape - Kopie.jpeg",
-            "/screenshots/lost-and-found/Crackline Uganda/9-squeal - Kopie.jpeg",
-            "/screenshots/lost-and-found/Crackline Uganda/10-wild-thing-1 - Kopie.jpeg",
-            "/screenshots/lost-and-found/Crackline Uganda/11-miami-falls-2 - Kopie.jpeg",
-            "/screenshots/lost-and-found/Crackline Uganda/12-twitch - Kopie.jpeg"
-        ],
+        "images": [],
         "link": "lost-and-found-entries/Crackline Uganda.zip",
         "size": 250
     },
@@ -125,14 +113,37 @@
             "A single level heavily inspired by Hotline Miami 2's \"No Mercy\", starring Corey."
         ],
         "images": [
-            "/screenshots/lost-and-found/2k Act 2/20251011232159_1.jpg",
-            "/screenshots/lost-and-found/2k Act 2/20251011232214_1.jpg",
-            "/screenshots/lost-and-found/2k Act 2/20251011232235_1.jpg",
-            "/screenshots/lost-and-found/2k Act 2/20251011232406_1.jpg",
-            "/screenshots/lost-and-found/2k Act 2/20251011232435_1.jpg",
-            "/screenshots/lost-and-found/2k Act 2/20251011232451_1.jpg"
+            "/screenshots/lost-and-found/2k Act 1 part 2/20251011232159_1.jpg",
+            "/screenshots/lost-and-found/2k Act 1 part 2/20251011232214_1.jpg",
+            "/screenshots/lost-and-found/2k Act 1 part 2/20251011232235_1.jpg",
+            "/screenshots/lost-and-found/2k Act 1 part 2/20251011232406_1.jpg",
+            "/screenshots/lost-and-found/2k Act 1 part 2/20251011232435_1.jpg",
+            "/screenshots/lost-and-found/2k Act 1 part 2/20251011232451_1.jpg"
         ],
         "link": "lost-and-found-entries/2k Act 1 Part 2.zip",
         "size": 0.49
+    },
+    {
+        "id": 7,
+        "title": "2k Act 2 (Eng)",
+        "author": "Janja",
+        "date": "unknown",
+        "contents": [
+            "A 5-level long campaign about \"Sanja\", a prisoner and the warden \"Sergei\", trying to get a hold of their life during the many riots of the facilty. We hope you like psycho prisoners.",
+            "Judging by the grammar of this campaign, it was originally in Russian and then roughly translated to English. It's a bit of a hard read, but it should be understandable with enough effort.",
+            "It's possible, that the last level's last cutscene bugs out and sends you back to the first floor instead of sending you to the score screen. Should that happen to you, we provided the outro of the last level as a compromise so that you don't have to replay the level all over again."
+        ],
+        "images": [
+            "/screenshots/lost-and-found/2k Act 2/20251012205401_1.jpg",
+            "/screenshots/lost-and-found/2k Act 2/20251012210155_1.jpg",
+            "/screenshots/lost-and-found/2k Act 2/20251012212554_1.jpg",
+            "/screenshots/lost-and-found/2k Act 2/20251012211411_1.jpg",
+            "/screenshots/lost-and-found/2k Act 2/20251012212601_1.jpg",
+            "/screenshots/lost-and-found/2k Act 2/20251012211813_1.jpg",
+            "/screenshots/lost-and-found/2k Act 2/20251012213441_1.jpg",
+            "/screenshots/lost-and-found/2k Act 2/20251012214303_1.jpg"
+        ],
+        "link": "lost-and-found-entries/2k Act 2.zip",
+        "size": 1.18
     }
 ]

@@ -17,19 +17,25 @@ This website uses the VueJS framework and is hosted by AWS in two S3 buckets, on
 "Lost & Found" entries are stored as a .zip file in a separate folder inside the S3 bucket(s) to keep the repository's size as small as possible. Each entry is added manually into the bucket's folder after being thoroughly checked by the maintainer.
 
 ## For contributers or those interested. 
+If you're new to coding consider installing *node.js* into your device first. After that you pull this project by typing
+```
+git clone https://github.com/KnocksSchiller/the-hotline-suite.git
+```
+in an empty folder using either Cmd, Git Bash, Powershell, Cygwin, etc. (whatever works on your device).
+This creates a local version of this project in your system, which is also connected to this Git repository.
 
 ### Project setup
-
-If you're new to coding consider installing node.js into your device first. Then pull this project and type
+Once you open your IDE / text editor (I prefer Visual Studio Code for this), type in
 ```
 npm install / npm ci
 ```
-into your IDE / text editor's terminal.
+into the terminal. This will install all the libraries you need to run this project.
 
-### Compiles and hot-reloads for development
+### Test the website locally
+Typing
 ```
 npm run serve
 ```
-creates a local build of your website, which you can view both on PC and on phone, if it's connected to the same network as you desktop environment. With this build you can test your changes without having to push your changes into the repository first.
+into the terminal creates a local build of the project, which you can view in your browser of choice, both on PC and on phone. With this build you can test your changes locally without having to bother the team.
 
 ## 

@@ -1,7 +1,7 @@
 <template>
   <footer>
     <article>
-      <p><a class="animText">Made by:</a> Knocks Schiller and the fellow contributors. <br><a
+      <p><a class="animText">Made by:</a> Knocks Schiller and <a class="animText underline" target="_blank" href="https://github.com/KnocksSchiller/the-hotline-suite/tree/main?tab=readme-ov-file#the-fellow-contributors">the fellow contributors.</a> <br><a
           class="animText"> Runs with:</a> Vue.js, Hosted on AWS.</p>
       <p><a class="animText">Email:</a> knocks.schiller @ tutanota.com <br>(or write a Discord message to
         knocksschiller)

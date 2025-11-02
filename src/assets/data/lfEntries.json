@@ -145,5 +145,87 @@
         ],
         "link": "lost-and-found-entries/2k Act 2.zip",
         "size": 1.18
+    },
+    {
+        "id": 8,
+        "title": "Cleaning",
+        "author": "Janja",
+        "date": "unknown",
+        "contents": [
+            "A 1-level campaign where the fans plan their next raid into a headquaters full of Russian mobsters. A nice level with the player chararcter switching to one of the fans every 2 floors (excluding Mark) and a very pretty layout.",
+            "The intro is in Russian. If you want to see the actual text appearing, then change the game's language to Russian."
+        ],
+        "images": [
+            "/screenshots/lost-and-found/Cleaning/20251014233100_1.jpg",
+            "/screenshots/lost-and-found/Cleaning/20251014233147_1.jpg",
+            "/screenshots/lost-and-found/Cleaning/20251014233246_1.jpg",
+            "/screenshots/lost-and-found/Cleaning/20251014233309_1.jpg",
+            "/screenshots/lost-and-found/Cleaning/20251014233325_1.jpg",
+            "/screenshots/lost-and-found/Cleaning/20251014233342_1.jpg",
+            "/screenshots/lost-and-found/Cleaning/20251014233441_1.jpg",
+            "/screenshots/lost-and-found/Cleaning/20251014233515_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Cleaning.zip",
+        "size": 0.06
+    },
+        {
+        "id": 9,
+        "title": "Dead Calls 2",
+        "author": "Janja",
+        "date": "unknown",
+        "contents": [
+            "A 6-level campaign, which is a compilation of Martin, Corey and Richter levels with an easy to follow plot for each character, including a refined version of \"2k Act 1 Part 2\".",
+            "The plot is in Russian. If you want to see the actual text appearing, then change the game's language to Russian."
+        ],
+        "images": [
+            "/screenshots/lost-and-found/Dead Calls 2/20251015000322_1.jpg",
+            "/screenshots/lost-and-found/Dead Calls 2/20251015000422_1.jpg",
+            "/screenshots/lost-and-found/Dead Calls 2/20251015000554_1.jpg",
+            "/screenshots/lost-and-found/Dead Calls 2/20251015000755_1.jpg",
+            "/screenshots/lost-and-found/Dead Calls 2/20251015001011_1.jpg",
+            "/screenshots/lost-and-found/Dead Calls 2/20251015001848_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Dead Calls 2.zip",
+        "size": 0.66
+    },
+        {
+        "id": 10,
+        "title": "Deadly Trick",
+        "author": "Janja",
+        "date": "unknown",
+        "contents": [
+            "A 1-level campaign about a SWAT team storming a mansion, that has a ticking bomb deep inside. Apart from the visually stunning intro, the main attraction of this level is the bomb being an actual threat throughout the level, that will blow up the whole floor if you're not fast enough. Can you make it to the last floor and defuse the bomb in time?",
+            "To see the full dialogue, set the game's language to Russian so that the lines won't go over the screen."
+        ],
+        "images": [
+            "/screenshots/lost-and-found/Deadly Trick/20251016225115_1.jpg",
+            "/screenshots/lost-and-found/Deadly Trick/20251016225151_1.jpg",
+            "/screenshots/lost-and-found/Deadly Trick/20251016225459_1.jpg",
+            "/screenshots/lost-and-found/Deadly Trick/20251016225612_1.jpg",
+            "/screenshots/lost-and-found/Deadly Trick/20251016230259_1.jpg",
+            "/screenshots/lost-and-found/Deadly Trick/20251016225652_1.jpg",
+            "/screenshots/lost-and-found/Deadly Trick/20251016230031_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Deadly Trick.zip",
+        "size": 0.46
+      },
+        {
+        "id": 11,
+        "title": "Hot Arrival",
+        "author": "Janja",
+        "date": "unknown",
+        "contents": [
+            "A 1-level campaign about the Son invading a Colombian hideout, similar to \"Death Wish\" from the main game, changing the playable character from the Henchman, Sasha (Pardo reskin) and the Son himself."
+        ],
+        "images": [
+            "/screenshots/lost-and-found/Hot Arrival/20251016232033_1.jpg",
+            "/screenshots/lost-and-found/Hot Arrival/20251016232132_1.jpg",
+            "/screenshots/lost-and-found/Hot Arrival/20251016232257_1.jpg",
+            "/screenshots/lost-and-found/Hot Arrival/20251016232431_1.jpg",
+            "/screenshots/lost-and-found/Hot Arrival/20251016232607_1.jpg",
+            "/screenshots/lost-and-found/Hot Arrival/20251016233031_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Hot Arrival.zip",
+        "size": 0.47
     }
 ]

@@ -6,7 +6,7 @@
       <p><a class="animText">Email:</a> knocks.schiller @ tutanota.com <br>(or write a Discord message to
         knocksschiller)
       </p>
-      <p><a class="animText">Fonts used:</a> Retro Computer by xxx, Justice by yyy, Winter Prime by zzz and Shogun's Clan by iii</p>
+      <p><a class="animText">Fonts used:</a> Retro Computer by xxx, Justice by Iconian Fonts, Winter Prime by Khurasan and Shogun's Clan by Christopher Hansen</p>
     </article>
   </footer>
 </template>

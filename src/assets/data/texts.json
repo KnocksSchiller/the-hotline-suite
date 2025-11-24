@@ -125,8 +125,8 @@
     },
     {
         "name": "12 LostAndFound, Q3",
-        "title": "Is this save? How do I know there aren't any viruses?",
-        "content": "Yes, it's save. We test each entry for ourselves and check the given folder for any malicious content before adding them to this archive.",
+        "title": "Is this safe? How do I know there aren't any viruses?",
+        "content": "Yes, it's safe. We test each entry for ourselves and check the given folder for any malicious content before adding them to this archive.",
         "extraContent": [
             "Please contact us immediately should there be an oversight on our behalf."
         ]

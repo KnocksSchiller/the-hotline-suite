@@ -113,14 +113,14 @@
         "title": "How do I play those Lost Entries?",
         "content": "Unlike public entries, that you can simply subscribe to via the Steam Workshop, those entries need to be downloaded manually and added to your local levels and campaigns folder. Usually you can find them here (on Windows):",
         "images": [
-            "",
-            "",
+            "/screenshots/lost-and-found/non-entries/level-folder-windows.png",
+            "/screenshots/lost-and-found/non-entries/level-folder-linux.png",
             ""
         ],
         "extraContent": [
             "On Linux:",
             "On Mac:",
-            "Simply put the level or campaign folder in either of the two folders and add the given patchwads (if there are any) into the global \"mods\" folder."
+            "Simply put the level or campaign folder in either of the two folders and add the given patchwads (if there are any) into the global \"mods\" folder. If you don't have either of those folders on that location, simply create them with their given name from the screenshots."
         ]
     },
     {
@@ -154,8 +154,6 @@
             "Politics 1",
             "Psychokinesis",
             "Serial Killers of Miami",
-            "Deep Red: Redux",
-            "Workshop War",
             "Fandom Adventures: Part 1",
             "Animal Control",
             "Send Help",
@@ -171,16 +169,14 @@
             "Part 3 of the Coomtaker Saga, which was removed by Steam for having a Mega link, which they deemed suspicious enough.",
             "2-level campaign from ~2020 / 21, in which you play as a guy raiding a secret lab. Second level features him obtaining a laser weapon, which he uses against the lab wardens. Once streamed by TheLegoMack on YouTube.",
             "A campaign made around 2020 by \"society dog\", where you play as a man struggling with his psyche after going through the horrors of the vietnam war. Its prequel \"Dark Past\" is still publicly available.",
-            "SuitedFox's infamous campaign, starring Jake Coalis, who's trying to get his revenge on those who tried to murder him. Made around 2016.",
-            "Another one of Suitedfox's infamous entries, in which Jake Coalis, the protagonist of Deep Red: Redux tries to get his revenge on those, who ridiculed Suitedfox and his behaviour within the modding community.",
-            "Atlan's infamous shitpost / comedy campaign, which follows the story of Pardo and his friends ridiculing plenty of fandoms such as Undertale, uhmmm help me out on this one...",
+            "Atlan's infamous shitpost / comedy campaign, which follows the story of Pardo and his friends ridiculing other communities such as furries, feminists / sjws, hardcore 50b roleplayers and more.",
             "A series of two campaigns (I think), which follows the story of the henchman eradicating the furry community for its mere existence.",
             "A single level that looks like Minecraft. You play as Herobrine killing Gang members and find diamonds on the last floor, leading to a quite humorous cutscene. Once shown in one of the \"Hotline Editor was a mistake\" videos.",
             "A single level, which was an entry of The Workshop Labs' \"Vinyl Violence\" event, where you play as a man in a hockey mask clearing out a redneck-ish hideout. Noticable was the song picked, which was a Russian metal song, promoting the KKK and white genocide.",
             "A series of 3 or 4 campaigns parodying the Metal Gear Solid franchise, starring Manny Pardo as Solid Snake. Noticable are the very lengthy cutscenes.",
             "Title may be different. Campaign made around 2020 about two biker brothers in their 40s or 50s killing Russians. Mostly humurous and in good nature.",
-            "50 Blessings campaign set in Italy, featuring two operators, one wearing a fox mask and the other wearing an aligator mask.",
-            "Puzzlebox's infamous campaign similar to \"Naked Corey Porno\", making a comedic campaign about Alex deciding to not wear any clothes. Taken down by Steam for some time without any backup by Puzzlebox themself. Was streamed by TheLegoMack some time ago, when it came out around 2020."
+            "50 Blessings campaign set in Italy, featuring two operators, one wearing a fox mask and the other wearing an aligator mask. Streaned by TheHolddoor around 2020.",
+            "Puzzlebox's comedy campaign similar to \"Naked Corey Porno\", which is about Alex deciding to not wear any clothes. Taken down by Steam for some time ago with no backup saved. Was streamed by TheLegoMack some time ago, when it came out around 2020."
         ]
     },
     {

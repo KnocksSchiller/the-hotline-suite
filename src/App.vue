@@ -199,13 +199,16 @@ button:hover {
 }
 
 details p {
-  margin-left: 30px;
   color: var(--lGreen);
   cursor: default;
 }
 
 details details summary {
   font-size: 28px;
+}
+
+details img, details p {
+  margin-left: 30px;
 }
 
 /* mobile rules */
@@ -252,7 +255,7 @@ details details summary {
     padding: 0 10px;
   }
 
-  details p {
+  details img, details p {
     margin-left: 0px;
   }
 

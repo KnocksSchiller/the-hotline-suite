@@ -168,7 +168,7 @@
         "link": "lost-and-found-entries/Cleaning.zip",
         "size": 0.06
     },
-        {
+    {
         "id": 9,
         "title": "Dead Calls 2",
         "author": "Janja",
@@ -188,7 +188,7 @@
         "link": "lost-and-found-entries/Dead Calls 2.zip",
         "size": 0.66
     },
-        {
+    {
         "id": 10,
         "title": "Deadly Trick",
         "author": "Janja",
@@ -208,8 +208,8 @@
         ],
         "link": "lost-and-found-entries/Deadly Trick.zip",
         "size": 0.46
-      },
-        {
+    },
+    {
         "id": 11,
         "title": "Hot Arrival",
         "author": "Janja",
@@ -227,5 +227,39 @@
         ],
         "link": "lost-and-found-entries/Hot Arrival.zip",
         "size": 0.47
+    },
+    {
+        "id": 12,
+        "title": "Deep Red Redux",
+        "author": "SuitedFox",
+        "date": "20th March 2017",
+        "contents": [
+            "SuitedFox's infamous campaign, starring Jake Coalis, who's trying to get his revenge on those who tried to murder him."
+        ],
+        "images": [
+            "/screenshots/lost-and-found/Deep Red Redux/274170_20251208161404_1.png",
+            "/screenshots/lost-and-found/Deep Red Redux/274170_20251208161626_1.png",
+            "/screenshots/lost-and-found/Deep Red Redux/274170_20251208162323_1.png",
+            "/screenshots/lost-and-found/Deep Red Redux/274170_20251208170737_1.png"
+        ],
+        "link": "lost-and-found-entries/Deep Red Redux.zip",
+        "size": 0
+    },
+    {
+        "id": 13,
+        "title": "Workshop War",
+        "author": "SuitedFox",
+        "date": "30th April 2017",
+        "contents": [
+            "Another one of Suitedfox's infamous entries, in which Jake Coalis, the protagonist of Deep Red: Redux tries to get his revenge on those, who ridiculed Suitedfox and his behaviour within the modding community."
+        ],
+        "images": [
+            "/screenshots/lost-and-found/Workshop War/274170_20251208175839_1.png",
+            "/screenshots/lost-and-found/Workshop War/274170_20251208182847_1.png",
+            "/screenshots/lost-and-found/Workshop War/274170_20251208183304_1.png",
+            "/screenshots/lost-and-found/Workshop War/274170_20251208190839_1.png"
+        ],
+        "link": "lost-and-found-entries/Deep Red Redux.zip",
+        "size": 0
     }
 ]

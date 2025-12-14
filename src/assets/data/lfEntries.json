@@ -234,16 +234,19 @@
         "author": "SuitedFox",
         "date": "20th March 2017",
         "contents": [
-            "SuitedFox's infamous campaign, starring Jake Coalis, who's trying to get his revenge on those who tried to murder him."
+            "SuitedFox's infamous 13-level long campaign, starring Jake Coalis, who's trying to get his revenge on those who tried to murder him.",
+            "Includes a music mod featuring various synthwave artists and custom weapon sounds."
         ],
         "images": [
             "/screenshots/lost-and-found/Deep Red Redux/274170_20251208161404_1.png",
             "/screenshots/lost-and-found/Deep Red Redux/274170_20251208161626_1.png",
-            "/screenshots/lost-and-found/Deep Red Redux/274170_20251208162323_1.png",
-            "/screenshots/lost-and-found/Deep Red Redux/274170_20251208170737_1.png"
+            "/screenshots/lost-and-found/Deep Red Redux/20251212201703_1.jpg",
+            "/screenshots/lost-and-found/Deep Red Redux/274170_20251208170737_1.png",
+            "/screenshots/lost-and-found/Deep Red Redux/20251212205100_1.jpg",
+            "/screenshots/lost-and-found/Deep Red Redux/274170_20251208162323_1.png"
         ],
         "link": "lost-and-found-entries/Deep Red Redux.zip",
-        "size": 0
+        "size": 380
     },
     {
         "id": 13,
@@ -251,7 +254,8 @@
         "author": "SuitedFox",
         "date": "30th April 2017",
         "contents": [
-            "Another one of Suitedfox's infamous entries, in which Jake Coalis, the protagonist of Deep Red: Redux tries to get his revenge on those, who ridiculed Suitedfox and his behaviour within the modding community."
+            "A 12-level long campaign, in which Jake Coalis, or rather his author Suitedfox, go on an adventure to save the Hotline Miami 2 modding scene from the never ending wave of pardo shitposts.",
+            "Like Deep Red Redux, this one also comes with a music mod and custom weapon sounds."
         ],
         "images": [
             "/screenshots/lost-and-found/Workshop War/274170_20251208175839_1.png",
@@ -259,7 +263,7 @@
             "/screenshots/lost-and-found/Workshop War/274170_20251208183304_1.png",
             "/screenshots/lost-and-found/Workshop War/274170_20251208190839_1.png"
         ],
-        "link": "lost-and-found-entries/Deep Red Redux.zip",
-        "size": 0
+        "link": "lost-and-found-entries/Workshop War.zip",
+        "size": 427
     }
 ]

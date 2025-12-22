@@ -98,7 +98,16 @@
     {
         "title": "2022",
         "content": "10 years earlier, two guys from sweden decided to make a fun little game for themselves, which then became a huge success in the indie-game scene. Back then, they probably never thought how relevant this game series continues to be 10 years later.",
-        "images": [],
+        "images": [
+            "/screenshots/workshop-dives/2022/missed calls.jpg",
+            "/screenshots/workshop-dives/2022/gone.jpg",
+             "/screenshots/workshop-dives/2022/fever.jpg",
+             "/screenshots/workshop-dives/2022/mimic.jpg",
+             "/screenshots/workshop-dives/2022/machine-gun-placeholder.jpg",
+             "/screenshots/workshop-dives/2022/kill machine.jpg",
+             "/screenshots/workshop-dives/2022/devil's game.jpg",
+             "/screenshots/workshop-dives/2022/rotgut.jpg"
+        ],
         "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3259876499",
         "extraContent": [
             "This year was the year of the many events, from the musically themed \"Vinyl Violence\" collection, the geographically based \"Culture Shock\" trio and last but not least, the \"Missed Calls\" project.",
@@ -109,7 +118,18 @@
     {
         "title": "2023",
         "content": "The year this collection got back on its feet, making it a much more dedicated project than originally intended.",
-        "images": [],
+        "images": [
+             "/screenshots/workshop-dives/2023/mark's worth.jpg",
+             "/screenshots/workshop-dives/2023/tiger maid service.png",
+             "/screenshots/workshop-dives/2023/klone krisis.jpg",
+             "/screenshots/workshop-dives/2023/mutant redux.jpg",
+             "/screenshots/workshop-dives/2023/the thing.jpg",
+             "/screenshots/workshop-dives/2023/catana-2.jpg",
+             "/screenshots/workshop-dives/2023/motorhead.jpg",
+             "/screenshots/workshop-dives/2023/bad-medicine.jpg",
+             "/screenshots/workshop-dives/2023/pardoom.jpg",
+             "/screenshots/workshop-dives/2023/love and forgetting.jpg"
+        ],
         "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2912408225",
         "extraContent": [
             "This time, we have several comedic campaigns, that got some attention outside of the modding scene such as Mark's Worth, Tiger Maid Service and, of course, Klone Krisis.",
@@ -120,7 +140,18 @@
     {
         "title": "2024",
         "content": "In 2024, many ambitious projects with a good amount of quality came out, like Moving Shadows, Test Drive, Digression, Carcharodon, Burn Hard and Actor.",
-        "images": [],
+        "images": [
+             "/screenshots/workshop-dives/2024/moving shadows.jpg",
+             "/screenshots/workshop-dives/2024/test drive.jpg",
+             "/screenshots/workshop-dives/2024/digression.jpg",
+             "/screenshots/workshop-dives/2024/carcharodon.jpg",
+             "/screenshots/workshop-dives/2024/burn hard.jpg",
+             "/screenshots/workshop-dives/2024/actor.jpg",
+             "/screenshots/workshop-dives/2024/boxes.jpg",
+             "/screenshots/workshop-dives/2024/mgla.jpg",
+             "/screenshots/workshop-dives/2024/magician.jpg",
+             "/screenshots/workshop-dives/2024/bathrooms.jpg"
+        ],
         "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3147248284",
         "extraContent": [
             "It's also the year where the community grew a lot bigger thanks to the outreach of several videos and threads online.",
@@ -130,8 +161,15 @@
     },
     {
         "title": "2025",
-        "content": "Currently in the making! But so far, we got some very interesting entries out already such as Redline, Matt Stryker, Don Juan, Of Love and Violence and Past of Tokyo.",
-        "images": [],
+        "content": "So far, we got some very interesting entries out already such as Redline, Matt Stryker, Don Juan, ZX_Miami_Cowboys, Of Love and Violence, Past of Tokyo, Radar: Tricolor and Fight for China.",
+        "images": [
+            "/screenshots/workshop-dives/2025/redline.jpg",
+            "/screenshots/workshop-dives/2025/matt-stryker.jpg",
+            "/screenshots/workshop-dives/2025/zx-miami-cowboys.jpg",
+            "/screenshots/workshop-dives/2025/of love and violence.jpg",
+            "/screenshots/workshop-dives/2025/past of tokyo.jpg",
+            "/screenshots/workshop-dives/2025/radar.jpg"
+        ],
         "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3399188474",
         "extraContent": [
             "We will continue to update the collection until the year is over. Then we probably just move on to the next year."

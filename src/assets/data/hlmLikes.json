@@ -22,5 +22,22 @@
         "images": [
             "/screenshots/hlm-likes/Endless War/3-squeal.jpeg"
         ]
+    },
+    {
+        "id": 2,
+        "title": "Inner Animal",
+        "author": "Jason Cai",
+        "date": "29th August 2025",
+        "contents": [
+            "A Hotline Miami inspired indie game made in Unity, starring 4 levels for the demo.",
+            "It offers the same gameplay, with a few slightly changed rules regarding combat, executions and the environment.",
+            "The game is available on Jason's Itch.io page at jason-cai.itch.io/inner-animal."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Inner Animal/main.png",
+            "/screenshots/hlm-likes/Inner Animal/door.png",
+            "/screenshots/hlm-likes/Inner Animal/flash.png",
+            "/screenshots/hlm-likes/Inner Animal/zoom.png"
+        ]
     }
 ]

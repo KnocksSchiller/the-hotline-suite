@@ -2,13 +2,20 @@
     {
         "id": 0,
         "title": "Otxo",
-        "author": "guy jing",
-        "date": "around 2020",
+        "author": "Nathan Haddock / Lateralis Heavy Industries & Super Rare Originals",
+        "date": "20th April 2023",
         "contents": [
-            "Yee yee ass roguelike thing pretending to be cool. You like doors right !?!? xDD"
+            "Otxo (pronounced Ot-cho) is a roguelike top-down shooter, taking inspirations from Hotline Miami in graphic, combat and soundtrack.",
+            "The main difference between the two games is the game loop, with Otxo having randomly generated floors with a hub area for upgrades inbetween and boss fights after beating a certain amount of levels.",
+            "Unlike in Hotline, dying is very punishable, forcing you to restart the game from the very beginning. At least the health bar makes the run more forgivable than Hotline Miami's one-shot-death system.",
+            "While the game often gets compared to Hotline Miami and mentioned plenty of times around the community, its unique features and different game loop offers new room to explore the genre of 2D top-down-shooters.",
+            "Otxo is available on Steam, PlayStation 4, 5 and the Nintendo Switch."
         ],
         "images": [
-            "/screenshots/hlm-likes/Otxo/1-miami-falls-2.jpeg"
+            "/screenshots/hlm-likes/Otxo/wallpaper.jpg",
+            "/screenshots/hlm-likes/Otxo/one.jpg",
+            "/screenshots/hlm-likes/Otxo/two.jpg",
+            "/screenshots/hlm-likes/Otxo/three.jpg"
         ]
     },
     {
@@ -21,6 +28,23 @@
         ],
         "images": [
             "/screenshots/hlm-likes/Endless War/3-squeal.jpeg"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Inner Animal",
+        "author": "Jason Cai",
+        "date": "29th August 2025",
+        "contents": [
+            "A Hotline Miami inspired indie game made in Unity, starring 4 levels for the demo.",
+            "It offers the same gameplay, with a few slightly changed rules regarding combat, executions and the environment.",
+            "The game is available on Jason's Itch.io page at jason-cai.itch.io/inner-animal."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Inner Animal/main.png",
+            "/screenshots/hlm-likes/Inner Animal/door.png",
+            "/screenshots/hlm-likes/Inner Animal/flash.png",
+            "/screenshots/hlm-likes/Inner Animal/zoom.png"
         ]
     }
 ]

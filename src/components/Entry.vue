@@ -1,9 +1,13 @@
 <template>
     <h2>{{ entry.title }}</h2>
-    <span>
+    <span v-if="!mobile">
         <p>By: <i>{{ entry.author }}</i></p>
         <p>Released: <i>{{ entry.date }}</i></p>
     </span>
+    <div v-else>
+        <p>By: <i>{{ entry.author }}</i></p>
+        <p>Released: <i>{{ entry.date }}</i></p>
+    </div>
     <div class="imgGrid">
         <div>
             <img v-if="entry.images[0]" :src="entry.images[this.currentScreenshot]">
@@ -15,10 +19,10 @@
         </div>
     </div>
     <p v-for="e in entry.contents">{{ e }}</p>
-    <template v-if="this.isDownload">
-        <button @click="downloadFile(entry.link, entry.title)">Download</button> <i>{{ entry.title }}.zip ({{ entry.size
-            }} MB)</i>
-    </template>
+    <span v-if="this.isDownload">
+        <button @click="downloadFile(entry.link, entry.title)">Download</button>
+        <i>{{ entry.title }}.zip ({{ entry.size }} MB)</i>
+    </span>
 </template>
 
 <script>
@@ -75,6 +79,10 @@ span {
     align-items: center;
 }
 
+span:last-of-type{
+    justify-content: flex-start;
+}
+
 p {
     color: var(--lGreen);
 }
@@ -82,7 +90,7 @@ p {
 .imgGrid {
     display: grid;
     grid-template-columns: 60% 40%;
-    grid-column-gap: 30px;
+    grid-column-gap: 20px;
     margin: 20px 0 40px;
     align-items: start;
 }
@@ -105,20 +113,15 @@ i {
     margin-left: 8px;
 }
 
+/* mobile */
 @media(max-width:768px) {
-    span {
-        flex-direction: column;
-        align-items: flex-start;
-        margin: 0 10px;
-    }
-
     h2 {
         margin-left: 10px;
     }
 
     .imgGrid {
         grid-template-columns: auto;
-        grid-row-gap: 20px;
+        grid-row-gap: 10px;
         width: 95%;
         margin: auto;
     }

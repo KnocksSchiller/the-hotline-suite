@@ -207,7 +207,8 @@ details details summary {
   font-size: 28px;
 }
 
-details img, details p {
+details img,
+details p {
   margin-left: 30px;
 }
 
@@ -250,12 +251,19 @@ details img, details p {
     margin: 20px 8px;
   }
 
-  p,
-  i {
+  p {
     padding: 0 10px;
   }
 
-  details img, details p {
+  p,
+  i,
+  a,
+  button {
+    font-size: 16px;
+  }
+
+  details img,
+  details p {
     margin-left: 0px;
   }
 

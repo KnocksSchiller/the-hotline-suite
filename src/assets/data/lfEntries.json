@@ -265,5 +265,24 @@
         ],
         "link": "lost-and-found-entries/Workshop War.zip",
         "size": 427
+    },
+    {
+        "id": 14,
+        "title": "Frostbite",
+        "author": "thebasicbrick",
+        "date": "14th October 2017",
+        "contents": [
+            "A 5-level long campaign set in Alaska 1984. Follow along Peter and his squad, as they are fighting off the Soviet military in their home land.",
+            "This one also comes with an altered music mod, that could break the game when playing a different level, as all the unused songs have been removed."
+        ],
+        "images": [
+            "/screenshots/lost-and-found/Frostbite/20251223235543_1.jpg",
+            "/screenshots/lost-and-found/Frostbite/20251223235814_1.jpg",
+            "/screenshots/lost-and-found/Frostbite/20251224000830_1.jpg",
+            "/screenshots/lost-and-found/Frostbite/20251224002010_1.jpg",
+            "/screenshots/lost-and-found/Frostbite/20251224002500_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Frostbite.zip",
+        "size": 118
     }
 ]

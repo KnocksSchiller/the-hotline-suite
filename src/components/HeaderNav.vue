@@ -88,7 +88,7 @@ nav a:hover {
   flex-direction: column;
   position: fixed;
   width: 100%;
-  max-width: 300px;
+  max-width: 250px;
   height: 100%;
   top: 79px;
   right: 0;

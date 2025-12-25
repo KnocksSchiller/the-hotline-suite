@@ -81,6 +81,19 @@ img {
   max-width: 100%;
 }
 
+/* Longer texts having a more readable font than retro-computer */
+.readable,
+.readable>*,
+details p,
+details li {
+  /* font-family: Arial, Helvetica, sans-serif; */
+  font-family: 'Courier New', Courier, monospace;
+  /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+  /* font-family: 'Times New Roman', Times, serif; */
+  /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+  /* font-size: 22px; */
+}
+
 h2,
 summary {
   font-family: "Justice";
@@ -255,11 +268,29 @@ details p {
     padding: 0 10px;
   }
 
+
   p,
   i,
   a,
-  button {
+  button,
+  li {
     font-size: 16px;
+  }
+
+  h2,
+  summary {
+    font-size: 26px;
+  }
+
+  h1 {
+    font-size: 32px;
+  }
+
+  .readable,
+  .readable>*,
+  details p,
+  details li {
+    font-size: 18px;
   }
 
   details img,

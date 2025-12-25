@@ -1,10 +1,10 @@
 <template>
     <h1 class="animText">WANTED!!!</h1>
 
-    <p>{{ list.content }}</p>
+    <p class="readable">{{ list.content }}</p>
     <nav>
         <ul>
-            <li v-for="(l, i) in list.listed"><a>{{ l }}:</a> <i>{{ list.extraContent[i] }}</i></li>
+            <li v-for="(l, i) in list.listed"><a>{{ l }}:</a> <i class="readable">{{ list.extraContent[i] }}</i></li>
         </ul>
     </nav>
 </template>

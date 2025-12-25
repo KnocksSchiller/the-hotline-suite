@@ -18,7 +18,7 @@
                 @click=setCurrentImage(index)>
         </div>
     </div>
-    <p v-for="e in entry.contents">{{ e }}</p>
+    <p class="readable" v-for="e in entry.contents">{{ e }}</p>
     <span v-if="this.isDownload">
         <button @click="downloadFile(entry.link, entry.title)">Download</button>
         <i>{{ entry.title }}.zip ({{ entry.size }} MB)</i>
@@ -73,14 +73,15 @@ span>* {
     width: max-content;
 }
 
-span {
+span:last-of-type {
+    justify-content: flex-start;
+}
+
+span,
+span:first-of-type {
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-
-span:last-of-type{
-    justify-content: flex-start;
 }
 
 p {

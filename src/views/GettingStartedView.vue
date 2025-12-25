@@ -1,13 +1,13 @@
 <template>
     <div class="site-content">
         <h1 class="animText">Getting Started:</h1>
-        <p> This page teaches you about the ins and outs of <a class="animText">Hotline modding </a>and how to get into
+        <p class="readable"> This page teaches you about the ins and outs of <a class="animText">Hotline modding </a>and how to get into
             it. </p>
-        <p><a class="animText">Note:</a> This page mainly revolves around <a class="animText">Hotline Miami 2's Level
-                Editor</a> and the workshop around it. <br>For <a class="animText">modding Hotline Miami</a> (1), see
+        <p class="readable"><a class="animText">NOTE:</a> This page mainly revolves around <a class="animText">Hotline Miami 2's Level
+                Editor</a> and the workshop around it. <br>For <a class="animText">making standablone mods</a>, see
             <router-link :to="CatHlm1.to" class="animText underline">{{ CatHlm1.title }}</router-link>.
         </p>
-        <p>The following chapters of this page go as followed:</p>
+        <p class="readable">The following chapters of this page go as followed:</p>
         <nav>
             <ol>
                 <li><a href="#chapter1">{{ textsections[2].title }}</a></li>

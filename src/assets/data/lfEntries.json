@@ -254,7 +254,7 @@
         "author": "SuitedFox",
         "date": "30th April 2017",
         "contents": [
-            "A 12-level long campaign, in which Jake Coalis, or rather his author Suitedfox, go on an adventure to save the Hotline Miami 2 modding scene from the never ending wave of pardo shitposts.",
+            "A 12-level long campaign, in which Jake Coalis, or rather his author SuitedFox, go on an adventure to save the Hotline Miami 2 modding scene from the never ending wave of pardo shitposts.",
             "Like Deep Red Redux, this one also comes with a music mod and custom weapon sounds."
         ],
         "images": [
@@ -284,5 +284,64 @@
         ],
         "link": "lost-and-found-entries/Frostbite.zip",
         "size": 118
+    },
+    {
+        "id": 15,
+        "title": "Snowblind",
+        "author": "Plank",
+        "date": "Around 2016 / 2017",
+        "contents": [
+            "A fan-made single level set in the universe of the Hunter trilogy. Here, you play as Simon clearing out a 3-floor building full of thugs and Bratva members.",
+            "While the level itself is competently made, it also serves as a time capsule on how Hunter's sprites used to look like compared to the current, more refined version of the trilogy."
+        ],
+        "images": [
+            "/screenshots/lost-and-found/Snowblind/20251228222742_1.jpg",
+            "/screenshots/lost-and-found/Snowblind/20251228223323_1.jpg",
+            "/screenshots/lost-and-found/Snowblind/20251228223359_1.jpg",
+            "/screenshots/lost-and-found/Snowblind/20251228223409_1.jpg",
+            "/screenshots/lost-and-found/Snowblind/20251228223457_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Snowblind.zip",
+        "size": 5.22
+    },
+    {
+        "id": 16,
+        "title": "Banger",
+        "author": "b-idea",
+        "date": "August 2019",
+        "contents": [
+            "A single level from the colaborative collection \"Summer Of Rage\", featuring 3 action packed floors with many summer-themed sprites and vibrant enemy and furniture recolors.",
+            "The level collection itself has a music mod, which is encouraged to be installed when playing the whole collection. You can find it at https://steamcommunity.com/workshop/filedetails/?id=1822110263."
+        ],
+        "images": [
+            "/screenshots/lost-and-found/Banger/20251231160005_1.jpg",
+            "/screenshots/lost-and-found/Banger/20251231160132_1.jpg",
+            "/screenshots/lost-and-found/Banger/20251231160333_1.jpg",
+            "/screenshots/lost-and-found/Banger/20251231160408_1.jpg",
+            "/screenshots/lost-and-found/Banger/20251231160512_1.jpg",
+            "/screenshots/lost-and-found/Banger/20251229012914_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Banger.zip",
+        "size": 2.03
+    },
+    {
+        "id": 17,
+        "title": "Politics",
+        "author": "1spiceyburgar",
+        "date": "15th February 2021",
+        "contents": [
+            "Also known as \"Coomtaker 3\", this 4-level long campaign continues the aesthetics of the previous two entries both in gameplay and story. Follow the adventures of an unnamed policeman going through the many political struggles in Minnesota at the heat of the year 2020.",
+            "Taken down off the Steam workshop during their iffy policies on handling external links. Files and music wad were given by the author."
+        ],
+        "images": [
+            "/screenshots/lost-and-found/Politics/20251228214759_1.jpg",
+            "/screenshots/lost-and-found/Politics/20251228215811_1.jpg",
+            "/screenshots/lost-and-found/Politics/20251228215325_1.jpg",
+            "/screenshots/lost-and-found/Politics/20251228215113_1.jpg",
+            "/screenshots/lost-and-found/Politics/20251231150854_1.jpg",
+            "/screenshots/lost-and-found/Politics/20251228220935_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Politics.zip",
+        "size": 419
     }
 ]

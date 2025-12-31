@@ -11,7 +11,7 @@
     <div class="imgGrid">
         <div>
             <img v-if="entry.images[0]" :src="entry.images[this.currentScreenshot]">
-            <p v-else>This entry has no screenshots.</p>
+            <p v-else>This entry has no screenshots (yet).</p>
         </div>
         <div class="screenshot-grid">
             <img v-for="(image, index) in entry.images" :src="image" :aria-selected="isCurrentImage(index)"

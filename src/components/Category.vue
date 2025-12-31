@@ -85,7 +85,7 @@ a:hover img {
     }
 
     a {
-        height: 200px;
+        height: 175px;
         background: linear-gradient(var(--bg), var(--green), var(--green), var(--green));
         flex-direction: column-reverse;
     }

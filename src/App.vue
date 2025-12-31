@@ -62,6 +62,16 @@ body {
   src: url('@/assets/fonts/justice.ttf');
 }
 
+@font-face {
+  font-family:"Press Start 2P";
+  src: url('@/assets/fonts/PressStart2P-Regular.ttf');
+}
+
+@font-face{
+  font-family: "Atkinson-Hyperlegible";
+  src: url('@/assets/fonts/AtkinsonHyperlegible-Bold.ttf')
+}
+
 :root {
   --bg: #000A00;
   --dGreen: #002F00;
@@ -87,11 +97,14 @@ img {
 details p,
 details li {
   /* font-family: Arial, Helvetica, sans-serif; */
-  font-family: 'Courier New', Courier, monospace;
+  /* font-family: 'Courier New', Courier, monospace; */
   /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
   /* font-family: 'Times New Roman', Times, serif; */
   /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
-  /* font-size: 22px; */
+  /* font-family: "Press Start 2P"; */
+  /* font-size: 16px; */
+  font-family: "Atkinson-Hyperlegible";
+  font-size: 22px;
 }
 
 h2,

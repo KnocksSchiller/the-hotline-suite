@@ -5,10 +5,9 @@
         "author": "Nathan Haddock / Lateralis Heavy Industries & Super Rare Originals",
         "date": "20th April 2023",
         "contents": [
-            "Otxo (pronounced Ot-cho) is a roguelike top-down shooter, taking inspirations from Hotline Miami in graphic, combat and soundtrack.",
-            "The main difference between the two games is the game loop, with Otxo having randomly generated floors with a hub area for upgrades inbetween and boss fights after beating a certain amount of levels.",
+            "Otxo (pronounced Ot-cho) is a roguelike top-down shooter, taking inspirations from Hotline Miami in graphics, combat and soundtrack. The main difference between the two games is the game loop, with Otxo having randomly generated floors with a hub area for upgrades inbetween and boss fights after beating a certain amount of levels.",
             "Unlike in Hotline, dying is very punishable, forcing you to restart the game from the very beginning. At least the health bar makes the run more forgivable than Hotline Miami's one-shot-death system.",
-            "While the game often gets compared to Hotline Miami and mentioned plenty of times around the community, its unique features and different game loop offers new room to explore the genre of 2D top-down-shooters.",
+            "While the game often gets compared to Hotline Miami and gets mentioned plenty of times around the community, its unique features and different game loop offers a new perspective on the2D top-down-shooters genre.",
             "Otxo is available on Steam, PlayStation 4, 5 and the Nintendo Switch."
         ],
         "images": [
@@ -20,14 +19,27 @@
     },
     {
         "id": 1,
-        "title": "Endless War",
-        "author": "unknown",
-        "date": "around 2020",
+        "title": "Endless War 1-4",
+        "author": "Vitaly Zaborov",
+        "date": "17th July 2005 - 2009",
         "contents": [
-            "Old ass flash game from whenever with several settings and shit."
+            "Endless War is a series of flash games, that you could play in several browser-games websites. It is a top-down-shooter, that requires you to reach the end and goal to finish the mission. The path is filled with enemies, that block your way and try to kill you once they spot you. You can either fight back or simply avoid them and reach the goal without hurting anyone.",
+            "The games offer a huge variety of settings, including World War 2, the Vietnam War, counter-terrorists, terrorist, the Iraq War and even fictional settings like Fallout, Blood and World War 3 (Humans vs. Aliens)",
+            "While the graphics and overall gameplay are comparable to both Hotline Miami and Jonatan's first draft \"Super Carnage\", there are plenty of features that differ a lot from both Hotline Miami games. For example, Endless War has a weapon arsenal, health and armor as well as grenades. You can also control allies with \"Q\", offering a more tactical approach on clearing the level. The option to pick up weapons from the ground as well as the presence of cursed bathrooms remain eerily similar to both game series.",
+            "Gameplaywise, the game demands more player input, as the enemies remain static most of the time, unless they spot you. Their jank pathfinding and questionable hitboxes make their behavior less predictable than Hotline's, which can result in rather unfair scenarios at times.",
+            "Nevertheless the game manages to convey a unique aesthetic and is probably the first exposure to violent top-down shooters for many people at the time, before Hotline Miami came out. You can play the series through \"Flashpoint\", which serves as a library of flash games, that you can download and play through their program."
         ],
         "images": [
-            "/screenshots/hlm-likes/Endless War/3-squeal.jpeg"
+            "/screenshots/hlm-likes/Endless War/ew 1 Screenshot 2026-01-01 14-57-50.png",
+            "/screenshots/hlm-likes/Endless War/ew 1 Screenshot 2026-01-01 14-59-56.png",
+            "/screenshots/hlm-likes/Endless War/ew 1 Screenshot 2026-01-01 15-16-43.png",
+            "/screenshots/hlm-likes/Endless War/ew 2 Screenshot 2026-01-01 15-21-14.png",
+            "/screenshots/hlm-likes/Endless War/ew 2 Screenshot 2026-01-01 15-24-15.png",
+            "/screenshots/hlm-likes/Endless War/ew 3 Screenshot 2026-01-01 15-26-21 (2).png",
+            "/screenshots/hlm-likes/Endless War/ew 3 Screenshot 2026-01-01 15-30-46.png",
+            "/screenshots/hlm-likes/Endless War/ew 3 Screenshot 2026-01-01 15-39-35.png",
+            "/screenshots/hlm-likes/Endless War/ew 4 Screenshot 2026-01-01 15-46-40.png",
+            "/screenshots/hlm-likes/Endless War/ew 4 Screenshot 2026-01-01 15-49-12.png"
         ]
     },
     {
@@ -36,8 +48,7 @@
         "author": "Jason Cai",
         "date": "29th August 2025",
         "contents": [
-            "A Hotline Miami inspired indie game made in Unity, starring 4 levels for the demo.",
-            "It offers the same gameplay, with a few slightly changed rules regarding combat, executions and the environment.",
+            "A Hotline Miami inspired indie game made in Unity, starring 4 levels for the demo. It offers the same gameplay, with a few slightly changed rules regarding combat, executions and the environment.",
             "The game is available on Jason's Itch.io page at jason-cai.itch.io/inner-animal."
         ],
         "images": [

@@ -15,90 +15,99 @@
     {
         "name": "2 GettingStarted, chapter 1",
         "title": "How to play custom levels / campaigns",
-        "content": "hi",
+        "content": "The level editor works exclusively on the PC version of Hotline Miami 2. While it is possible to create and play custom levels on GOG, we advise to do it on Steam, as it's properly connected to the Steam workshop. Here, you will learn how to download levels, how to play them and how to install mods, that require a manual installation.",
         "images": [
-            "/screenshots/getting-started/category-icon-placeholder.png"
+            "/screenshots/getting-started/c1-workshop.png",
+            "/screenshots/getting-started/c1-subscribe.png",
+            "/screenshots/getting-started/c1-gog-download.png",
+            "/screenshots/lost-and-found/non-entries/level-folder-windows.png",
+            "/screenshots/lost-and-found/non-entries/level-folder-linux.png",
+            "",
+            "/screenshots/getting-started/c1-mods-folder.png",
+            "/screenshots/getting-started/c1-wad-folder.png",
+            "",
+            "/screenshots/getting-started/c1-level-editor-window.jpg",
+            "/screenshots/getting-started/c1-campaigns-single.gif",
+            "/screenshots/getting-started/c1-local-download.gif"
         ],
         "extraContent": [
-            "ayoo"
+            "On Steam, simply choose any level or campaign you like and press the \"Subscribe\" button. Note, that some creators want you to install manual mods and refer to a download link of their choice. Consider downloading them, or else the custom level might appear broken or even be unbeatable due to changed item behaviours. If you need the files straight from the level's folder, you can find them in >your steam path</steamapps/workshop/content/274170.",
+            "For the GOG version, you have to download the level manually, which some authors provide a link for. Should you see a level, that doesn't provide a manual download link, consider either asking the author to create one or ask around in one of our Places To Talk.",
+            "Then you put the folder to your local levels folder, which are located here (on Windows):",
+            "On Linux:",
+            "On Mac:",
+            "As previously mentioned, some levels / campaigns require you to download mods for the full experience. Those can be separated in \".patchwad\" files and \".wad\" files. Patchwads handle simple resprites, sounds and weapons while wads are usually used for music mods, which replaces the game's songs. Here's where you store the patchwads, if the folder doesn't exist, simply create a new folder and call it \"mods\".",
+            "Here's where you put the music wads and their OS equivalents:",
+            "Make sure, the wad name is the same as the original files, or else the game will either freeze or crash. The easiest thing to do, is to rename the original music wad to \"hlm2_music_desktop-vanilla.wad\", then adding the custom wad into the folder. After you finished playung the custom level, simply delete / rename the custom music wad and rename the vanilla wad back to \"hlm2_music_desktop.wad\".",
+            "Now how do we actually play the level? First, you go to the editor tab on the main menu. You'll be greeted by this window, which sets you to your local single levels by default.",
+            "To switch between single levels and campaigns, you press \"ESC\" and then either \"A\" or \"D\", then hit \"Enter\" or \"LMB\".",
+            "To switch between locally installed levels and downloaded levels, simply hit \"Tab\". You can also press \"Space\" to sort the entries to your liking, if needed.",
+            ""
         ]
     },
     {
         "name": "3 GettingStarted, chapter 2",
         "title": "How to make custom content",
-        "content": "hi",
-        "images": [
-            "/screenshots/getting-started/category-icon-placeholder.png"
-        ],
-        "extraContent": [
-            "ayoo"
-        ]
+        "content": "For convenience this chapter will be separated into three parts. Here, you can read through the essentials of the level editor, making cutscenes and making your own sprites and how to implement them in-game.",
+        "images": [],
+        "extraContent": []
     },
     {
         "name": "4 GettingStarted, chapter 2-1",
         "title": "The Level Editor",
-        "content": "hi",
-        "images": [
-            "/screenshots/getting-started/category-icon-placeholder.png"           
-        ],
+        "content": "wip. 1366x768, create level + players & music.",
+        "images": [],
         "extraContent": [
-            "ayoo"
+            "Level tab, place player and car to save. Cover, S-score and level name. Clock doesn't work and needs to be adjusted differently.",
+            "Editor view. Tiles placing and removing, walls (invis, one-way).",
+            "Edges & Litter",
+            "Items, furniture & NPCs",
+            "Enemies",
+            "Misc (weapons)",
+            "Menubar at the top. Saving, playing, add floors, remove floors, add effects, change player character, etc. Go wild."
         ]
     },
     {
         "name": "5 GettingStarted, chapter 2-2",
         "title": "Cutscenes",
-        "content": "hi",
-        "images": [
-            "/screenshots/getting-started/category-icon-placeholder.png"
-        ],
-        "extraContent": [
-            "ayoo"
-        ]
+        "content": "tbd",
+        "images": [],
+        "extraContent": []
     },
     {
         "name": "6 GettingStarted, chapter 2-3",
         "title": "Making Sprites",
-        "content": "hi",
-        "images": [
-            "/screenshots/getting-started/category-icon-placeholder.png"
-        ],
-        "extraContent": [
-            "ayoo"
-        ]
+        "content": "tbd",
+        "images": [],
+        "extraContent": []
     },
     {
         "name": "7 GettingStarted, chapter 3",
         "title": "Tutorials and Essential Guides",
-        "content": "hi",
-        "images": [
-            "/screenshots/getting-started/category-icon-placeholder.png"
-        ],
+        "content": "TBD. Not sure what makes a good level? Feel free to check out the many YouTube tutorials and Steam guides that go further in depth of the many things you can do and what to avoid when making levels.",
+        "images": [],
         "extraContent": [
-            "ayoo"
+            "Rob's level editor YouTube tutorial series explains the many quirks of the level editor and the tools we use outside on a fundamental level and is the go-to starter for every aspiring modder. The videos themselves appear a bit long, but are worth the watch for learning the editor's way quickly.",
+            "Mostenire's \"Essential Level Design Guide\" is an excellent read that covers all the dos and don'ts on designing levels. This goes from placing enemies and floor transitions, as well as decorating and designing your levels with visual clarity and a theme in mind.",
+            "Knocks' \"Cutscene Editor Guide\" describes the many techniques and tricks on making cutscenes. From the basic structure on how cutscenes work to more in-depth rundown on more complex actions it covers both basic and more advanced needs on making your choreography smooth and as easy as possible.",
+            "Other guides are also commonly referred to, when it comes to specific needs of mods, such as Soda's music mod guide, Unfortunate's clock guide and Fusili's custom fonts guide."
         ]
     },
     {
         "name": "8 GettingStarted, chapter 4",
         "title": "Advanced Tools / Guides",
-        "content": "hi",
-        "images": [
-            "/screenshots/getting-started/category-icon-placeholder.png"
-        ],
+        "content": "tbd",
+        "images": [],
         "extraContent": [
-            "ayoo"
+            "Yoss' many guides about Notepad++ and the many discoveries that were made throughout the years."
         ]
     },
     {
         "name": "9 GettingStarted, chapter 5",
         "title": "I WANT MORE!!!",
-        "content": "hi",
-        "images": [
-            "/screenshots/getting-started/category-icon-placeholder.png"
-        ],
-        "extraContent": [
-            "ayoo"
-        ]
+        "content": "tbd",
+        "images": [],
+        "extraContent": []
     },
     {
         "name": "10 LostAndFound, Q1",

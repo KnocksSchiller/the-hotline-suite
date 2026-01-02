@@ -7,7 +7,7 @@
         "contents": [
             "Otxo (pronounced Ot-cho) is a roguelike top-down shooter, taking inspirations from Hotline Miami in graphics, combat and soundtrack. The main difference between the two games is the game loop, with Otxo having randomly generated floors with a hub area for upgrades inbetween and boss fights after beating a certain amount of levels.",
             "Unlike in Hotline, dying is very punishable, forcing you to restart the game from the very beginning. At least the health bar makes the run more forgivable than Hotline Miami's one-shot-death system.",
-            "While the game often gets compared to Hotline Miami and gets mentioned plenty of times around the community, its unique features and different game loop offers a new perspective on the2D top-down-shooters genre.",
+            "While the game often gets compared to Hotline Miami and gets mentioned plenty of times around the community, its unique features and different game loop offers a new perspective on the 2D top-down-shooters genre.",
             "Otxo is available on Steam, PlayStation 4, 5 and the Nintendo Switch."
         ],
         "images": [
@@ -56,6 +56,29 @@
             "/screenshots/hlm-likes/Inner Animal/door.png",
             "/screenshots/hlm-likes/Inner Animal/flash.png",
             "/screenshots/hlm-likes/Inner Animal/zoom.png"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Red Hot Vengeance",
+        "author": "Bros Before Giraffes",
+        "date": "11th July 2019",
+        "contents": [
+            "He had one rule: No killing women or children. When a hitman is double-crossed by his employer, he brings forth a night of carnage and bloodshed.",
+            "Red Hot Vengeance is a twin-stick shooter inspired by Max Payne and Hotline Miami. Its objectives vary from killing every hostile enemy, destroying cargo, to eliminating specific targets. The gunplay is akin to Max Payne 3 as is the health system with first-aid kits available throughout the floors.",
+            "Next to the 10 levels of the main story, the game offers a New Game+ mode for extra challenge, as well as 30 unique challenge maps for more variety. It also offers a level editor, which can be then uploaded to the Steam Workshop, much like Hotline Miami 2.",
+            "While the story is easy to follow and goes along the typical \"Gang War\" story arc, its isometric perspective combined with the simplistic art style and use of mainly black, white, grey and red give the game a unique atmosphere.",
+            "The game is available on Steam, Itch.io and on Gamejolt.com at no cost."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Red Hot Vengeance/main.png",
+            "/screenshots/hlm-likes/Red Hot Vengeance/dialogue1.png",
+            "/screenshots/hlm-likes/Red Hot Vengeance/subway.png",
+            "/screenshots/hlm-likes/Red Hot Vengeance/bait.png",
+            "/screenshots/hlm-likes/Red Hot Vengeance/title-drop.png",
+            "/screenshots/hlm-likes/Red Hot Vengeance/dead.png",
+            "/screenshots/hlm-likes/Red Hot Vengeance/challenges.png",
+            "/screenshots/hlm-likes/Red Hot Vengeance/police-station.png"
         ]
     }
 ]

@@ -2,7 +2,7 @@
     {
         "name": "0 HomeAbout",
         "title": "About",
-        "content": "This is a self hosted website with the intention to promote and get people into custom made content, that revolve around the indie top-down-shooter \"Hotline Miami\". Most of this site's content revolve around making, creating and playing custom made entries for \"Hotline Miami\" and \"Hotline Miami 2: Wrong Number\". Since the release of the first game in 2012, the community has been growing ever since and became very dedicated after the release of the second game's level editor.",
+        "content": "This is a website hosted on AWS with the intention to promote and get people into custom made content, that revolve around the indie top-down-shooter \"Hotline Miami\". Most of this site's content revolve around making, creating and playing custom made entries for \"Hotline Miami\" and \"Hotline Miami 2: Wrong Number\". Since the release of the first game in 2012, the community has been growing ever since and became very dedicated after the release of the second game's level editor.",
         "extraContent": [
             "We also offer places to talk to, mainly public discord servers but also subreddits that you can engage with, be it casually or for genuine feedback by other community members."
         ]
@@ -57,13 +57,13 @@
         "images": [
             "/screenshots/getting-started/c2-1-resolution.jpg",
             "/screenshots/getting-started/c2-1-player-select.jpg",
-            "/screenshots/getting-started/hlmsuite-c2-player-and-vehicle.gif",
+            "/screenshots/getting-started/hlmsuite-c2-1-player-and-vehicle.gif",
             "/screenshots/getting-started/hlmsuite-c2-1-placing.gif",
-            "/screenshots/getting-started/hlmsuite-c2-replacing.gif",
-            "/screenshots/getting-started/hlmsuite-c2-tilearea.gif",
+            "/screenshots/getting-started/hlmsuite-c2-1-replacing.gif",
+            "/screenshots/getting-started/hlmsuite-c2-1-tilearea.gif",
             "/screenshots/getting-started/c2-1-edges-litter.jpg",
-            "/screenshots/getting-started/hlmsuite-c2-menubar.gif",
-            "/screenshots/getting-started/hlmsuite-c2-campaign.gif"
+            "/screenshots/getting-started/hlmsuite-c2-1-menubar.gif",
+            "/screenshots/getting-started/hlmsuite-c2-1-campaign.gif"
         ],
         "extraContent": [
             "To create a level, head to the level editor tab and press \"C\". In the menu, you can choose which character you'll play as and which song will be played. You can change those settings anytime you like.",
@@ -80,9 +80,27 @@
     {
         "name": "5 GettingStarted, chapter 2-2",
         "title": "Cutscenes",
-        "content": "tbd",
-        "images": [],
-        "extraContent": []
+        "content": "With the cutscene editor you can make your own story. Press \"Ctrl + Alt + C\" inside the editor or press the \"Create Cutscene\" button at the menu bar to access it.",
+        "images": [
+            "/screenshots/getting-started/c2-2-create.jpg",
+            "/screenshots/getting-started/c2-2-frame-tab.png",
+            "/screenshots/getting-started/c2-2-structure.png",
+            "",
+            "/screenshots/getting-started/c2-2-npcs.jpg",
+            "",
+            "/screenshots/getting-started/c2-2-global-actions.jpg",
+            "/screenshots/getting-started/c2-2-stop-sequence.jpg"
+        ],
+        "extraContent": [
+            "To your right, you'll see the frame and NPC tab of the cutscene editor. They can be separated in creating structure, setting focus, list overview and removing structure.",
+            "The list overview shows all the actions, that define the cutscene. A choreography can be simplified like this:",
+            "A trigger starts a cutscene, which will play a frame's actions. The actions happen at the same time. Once they're finished, the next frame starts playing.",
+            "The NPC tab contains two sections: NPCs and Items. NPCs are objects, that can interact with the same way you interact with the player character in cutscenes. You can change their sprites to your desire and make them solid and / or even killable.",
+            "Items are small objects, that can be interacted with if the player is nearby. You interact with them by clicking the right mouse button. They can be there throughout the whole scene, or make them visible after a scene ends. The \"finish\" property makes interacting with said item necessary to leave the level.",
+            "Actions can be separated into two types: Global and individual. Global actions are not connected to the player or NPCs. You can add dialogue, wait, play a sound / song, stop the music / sequence or activate an item.",
+            "Individual actions are tied to the player or any NPC. You can make them walk, change or animate their sprite, attack / die or rotate them. \"Trigger\" sets an NPC as a trigger to start a cutscene, while \"properties\" let you change their initial sprite and other properties. To end a cutscene you need to add the \"Stop Sequence\" action.",
+            "The \"Scene Complete\" option lets the player go to the car and proceed to the next level (if there is one). You can ignore the option if you want to continue the level with more cutscenes or end the level with a fadeout."
+        ]
     },
     {
         "name": "6 GettingStarted, chapter 2-3",

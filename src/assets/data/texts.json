@@ -2,7 +2,7 @@
     {
         "name": "0 HomeAbout",
         "title": "About",
-        "content": "This is a self hosted website with the intention to promote and get people into custom made content, that revolve around the indie top-down-shooter \"Hotline Miami\". Most of this site's content revolve around making, creating and playing custom made entries for \"Hotline Miami\" and \"Hotline Miami 2: Wrong Number\". Since the release of the first game in 2012, the community has been growing ever since and became very dedicated after the release of the second game's level editor.",
+        "content": "This is a website hosted on AWS with the intention to promote and get people into custom made content, that revolve around the indie top-down-shooter \"Hotline Miami\". Most of this site's content revolve around making, creating and playing custom made entries for \"Hotline Miami\" and \"Hotline Miami 2: Wrong Number\". Since the release of the first game in 2012, the community has been growing ever since and became very dedicated after the release of the second game's level editor.",
         "extraContent": [
             "We also offer places to talk to, mainly public discord servers but also subreddits that you can engage with, be it casually or for genuine feedback by other community members."
         ]
@@ -48,31 +48,59 @@
     {
         "name": "3 GettingStarted, chapter 2",
         "title": "How to make custom content",
-        "content": "For convenience this chapter will be separated into three parts. Here, you can read through the essentials of the level editor, making cutscenes and making your own sprites and how to implement them in-game.",
-        "images": [],
-        "extraContent": []
+        "content": "For convenience this chapter will be separated into three parts. Here, you can read through the essentials of the level editor, making cutscenes and making your own sprites and how to implement them in-game."
     },
     {
         "name": "4 GettingStarted, chapter 2-1",
         "title": "The Level Editor",
-        "content": "wip. 1366x768, create level + players & music.",
-        "images": [],
+        "content": "First thing we recommend you to do, is to set the game's display resolution to 1366x768. That way you'll be able to see most of the floor's layout, while also being able to read the texts.",
+        "images": [
+            "/screenshots/getting-started/c2-1-resolution.jpg",
+            "/screenshots/getting-started/c2-1-player-select.jpg",
+            "/screenshots/getting-started/hlmsuite-c2-1-player-and-vehicle.gif",
+            "/screenshots/getting-started/hlmsuite-c2-1-placing.gif",
+            "/screenshots/getting-started/hlmsuite-c2-1-replacing.gif",
+            "/screenshots/getting-started/hlmsuite-c2-1-tilearea.gif",
+            "/screenshots/getting-started/c2-1-edges-litter.jpg",
+            "/screenshots/getting-started/hlmsuite-c2-1-menubar.gif",
+            "/screenshots/getting-started/hlmsuite-c2-1-campaign.gif"
+        ],
         "extraContent": [
-            "Level tab, place player and car to save. Cover, S-score and level name. Clock doesn't work and needs to be adjusted differently.",
-            "Editor view. Tiles placing and removing, walls (invis, one-way).",
-            "Edges & Litter",
-            "Items, furniture & NPCs",
-            "Enemies",
-            "Misc (weapons)",
-            "Menubar at the top. Saving, playing, add floors, remove floors, add effects, change player character, etc. Go wild."
+            "To create a level, head to the level editor tab and press \"C\". In the menu, you can choose which character you'll play as and which song will be played. You can change those settings anytime you like.",
+            "In order to save a level, you need to place the player character and their vehicle first. Go to the level tab and then place them wherever you like. You can also set the name, the cover and the s-rank score for the level on that tab, as well as floor transitions, be it by walking or via the elevator.",
+            "Each tab represents objects, tiles enemies and weapons that you can place. You place them with the \"LMB\" and remove them with \"RMB\". You can rotate items, enemies and walls with \"Shift + RMB\". If an item has more than one frame, you can change it using \"Scroll\". You can also hold \"Shift\" while moving around to make them stick to nearby walls.",
+            "Once the item or enemy is placed, you can move them by holding \"Ctrl + LMB\". You can rotate them by 90° with \"Ctrl + Shift + RMB\", while \"Ctrl + Shift + Scroll\" rotates them by 5° (works only for items).",
+            "For tiles, you can hold \"LMB\" to place a whole area of tiles. You can also remove areas with \"Shift + RMB\".",
+            "There's one type of tile, that differ from the other. Tiles from the \"Edge\" and \"Litter\" box go over existing tiles and serve as floor decorations. They can be walked over like any usual tile.",
+            "The menu bar at the top allows you to add / remove floors, effects, change the view, the level settings as well as save and even play the level.",
+            "To make campaigns, you have to make multiple single levels first and then tie them together with the campaign editor. Simply go to the campaign tab and press \"C\", just like a single level. In the following example I already made three single levels, and tie them together into one campaign.",
+            ""
         ]
     },
     {
         "name": "5 GettingStarted, chapter 2-2",
         "title": "Cutscenes",
-        "content": "tbd",
-        "images": [],
-        "extraContent": []
+        "content": "With the cutscene editor you can make your own story. Press \"Ctrl + Alt + C\" inside the editor or press the \"Create Cutscene\" button at the menu bar to access it.",
+        "images": [
+            "/screenshots/getting-started/c2-2-create.jpg",
+            "/screenshots/getting-started/c2-2-frame-tab.png",
+            "/screenshots/getting-started/c2-2-structure.png",
+            "",
+            "/screenshots/getting-started/c2-2-npcs.jpg",
+            "",
+            "/screenshots/getting-started/c2-2-global-actions.jpg",
+            "/screenshots/getting-started/c2-2-stop-sequence.jpg"
+        ],
+        "extraContent": [
+            "To your right, you'll see the frame and NPC tab of the cutscene editor. They can be separated in creating structure, setting focus, list overview and removing structure.",
+            "The list overview shows all the actions, that define the cutscene. A choreography can be simplified like this:",
+            "A trigger starts a cutscene, which will play a frame's actions. The actions happen at the same time. Once they're finished, the next frame starts playing.",
+            "The NPC tab contains two sections: NPCs and Items. NPCs are objects, that can interact with the same way you interact with the player character in cutscenes. You can change their sprites to your desire and make them solid and / or even killable.",
+            "Items are small objects, that can be interacted with if the player is nearby. You interact with them by clicking the right mouse button. They can be there throughout the whole scene, or make them visible after a scene ends. The \"finish\" property makes interacting with said item necessary to leave the level.",
+            "Actions can be separated into two types: Global and individual. Global actions are not connected to the player or NPCs. You can add dialogue, wait, play a sound / song, stop the music / sequence or activate an item.",
+            "Individual actions are tied to the player or any NPC. You can make them walk, change or animate their sprite, attack / die or rotate them. \"Trigger\" sets an NPC as a trigger to start a cutscene, while \"properties\" let you change their initial sprite and other properties. To end a cutscene you need to add the \"Stop Sequence\" action.",
+            "The \"Scene Complete\" option lets the player go to the car and proceed to the next level (if there is one). You can ignore the option if you want to continue the level with more cutscenes or end the level with a fadeout."
+        ]
     },
     {
         "name": "6 GettingStarted, chapter 2-3",
@@ -162,7 +190,6 @@
             "Serial Killers of Miami",
             "Animal Control 2",
             "Send Help",
-            "Fascio",
             "Manny Gear Solid 3",
             "The Helmet Brothers",
             "La Lega",
@@ -175,7 +202,6 @@
             "A campaign made around 2020 by \"society dog\", where you play as a man struggling with his psyche after going through the horrors of the Vietnam war. Its prequel \"Dark Past\" is still publicly available.",
             "The much longer sequel, which continues the story of the henchman eradicating the furry community for its mere existence.",
             "A single level that looks like Minecraft. You play as Herobrine killing Gang members and find diamonds on the last floor, leading to a quite humorous cutscene. Once shown in one of the \"Hotline Editor was a mistake\" videos.",
-            "A single level, which was an entry of The Workshop Labs' \"Vinyl Violence\" event, where you play as a man in a hockey mask clearing out a redneck-ish hideout. Noticable was the song picked, which was a Russian metal song, promoting the KKK and white genocide.",
             "The third installment of Metal Gear Solid parody, starring Manny Pardo as Solid Snake. Like the first two installment, it had very lengthy cutscenes. This one specifically also included a \"skip level\" and the infamous ladder scene recreated in Hotline Miami 2's janky level editor fashion.",
             "Title may be different. Campaign made around 2020 about two biker brothers in their 40s or 50s killing Russians. Mostly humurous and in good nature.",
             "50 Blessings campaign set in Italy, featuring two operators, one wearing a fox mask and the other wearing an aligator mask. Streaned by TheHoldDoor around 2020.",

@@ -15,13 +15,20 @@
         "id": 1,
         "title": "Epistle 1",
         "author": "Plank",
-        "date": "around 2023",
+        "date": "19th October 2022",
         "contents": [
+            "In this 1-level long campaign you're playing as CP-27:43 getting an order to find Mr. Porn Man in his porn house. What he finds there instead is beyond his paycheck.",
             "Part of the infamous \"Coomtaker\" saga, which hasn't been uploaded to the Steam Workshop, but instead on The Workshop Labs' Discord server, since its ending crashes the game no matter which way you go."
         ],
-        "images": [],
+        "images": [
+            "/screenshots/lost-and-found/Epistle 1/20260110214617_1.jpg",
+            "/screenshots/lost-and-found/Epistle 1/20260110214724_1.jpg",
+            "/screenshots/lost-and-found/Epistle 1/20260110214738_1.jpg",
+            "/screenshots/lost-and-found/Epistle 1/20260110215011_1.jpg",
+            "/screenshots/lost-and-found/Epistle 1/20260110215128_1.jpg"
+        ],
         "link": "lost-and-found-entries/epistle 1.zip",
-        "size": 2.8
+        "size": 2.87
     },
     {
         "id": 2,
@@ -30,7 +37,7 @@
         "date": "unknown",
         "contents": [
             "A single level by janja, starring Evan who invades an office complex of some sort.",
-            "A noticable feature of this level is the rather cryptic dialogue being l33t-speak Russian (don't know how else to describe it). That and an amazing animation of a car crashing into the building similar to the second boss of the original Hotline Miami."
+            "Noticable on this level is the rather cryptic dialogue being l33t-speak Russian (don't know how else to describe it). That and an amazing animation of a car crashing into the building similar to the second boss of Hotline Miami."
         ],
         "images": [
             "/screenshots/lost-and-found/2k Act 1/20251011214512_1.jpg",
@@ -354,6 +361,7 @@
             "This campaign was made a long time ago and the author has moved on from its subject matter. He doesn't endorse any behaviour and beliefs in it, so please don't bother him with this campaign. Instead, check out his newer stuff like \"Auto Angel\", \"Buried\", \"Wildstyle\", \"Fever\" and \"Moving Shadows\". They're all publicly available on the workshop."
         ],
         "images": [
+            "/screenshots/lost-and-found/Fandom Adventures Part 1/screen.png",
             "/screenshots/lost-and-found/Fandom Adventures Part 1/20251228224402_1.jpg",
             "/screenshots/lost-and-found/Fandom Adventures Part 1/20251228224744_1.jpg",
             "/screenshots/lost-and-found/Fandom Adventures Part 1/20251228230920_1.jpg",
@@ -365,5 +373,175 @@
         ],
         "link": "lost-and-found-entries/Fandom Adventures Part 1.zip",
         "size": 0.62
+    },
+    {
+        "id": 19,
+        "title": "To the top",
+        "author": "b-idea",
+        "date": "around 2020",
+        "contents": [
+            "A spin-off level featuring Dennis from Wildstyle (or rather HLM1). This short, but stylish level features a set of unique encounters in closed corridors while also keeping the atmostphere of the original game.",
+            "One noticable feature are the yellow soft walls working just like in the original game, making this level as true to the original game as possible, thanks to the technical discovery they made."
+        ],
+        "images": [
+            "/screenshots/lost-and-found/To The Top/20260109225434_1.jpg",
+            "/screenshots/lost-and-found/To The Top/20260109225508_1.jpg",
+            "/screenshots/lost-and-found/To The Top/20260109225533_1.jpg",
+            "/screenshots/lost-and-found/To The Top/20260109225632_1.jpg",
+            "/screenshots/lost-and-found/To The Top/20260109225737_1.jpg"
+        ],
+        "link": "lost-and-found-entries/To the top.zip",
+        "size": 1.35
+    },
+    {
+        "id": 20,
+        "title": "Dust",
+        "author": "b-idea",
+        "date": "10th July 2021",
+        "contents": [
+            "B-idea's ambitious 1-level campaign set in a post-apocalyptic world. You're playing as a female merc, fighting monsters inside an abandoned subway station.",
+            "This campaign oozes in atmosphere with its beautiful spritework and light effects and is not holding back with its difficulty, featuring a tight arena section and a crushing boss fight with its OST mainly taken from Quake 3: Arena."
+        ],
+        "images": [
+            "/screenshots/lost-and-found/Dust/20260109215104_1.jpg",
+            "/screenshots/lost-and-found/Dust/20260109215109_1.jpg",
+            "/screenshots/lost-and-found/Dust/20260109215302_1.jpg",
+            "/screenshots/lost-and-found/Dust/20260109215537_1.jpg",
+            "/screenshots/lost-and-found/Dust/20260109215622_1.jpg",
+            "/screenshots/lost-and-found/Dust/20260109215657_1.jpg",
+            "/screenshots/lost-and-found/Dust/20260109221338_1.jpg",
+            "/screenshots/lost-and-found/Dust/20260109221913_1.jpg",
+            "/screenshots/lost-and-found/Dust/20260109222455_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Dust.zip",
+        "size": 105
+    },
+    {
+        "id": 21,
+        "title": "Fascio",
+        "author": "dedsekret & xyfropunk",
+        "date": "10th July 2022",
+        "contents": [
+            "A level initially made for the \"Vinyl Violence\" collection. Set in a city, where you're fighting off terorrists, who just bombed a subway station, all accompanied with competent spritework and thrilling enemy placement.",
+            "Noticable are the radical imagery used to present the enemy faction as well as the chosen track in the background. You can get the music mod from the official steam collection at https://steamcommunity.com/sharedfiles/filedetails/?id=2786920139."
+        ],
+        "images": [
+            "/screenshots/lost-and-found/Fascio/screen.png",
+            "/screenshots/lost-and-found/Fascio/20260109213756_1.jpg",
+            "/screenshots/lost-and-found/Fascio/20260109213814_1.jpg",
+            "/screenshots/lost-and-found/Fascio/20260109213835_1.jpg",
+            "/screenshots/lost-and-found/Fascio/20260109213904_1.jpg",
+            "/screenshots/lost-and-found/Fascio/20260109213935_1.jpg",
+            "/screenshots/lost-and-found/Fascio/20260109214212_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Fascio.zip",
+        "size": 1.37
+    },
+    {
+        "id": 22,
+        "title": "JACKT WRKSHP EDTN",
+        "author": "CrazyJaydon",
+        "date": "17th September 2016",
+        "contents": [
+            "Jaydon's infamous shitpost campaign, solidifying the JACKT genre as the low effort shitposts in 8 compact and thrilling levels. Old and very outdated memes ahead. Play at you own risk!"
+        ],
+        "images": [
+            "/screenshots/lost-and-found/JACKT WRKSHP EDTN/20260109230950_1.jpg",
+            "/screenshots/lost-and-found/JACKT WRKSHP EDTN/20260109231057_1.jpg",
+            "/screenshots/lost-and-found/JACKT WRKSHP EDTN/20260109231110_1.jpg",
+            "/screenshots/lost-and-found/JACKT WRKSHP EDTN/20260109231609_1.jpg",
+            "/screenshots/lost-and-found/JACKT WRKSHP EDTN/20260109231646_1.jpg",
+            "/screenshots/lost-and-found/JACKT WRKSHP EDTN/20260109232147_1.jpg",
+            "/screenshots/lost-and-found/JACKT WRKSHP EDTN/20260109232316_1.jpg",
+            "/screenshots/lost-and-found/JACKT WRKSHP EDTN/20260109232637_1.jpg"
+        ],
+        "link": "lost-and-found-entries/JACKT WRKSHP EDTN.zip",
+        "size": 0.18
+    },
+    {
+        "id": 23,
+        "title": "Faded Act I",
+        "author": "perforator",
+        "date": "15th October 2017",
+        "contents": [
+            "Perforator's initial concept to what later became (or rather becomes) Revenant. This act covers the first 4 levels on how Alex gets involved into the life of crime in east europe, starting with a mysterious phone call and an ominous presence in his vivid dreams.",
+            "We recommend setting the game's language to Russian, as the dialogue goes over the screen if played in English."
+        ],
+        "images": [
+            "/screenshots/lost-and-found/Faded Act 1/20260110231315_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 1/20260110231509_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 1/20260110231549_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 1/20260110232416_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 1/20260110232650_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 1/20260110233427_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 1/20260110233543_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 1/20260110233623_1.jpg"
+        ],
+        "link": "lost-and-found-entries/FADED ACT I.zip",
+        "size": 2.27
+    },
+    {
+        "id": 24,
+        "title": "Faded Act II",
+        "author": "perforator",
+        "date": "26th February 2018",
+        "contents": [
+            "The 4-level long sequel of Alex's life of violence, now heading to Belarus' capital Minsk, clearing out the Mafia while getting suspicious about his higher-ups.",
+            "Like its prequel, we recommend setting the game's language to Russian, as the dialogue goes over the screen if played in English."
+        ],
+        "images": [
+            "/screenshots/lost-and-found/Faded Act 2/20260111001310_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 2/20260111000347_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 2/20260111002236_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 2/20260111000201_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 2/20260111001425_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 2/20260111002113_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 2/20260111003314_1.jpg"
+        ],
+        "link": "lost-and-found-entries/FADED ACT II.zip",
+        "size": 12.1
+    },
+    {
+        "id": 25,
+        "title": "Faded Act I (Rus)",
+        "author": "perforator",
+        "date": "15th October 2017",
+        "contents": [
+            "The Russian version of perforator's initial concept to what later became (or rather becomes) Revenant. This act covers the first 4 levels on how Alex gets involved into the life of crime in east europe, starting with a mysterious phone call and an ominous presence in his vivid dreams.",
+            "We recommend setting the game's language to Russian, otherwise the text will only say \"%%%%%%\"."
+        ],
+        "images": [
+            "/screenshots/lost-and-found/Faded Act 1 Rus/20260112210703_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 1 Rus/20260112210805_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 1/20260110231549_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 1/20260110232416_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 1 Rus/20260112211656_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 1/20260110233427_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 1/20260110233543_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 1/20260110233623_1.jpg"
+        ],
+        "link": "lost-and-found-entries/FADED ACT I RUS.zip",
+        "size": 2.27
+    },
+    {
+        "id": 26,
+        "title": "Faded Act II (Rus)",
+        "author": "perforator",
+        "date": "26th February 2018",
+        "contents": [
+            "The Russian version of perforator's following 4-level long act on Alex's life of violence, now heading to Belarus' capital Minsk, clearing out the Mafia while getting suspicious about his higher-ups.",
+            "Like its prequel, we recommend setting the game's language to Russian, or otherwise the text will only say \"%%%%%%\"."
+        ],
+        "images": [
+            "/screenshots/lost-and-found/Faded Act 2 Rus/20260112211808_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 2/20260111000347_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 2 Rus/20260112212624_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 2/20260111000201_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 2 Rus/20260112213030_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 2/20260111002113_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 2/20260111003314_1.jpg"
+        ],
+        "link": "lost-and-found-entries/FADED ACT II RUS.zip",
+        "size": 12.1
     }
 ]

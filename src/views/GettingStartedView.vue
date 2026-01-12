@@ -26,14 +26,14 @@
             </ol>
         </nav>
         <FoldingText id="chapter1" :mobile="mobile" :text="textsections[2]" open />
-        <details id="chapter2">
+        <details id="chapter2" open>
             <summary>
                 {{ textsections[3].title }}
             </summary>
             <p>{{ textsections[3].content }}</p>
-            <FoldingText id="chapter2-1" :mobile="mobile" :text="textsections[4]" open/>
-            <FoldingText id="chapter2-2" :mobile="mobile" :text="textsections[5]" open/>
-            <FoldingText id="chapter2-3" :mobile="mobile" :text="textsections[6]" open/>
+            <FoldingText id="chapter2-1" :mobile="mobile" :text="textsections[4]" />
+            <FoldingText id="chapter2-2" :mobile="mobile" :text="textsections[5]" />
+            <FoldingText id="chapter2-3" :mobile="mobile" :text="textsections[6]" />
         </details>
         <FoldingText id="chapter3" :mobile="mobile" :text="textsections[7]" />
         <FoldingText id="chapter4" :mobile="mobile" :text="textsections[8]" />

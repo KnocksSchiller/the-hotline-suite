@@ -39,6 +39,11 @@ export default {
     created() {
         this.currentScreenshot = 0
     },
+    watch: {
+        entry() {
+            this.currentScreenshot = 0
+        }
+    },
     methods: {
         isCurrentImage(index) {
             return index == this.currentScreenshot

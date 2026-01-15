@@ -543,5 +543,45 @@
         ],
         "link": "lost-and-found-entries/FADED ACT II RUS.zip",
         "size": 12.1
+    },
+    {
+        "id": 27,
+        "title": "Werewolf Nights",
+        "author": "the puzzler",
+        "date": "11th March 2017",
+        "contents": [
+            "A 10-level long campaign, featuring Dennis as a Werewolf trying to get by in Miami with his girlfriend Mary. This campaign offers plenty of levels as Manny, Henchman, Evan and Jacket while telling us a serious story."
+        ],
+        "images": [
+            "/screenshots/lost-and-found/Werewolf Nights/20260114123643_1.jpg",
+            "/screenshots/lost-and-found/Werewolf Nights/20260109233005_1.jpg",
+            "/screenshots/lost-and-found/Werewolf Nights/20260109233424_1.jpg",
+            "/screenshots/lost-and-found/Werewolf Nights/20260109233512_1.jpg",
+            "/screenshots/lost-and-found/Werewolf Nights/20260109235131_1.jpg",
+            "/screenshots/lost-and-found/Werewolf Nights/20260109234437_1.jpg",
+            "/screenshots/lost-and-found/Werewolf Nights/20260110001628_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Werewolf Nights.zip",
+        "size": 0.28
+    },
+    {
+        "id": 28,
+        "title": "Freaks",
+        "author": "the puzzler",
+        "date": "16th June 2017",
+        "contents": [
+            "A comedy campaign starring a group of \"Freaks\", trying to avenge the non-disabled people who mocked them. Will they succeed with their plans and get the respect they deserve? Find out in this 2-level long campaign."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Freaks/20260110211523_1.jpg",
+            "screenshots/lost-and-found/Freaks/20260110211400_2.jpg",
+            "screenshots/lost-and-found/Freaks/20260110211811_1.jpg",
+            "screenshots/lost-and-found/Freaks/20260110211859_1.jpg",
+            "screenshots/lost-and-found/Freaks/20260110211133_1.jpg",
+            "screenshots/lost-and-found/Freaks/20260110212333_1.jpg",
+            "screenshots/lost-and-found/Freaks/20260110212413_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Freaks.zip",
+        "size": 0.08
     }
 ]

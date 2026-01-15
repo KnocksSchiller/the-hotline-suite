@@ -62,6 +62,16 @@ body {
   src: url('@/assets/fonts/justice.ttf');
 }
 
+@font-face {
+  font-family:"Press Start 2P";
+  src: url('@/assets/fonts/PressStart2P-Regular.ttf');
+}
+
+@font-face{
+  font-family: "Atkinson-Hyperlegible";
+  src: url('@/assets/fonts/AtkinsonHyperlegible-Bold.ttf')
+}
+
 :root {
   --bg: #000A00;
   --dGreen: #002F00;
@@ -79,6 +89,22 @@ body {
 
 img {
   max-width: 100%;
+}
+
+/* Longer texts having a more readable font than retro-computer */
+.readable,
+.readable>*,
+details p,
+details li {
+  /* font-family: Arial, Helvetica, sans-serif; */
+  /* font-family: 'Courier New', Courier, monospace; */
+  /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+  /* font-family: 'Times New Roman', Times, serif; */
+  /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+  /* font-family: "Press Start 2P"; */
+  /* font-size: 16px; */
+  font-family: "Atkinson-Hyperlegible";
+  font-size: 22px;
 }
 
 h2,
@@ -199,13 +225,17 @@ button:hover {
 }
 
 details p {
-  margin-left: 30px;
   color: var(--lGreen);
   cursor: default;
 }
 
 details details summary {
   font-size: 28px;
+}
+
+details img,
+details p {
+  margin-left: 30px;
 }
 
 /* mobile rules */
@@ -247,11 +277,36 @@ details details summary {
     margin: 20px 8px;
   }
 
-  p,
-  i {
+  p {
     padding: 0 10px;
   }
 
+
+  p,
+  i,
+  a,
+  button,
+  li {
+    font-size: 16px;
+  }
+
+  h2,
+  summary {
+    font-size: 26px;
+  }
+
+  h1 {
+    font-size: 32px;
+  }
+
+  .readable,
+  .readable>*,
+  details p,
+  details li {
+    font-size: 18px;
+  }
+
+  details img,
   details p {
     margin-left: 0px;
   }

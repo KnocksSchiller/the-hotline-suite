@@ -1,24 +1,28 @@
 <template>
     <h2>{{ entry.title }}</h2>
-    <span>
+    <span v-if="!mobile">
         <p>By: <i>{{ entry.author }}</i></p>
         <p>Released: <i>{{ entry.date }}</i></p>
     </span>
+    <div v-else>
+        <p>By: <i>{{ entry.author }}</i></p>
+        <p>Released: <i>{{ entry.date }}</i></p>
+    </div>
     <div class="imgGrid">
         <div>
             <img v-if="entry.images[0]" :src="entry.images[this.currentScreenshot]">
-            <p v-else>This entry has no screenshots.</p>
+            <p v-else>This entry has no screenshots (yet).</p>
         </div>
         <div class="screenshot-grid">
             <img v-for="(image, index) in entry.images" :src="image" :aria-selected="isCurrentImage(index)"
                 @click=setCurrentImage(index)>
         </div>
     </div>
-    <p v-for="e in entry.contents">{{ e }}</p>
-    <template v-if="this.isDownload">
-        <button @click="downloadFile(entry.link, entry.title)">Download</button> <i>{{ entry.title }}.zip ({{ entry.size
-            }} MB)</i>
-    </template>
+    <p class="readable" v-for="e in entry.contents">{{ e }}</p>
+    <span v-if="this.isDownload">
+        <button @click="downloadFile(entry.link, entry.title)">Download</button>
+        <i>{{ entry.title }}.zip ({{ entry.size }} MB)</i>
+    </span>
 </template>
 
 <script>
@@ -34,6 +38,11 @@ export default {
     },
     created() {
         this.currentScreenshot = 0
+    },
+    watch: {
+        entry() {
+            this.currentScreenshot = 0
+        }
     },
     methods: {
         isCurrentImage(index) {
@@ -69,7 +78,12 @@ span>* {
     width: max-content;
 }
 
-span {
+span:last-of-type {
+    justify-content: flex-start;
+}
+
+span,
+span:first-of-type {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -82,7 +96,7 @@ p {
 .imgGrid {
     display: grid;
     grid-template-columns: 60% 40%;
-    grid-column-gap: 30px;
+    grid-column-gap: 20px;
     margin: 20px 0 40px;
     align-items: start;
 }
@@ -105,20 +119,15 @@ i {
     margin-left: 8px;
 }
 
+/* mobile */
 @media(max-width:768px) {
-    span {
-        flex-direction: column;
-        align-items: flex-start;
-        margin: 0 10px;
-    }
-
     h2 {
         margin-left: 10px;
     }
 
     .imgGrid {
         grid-template-columns: auto;
-        grid-row-gap: 20px;
+        grid-row-gap: 10px;
         width: 95%;
         margin: auto;
     }

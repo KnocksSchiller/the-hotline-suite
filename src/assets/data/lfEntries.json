@@ -583,5 +583,21 @@
         ],
         "link": "lost-and-found-entries/Freaks.zip",
         "size": 0.08
+    },
+    {
+        "id": 29,
+        "title": "True Friends",
+        "author": "CoyoteUgly1995",
+        "date": "3rd May 2016",
+        "contents": [
+            "A 1-level long shitpost campaign where you play as Mark, trying to get by with his daily life and helping out his thankless friends. Will they come to their senses and apologize for their rude behaviour? Only one way to find out!"
+        ],
+        "images": [
+            "screenshots/lost-and-found/True Friends/20260124223115_1.jpg",
+            "screenshots/lost-and-found/True Friends/20260124223126_1.jpg",
+            "screenshots/lost-and-found/True Friends/20260124223736_1.jpg"
+        ],
+        "link": "lost-and-found-entries/True Friends.zip",
+        "size": 0.03
     }
 ]

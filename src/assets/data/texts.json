@@ -105,29 +105,61 @@
     {
         "name": "6 GettingStarted, chapter 2-3",
         "title": "Making Sprites",
-        "content": "tbd",
-        "images": [],
-        "extraContent": []
+        "content": "You need two tools in order to make and implement custom sprites into your level. The first tool is a drawing program. If you already use one, feel free to stick to your preferred program, as long as it gets the job done. If not, the most common ones are Photoshop, GIMP, Paint.net, Aseprite and LibreSprite.",
+        "images": [
+            "/screenshots/getting-started/c2-3-pick-your-poison.png",
+            "",
+            "/screenshots/getting-started/c2-3-base-wads.png",
+            "/screenshots/getting-started/c2-3-extract.png",
+            "/screenshots/getting-started/c2-3-respriting.png",
+            "/screenshots/getting-started/c2-3-replacing.png",
+            "/screenshots/getting-started/c2-3-spunky.jpg"
+        ],
+        "extraContent": [
+            "The second one is the HLMWadExplorer. It's a program, that lets you look into the main game's wad files, in which all the art and ui elements are stored. You can find one of the newer versions at https://github.com/muster128/HLMWadExplorer/releases/tag/1.2. Instead of adding new content we replace already existing sprites with our own resprite. Don't worry, handling the program is pretty easy as long as you know all the paths.",
+            "When starting up HLMWadExplorer for the first time, it will ask you to choose a base .wad file to open. We need to look for the file “hlm2_data_desktop.wad”, which is inside the game's folder (go to the game's Steam / GOG settings to find its location if you have trouble finding it).",
+            "Next, we want to extract a sprite, so that we can work on it. We could just make an entirely new .png file, what matters is that the sprite's resolution is the same as the sprite we want to replace. In our example, we will extract Manny Pardo's face sprite. Make sure you selected the .png file instead of the .meta file.",
+            "Now we see, that we have to replace each sprite with our own version. For simplicity, we want to add a pair of sunglasses to Pardo's face. Don't be overwhelmed by the number of sprites, they're usually just 3 to 5 sprites going back and forth with a blinking animation in-between, so feel free to take shortcuts by copy and pasting them.",
+            "Next, we export the new face as a .png file and then replace Pardo's face inside the HLMWadExplorer with our new sprite.",
+            "At last, we can save our changes and put them into our custom mods folder (same path as the levels folder from chapter 1). If you don't have a mods folder in there, simply create a new one and call it “mods” (i.e. >path</HotlineMiami2/mods). Saving inside the HLMWadExplorer creates a .patchwad file, which updates the vanilla sprites with our new ones. It only works once you boot up the game, if you make changes while the game is running, they will not be applied.",
+            "And there we have it, here we have our new sprite portrayed in its full glory."
+        ]
     },
     {
         "name": "7 GettingStarted, chapter 3",
         "title": "Tutorials and Essential Guides",
-        "content": "TBD. Not sure what makes a good level? Feel free to check out the many YouTube tutorials and Steam guides that go further in depth of the many things you can do and what to avoid when making levels.",
-        "images": [],
+        "content": "Not sure what makes a good level? Feel free to check out the many YouTube tutorials and Steam guides that go more in depth of the many things you can do and what to avoid when making levels.",
+        "images": [
+            "",
+            "/screenshots/getting-started/c3-robs-yt-tutorial-series.png",
+            "/screenshots/getting-started/c3-mosten-level-design-guide.png",
+            "/screenshots/getting-started/c3-cutscene-guide.png",
+            "/screenshots/getting-started/c3-other-guides.png"
+        ],
         "extraContent": [
             "Rob's level editor YouTube tutorial series explains the many quirks of the level editor and the tools we use outside on a fundamental level and is the go-to starter for every aspiring modder. The videos themselves appear a bit long, but are worth the watch for learning the editor's way quickly.",
-            "Mostenire's \"Essential Level Design Guide\" is an excellent read that covers all the dos and don'ts on designing levels. This goes from placing enemies and floor transitions, as well as decorating and designing your levels with visual clarity and a theme in mind.",
-            "Knocks' \"Cutscene Editor Guide\" describes the many techniques and tricks on making cutscenes. From the basic structure on how cutscenes work to more in-depth rundown on more complex actions it covers both basic and more advanced needs on making your choreography smooth and as easy as possible.",
-            "Other guides are also commonly referred to, when it comes to specific needs of mods, such as Soda's music mod guide, Unfortunate's clock guide and Fusili's custom fonts guide."
+            "Mostenire's \"Essential Level Design Guide\" (https://steamcommunity.com/sharedfiles/filedetails/?id=3305685660) is an excellent read that covers all the dos and don'ts on designing levels. This goes from figuring out playstyles, to placing enemies and floor transitions, as well as decorating and designing your levels with visual clarity and a consistent theme in mind.",
+            "Knocks' \"Cutscene Editor Guide\" (https://steamcommunity.com/sharedfiles/filedetails/?id=3543217770) describes the many techniques and tricks on making good looking cutscenes. From the basic structure on how cutscenes work to more in-depth rundown on more complex actions it covers both basic and more advanced needs on making your choreography smooth and your workflow as easy as possible.",
+            "Other guides are also commonly referred to, when it comes to specific needs of mods, such as Soda's music mod guide, Unfortunate's clock guide, Fusili's custom fonts guide and so on. Feel free to roam through the many guides on Steam at your own pace by yourself.",
+            ""
         ]
     },
     {
         "name": "8 GettingStarted, chapter 4",
         "title": "Advanced Tools / Guides",
-        "content": "tbd",
-        "images": [],
+        "content": "Can't find a sprite from the main game, that isn't listed in the editor. Check out all the niche tricks and tools the community discovered and bring your levels and campaigns to a whole new level.",
+        "images": [
+            "",
+            "/screenshots/getting-started/c3-yoss-guides.png"
+        ],
         "extraContent": [
-            "Yoss' many guides about Notepad++ and the many discoveries that were made throughout the years."
+            "Yossarian's many guides on Notepad++ bring the possibilities of making your own content unique to a whole new level. Simply put, \"notepadding\" is a way to put in unique sprites and behaviours for all sorts of items by changing the IDs within a level's files. This can be done with any text editor, but Notepad++ has become the go-to definition for adding content, that the editor can't give on its own.",
+            "Qui's tools references, going down to the most important to the more niche tools.",
+            "Riv's encyclopaedia, updated and user friendly site, that shows all the sprites and object ids for easier notepadding",
+            "dump's HLMWadEditor and .META editor for advanced modifications on sprite, including useful options like resizing, adding more frames on a sprite, creating whole new ui layouts and more. WadEditor being the big tool, with most of their patchwad files requiring a manual download to work properly. That's what .meta editor is for, which is a lightweight version of it, allowing you to make more advanced changing without forcing players to download their mods manually.",
+            "Hex editors like XVI32 allow you to change hardcoded lines of the game, by modifying a the localization.bin file. More thorough explanation on Rob's tutorial part 9. If you want to add more text, use Maxim's localization editor instead (UI elements at 2941 and higher).",
+            "Riv's Better HLM Editor for cooler looking levels with much easier handling on changing object ids, corners, tiles and so on. Right now, it can be a bit finicky when working on the same level with both vanilla editor and Better Editor simultaneously, make sure to make backups beforehand.",
+            "Other miscellaneous tools, that help with niche problems like the .play decompiler to edit downloaded levels, using bmgFont to make custom font files more easily and the patchwad defender to prevent unauthorized sprite stealing, should you find it necessary."
         ]
     },
     {

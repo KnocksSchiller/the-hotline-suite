@@ -25,7 +25,7 @@
                 <li><a href="#chapter5">{{ textsections[9].title }}</a></li>
             </ol>
         </nav>
-        <FoldingText id="chapter1" :mobile="mobile" :text="textsections[2]" open />
+        <FoldingText id="chapter1" :mobile="mobile" :text="textsections[2]" />
         <details id="chapter2" open>
             <summary>
                 {{ textsections[3].title }}

@@ -80,5 +80,27 @@
             "/screenshots/hlm-likes/Red Hot Vengeance/challenges.png",
             "/screenshots/hlm-likes/Red Hot Vengeance/police-station.png"
         ]
+    },
+    {
+        "id": 4,
+        "title": "Jackal",
+        "author": "Transhuman Design",
+        "date": "5th February 2026",
+        "contents": [
+            "Jackal is a roguelite shooter from an isometric perspective. Set in the 1970s, you and your associate clear out the Mafia in Las Vegas, causing mayhem on the way.",
+            "The gameplay can be described as a combination of Hotline Miami's gunplay while adding randomly generated levels, that can be reshuffled by desire, NPCs both hostile and innocent, a stamina bar and a spell system. Spells can be used once per floor, while stamina allows you to either slide or interact with objects by kicking them around.",
+            "The game is available on Steam and offers a demo version, that consists of 6 levels, one of them with a bossfight."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Jackal/20260126184942_1.jpg",
+            "/screenshots/hlm-likes/Jackal/ss_bf4b9d8ce52c761b48f91575d9c72a25dea02f6b.jpg",
+            "/screenshots/hlm-likes/Jackal/ss_4ea42a0f7e1d626497e227dff8bddadbfb1bfe26.jpg",
+            "/screenshots/hlm-likes/Jackal/20260126184654_1.jpg",
+            "/screenshots/hlm-likes/Jackal/20260126182018_1.jpg",
+            "/screenshots/hlm-likes/Jackal/20260126180442_1.jpg",
+            "/screenshots/hlm-likes/Jackal/ss_733dde64f2586742033cc4c4aa2b7562870a0a3d.jpg",
+            "/screenshots/hlm-likes/Jackal/20260126184901_1.jpg",
+            "/screenshots/hlm-likes/Jackal/20260126181019_1.jpg"
+        ]
     }
 ]

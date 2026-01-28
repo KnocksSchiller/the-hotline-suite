@@ -153,7 +153,7 @@
             "/screenshots/getting-started/c3-yoss-guides.png"
         ],
         "extraContent": [
-            "Yossarian's many guides on Notepad++ bring the possibilities of making your own content unique to a whole new level. Simply put, \"notepadding\" is a way to put in unique sprites and behaviours for all sorts of items by changing the IDs within a level's files. This can be done with any text editor, but Notepad++ has become the go-to definition for adding content, that the editor can't give on its own.",
+            "Yossarian's many guides on Notepad++ can bring your content to a whole new level. Simply put, \"notepadding\" is a way to put in unique sprites and behaviours for all sorts of items by changing the IDs within a level's files. This can be done with any text editor, but Notepad++ has become the go-to definition for adding content, that the editor can't give on its own.",
             "Qui's tools references, going down to the most important to the more niche tools.",
             "Riv's encyclopaedia, updated and user friendly site, that shows all the sprites and object ids for easier notepadding",
             "dump's HLMWadEditor and .META editor for advanced modifications on sprite, including useful options like resizing, adding more frames on a sprite, creating whole new ui layouts and more. WadEditor being the big tool, with most of their patchwad files requiring a manual download to work properly. That's what .meta editor is for, which is a lightweight version of it, allowing you to make more advanced changing without forcing players to download their mods manually.",
@@ -229,7 +229,8 @@
             "E621",
             "Moonman",
             "New Life",
-            "Deep Blue"
+            "Deep Blue",
+            "Decay"
         ],
         "extraContent": [
             "A 2-level campaign from ~2020 / 21, in which you play as a guy raiding a secret lab. Second level features him obtaining a laser weapon, which he uses against the lab wardens. Once streamed by TheLegoMack on YouTube.",
@@ -243,7 +244,8 @@
             "A 3-level campaign about three anthropomorphic characters, with one of them being e621.net's mascot. Seen on this video from September 2016 https://www.youtube.com/watch?v=BqgyjuCVx9U.",
             "A single level revolving around Mac Tonight's twisted internet alter ego \"Moonman\", possibly committing hate crimes towards certain ethnic groups.",
             "A 4-level long campaign from 2019-ish starring Manny Pardo, who died and got reincarnated as a young, female undercover police officer. Some remains of the campaign were streamed by Rob Salmon on https://www.youtube.com/watch?v=zwes6DiynN0.",
-            "A 5-level long parody of SuitedFox's \"Deep Red\", starring knock-off versions of Jake Coalis and Vincent Corleonchetti (the 3rd). It was streamed by Rob Salmon on https://www.youtube.com/watch?v=zwes6DiynN0."
+            "A 5-level long parody of SuitedFox's \"Deep Red\", starring knock-off versions of Jake Coalis and Vincent Corleonchetti (the 3rd). It was streamed by Rob Salmon on https://www.youtube.com/watch?v=zwes6DiynN0.",
+            "A single level made in 2020, which takes the aesthetic of the first gameboys and / or Nokia color scheme and a vibrant bitcrushed track as the music of choice."
         ]
     },
     {

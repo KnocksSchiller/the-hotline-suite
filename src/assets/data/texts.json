@@ -15,14 +15,14 @@
     {
         "name": "2 GettingStarted, chapter 1",
         "title": "How to play custom levels / campaigns",
-        "content": "The level editor works exclusively on the PC version of Hotline Miami 2. While it is possible to create and play custom levels on GOG, we advise to do it on Steam, as it's properly connected to the Steam workshop. Here, you will learn how to download levels, how to play them and how to install mods, that require a manual installation.",
+        "content": "The level editor works exclusively on the PC version of Hotline Miami 2. While it is possible to create and play custom levels on GOG, we advise you to do it on Steam, as it's properly connected to Steam's workshop. Here, you will learn how to download levels, how to play them and how to install mods, that require a manual installation.",
         "images": [
             "/screenshots/getting-started/c1-workshop.png",
             "/screenshots/getting-started/c1-subscribe.png",
             "/screenshots/getting-started/c1-gog-download.png",
             "/screenshots/lost-and-found/non-entries/level-folder-windows.png",
             "/screenshots/lost-and-found/non-entries/level-folder-linux.png",
-            "",
+            "/screenshots/lost-and-found/non-entries/level-folder-mac2.png",
             "/screenshots/getting-started/c1-mods-folder.png",
             "/screenshots/getting-started/c1-wad-folder.png",
             "",
@@ -38,7 +38,7 @@
             "On Mac:",
             "As previously mentioned, some levels / campaigns require you to download mods for the full experience. Those can be separated in \".patchwad\" files and \".wad\" files. Patchwads handle simple resprites, sounds and weapons while wads are usually used for music mods, which replaces the game's songs. Here's where you store the patchwads, if the folder doesn't exist, simply create a new folder and call it \"mods\".",
             "Here's where you put the music wads and their OS equivalents:",
-            "Make sure, the wad name is the same as the original files, or else the game will either freeze or crash. The easiest thing to do, is to rename the original music wad to \"hlm2_music_desktop-vanilla.wad\", then adding the custom wad into the folder. After you finished playung the custom level, simply delete / rename the custom music wad and rename the vanilla wad back to \"hlm2_music_desktop.wad\".",
+            "Make sure, the wad name is the same as the original files, or else the game will either freeze or crash. The easiest thing to do, is to rename the original music wad to \"hlm2_music_desktop-vanilla.wad\", then adding the custom wad into the folder. After you finished playing the custom level, simply delete / rename the custom music wad and rename the vanilla wad back to \"hlm2_music_desktop.wad\".",
             "Now how do we actually play the level? First, you go to the editor tab on the main menu. You'll be greeted by this window, which sets you to your local single levels by default.",
             "To switch between single levels and campaigns, you press \"ESC\" and then either \"A\" or \"D\", then hit \"Enter\" or \"LMB\".",
             "To switch between locally installed levels and downloaded levels, simply hit \"Tab\". You can also press \"Space\" to sort the entries to your liking, if needed.",
@@ -68,19 +68,19 @@
         "extraContent": [
             "To create a level, head to the level editor tab and press \"C\". In the menu, you can choose which character you'll play as and which song will be played. You can change those settings anytime you like.",
             "In order to save a level, you need to place the player character and their vehicle first. Go to the level tab and then place them wherever you like. You can also set the name, the cover and the s-rank score for the level on that tab, as well as floor transitions, be it by walking or via the elevator.",
-            "Each tab represents objects, tiles enemies and weapons that you can place. You place them with the \"LMB\" and remove them with \"RMB\". You can rotate items, enemies and walls with \"Shift + RMB\". If an item has more than one frame, you can change it using \"Scroll\". You can also hold \"Shift\" while moving around to make them stick to nearby walls.",
+            "Each tab represents objects, tiles, enemies and weapons that you can place. You place them with \"LMB\" and remove them with \"RMB\". You can rotate items, enemies and walls with \"Shift + RMB\". If an item has more than one frame, you can change it using \"Scroll\". You can also hold \"Shift\" while moving around to make them stick to nearby walls.",
             "Once the item or enemy is placed, you can move them by holding \"Ctrl + LMB\". You can rotate them by 90° with \"Ctrl + Shift + RMB\", while \"Ctrl + Shift + Scroll\" rotates them by 5° (works only for items).",
             "For tiles, you can hold \"LMB\" to place a whole area of tiles. You can also remove areas with \"Shift + RMB\".",
-            "There's one type of tile, that differ from the other. Tiles from the \"Edge\" and \"Litter\" box go over existing tiles and serve as floor decorations. They can be walked over like any usual tile.",
+            "There's one type of tile, that differ from the other. Tiles from the \"Litter\" and \"Edges\" box go over existing tiles and serve as floor decorations. They can be walked over like any usual tile.",
             "The menu bar at the top allows you to add / remove floors, effects, change the view, the level settings as well as save and even play the level.",
-            "To make campaigns, you have to make multiple single levels first and then tie them together with the campaign editor. Simply go to the campaign tab and press \"C\", just like a single level. In the following example I already made three single levels, and tie them together into one campaign.",
+            "To make campaigns, you have to make multiple single levels first and then tie them together with the campaign editor. Simply go to the campaign tab and press \"C\", just like a single level. In the following example I tie three single levels into one campaign.",
             ""
         ]
     },
     {
         "name": "5 GettingStarted, chapter 2-2",
         "title": "Cutscenes",
-        "content": "With the cutscene editor you can make your own story. Press \"Ctrl + Alt + C\" inside the editor or press the \"Create Cutscene\" button at the menu bar to access it.",
+        "content": "With the cutscene editor you can write your own story. Press \"Ctrl + Alt + C\" inside the editor or press the \"Create Cutscene\" button at the menu bar to access it.",
         "images": [
             "/screenshots/getting-started/c2-2-create.jpg",
             "/screenshots/getting-started/c2-2-frame-tab.png",
@@ -88,7 +88,7 @@
             "",
             "/screenshots/getting-started/c2-2-npcs.jpg",
             "",
-            "/screenshots/getting-started/c2-2-global-actions.jpg",
+            "/screenshots/getting-started/c2-2-global-actions.png",
             "/screenshots/getting-started/c2-2-stop-sequence.jpg"
         ],
         "extraContent": [
@@ -96,7 +96,7 @@
             "The list overview shows all the actions, that define the cutscene. A choreography can be simplified like this:",
             "A trigger starts a cutscene, which will play a frame's actions. The actions happen at the same time. Once they're finished, the next frame starts playing.",
             "The NPC tab contains two sections: NPCs and Items. NPCs are objects, that can interact with the same way you interact with the player character in cutscenes. You can change their sprites to your desire and make them solid and / or even killable.",
-            "Items are small objects, that can be interacted with if the player is nearby. You interact with them by clicking the right mouse button. They can be there throughout the whole scene, or make them visible after a scene ends. The \"finish\" property makes interacting with said item necessary to leave the level.",
+            "Items are small objects, that can be interacted with if the player is nearby. You interact with them by clicking \"RMB\". They can be there throughout the whole scene, or make them visible after a scene ends. The \"finish\" property makes interacting with said item necessary to leave the level.",
             "Actions can be separated into two types: Global and individual. Global actions are not connected to the player or NPCs. You can add dialogue, wait, play a sound / song, stop the music / sequence or activate an item.",
             "Individual actions are tied to the player or any NPC. You can make them walk, change or animate their sprite, attack / die or rotate them. \"Trigger\" sets an NPC as a trigger to start a cutscene, while \"properties\" let you change their initial sprite and other properties. To end a cutscene you need to add the \"Stop Sequence\" action.",
             "The \"Scene Complete\" option lets the player go to the car and proceed to the next level (if there is one). You can ignore the option if you want to continue the level with more cutscenes or end the level with a fadeout."
@@ -116,12 +116,12 @@
             "/screenshots/getting-started/c2-3-spunky.jpg"
         ],
         "extraContent": [
-            "The second one is the HLMWadExplorer. It's a program, that lets you look into the main game's wad files, in which all the art and ui elements are stored. You can find one of the newer versions at https://github.com/muster128/HLMWadExplorer/releases/tag/1.2. Instead of adding new content we replace already existing sprites with our own resprite. Don't worry, handling the program is pretty easy as long as you know all the paths.",
-            "When starting up HLMWadExplorer for the first time, it will ask you to choose a base .wad file to open. We need to look for the file “hlm2_data_desktop.wad”, which is inside the game's folder (go to the game's Steam / GOG settings to find its location if you have trouble finding it).",
+            "The second one is the HLMWadExplorer. It's a program, that lets you look into the main game's wad files, in which all the art, sounds and UI elements are stored. You can find one of the newer versions at https://github.com/muster128/HLMWadExplorer/releases/tag/1.2. Instead of adding new content we replace existing sprites with our own resprite. Don't worry, handling the program is pretty easy as long as you know all the paths.",
+            "When starting up HLMWadExplorer for the first time, it will ask you to choose a base .wad file to open. We need to look for the file \"hlm2_data_desktop.wad\", which is inside the game's folder (go to the game's Steam / GOG settings to find its location if you have trouble finding it).",
             "Next, we want to extract a sprite, so that we can work on it. We could just make an entirely new .png file, what matters is that the sprite's resolution is the same as the sprite we want to replace. In our example, we will extract Manny Pardo's face sprite. Make sure you selected the .png file instead of the .meta file.",
             "Now we see, that we have to replace each sprite with our own version. For simplicity, we want to add a pair of sunglasses to Pardo's face. Don't be overwhelmed by the number of sprites, they're usually just 3 to 5 sprites going back and forth with a blinking animation in-between, so feel free to take shortcuts by copy and pasting them.",
             "Next, we export the new face as a .png file and then replace Pardo's face inside the HLMWadExplorer with our new sprite.",
-            "At last, we can save our changes and put them into our custom mods folder (same path as the levels folder from chapter 1). If you don't have a mods folder in there, simply create a new one and call it “mods” (i.e. >path</HotlineMiami2/mods). Saving inside the HLMWadExplorer creates a .patchwad file, which updates the vanilla sprites with our new ones. It only works once you boot up the game, if you make changes while the game is running, they will not be applied.",
+            "At last, we can save our changes and put them into our custom mods folder (same path as the levels folder from chapter 1). If you don't have a mods folder in there, simply create a new one and call it \"mods\" (i.e. >path</HotlineMiami2/mods). Saving inside the HLMWadExplorer creates a .patchwad file, which updates the vanilla sprites with our new ones. It only works once you boot up the game, if you make changes while the game is running, they will not be applied.",
             "And there we have it, here we have our new sprite portrayed in its full glory."
         ]
     },
@@ -139,7 +139,7 @@
         "extraContent": [
             "Rob's level editor YouTube tutorial series explains the many quirks of the level editor and the tools we use outside on a fundamental level and is the go-to starter for every aspiring modder. The videos themselves appear a bit long, but are worth the watch for learning the editor's way quickly.",
             "Mostenire's \"Essential Level Design Guide\" (https://steamcommunity.com/sharedfiles/filedetails/?id=3305685660) is an excellent read that covers all the dos and don'ts on designing levels. This goes from figuring out playstyles, to placing enemies and floor transitions, as well as decorating and designing your levels with visual clarity and a consistent theme in mind.",
-            "Knocks' \"Cutscene Editor Guide\" (https://steamcommunity.com/sharedfiles/filedetails/?id=3543217770) describes the many techniques and tricks on making good looking cutscenes. From the basic structure on how cutscenes work to more in-depth rundown on more complex actions it covers both basic and more advanced needs on making your choreography smooth and your workflow as easy as possible.",
+            "Knocks' \"Cutscene Editor Guide\" (https://steamcommunity.com/sharedfiles/filedetails/?id=3543217770) describes the many techniques and tricks on making good looking cutscenes. From the basic structure on how cutscenes work to a more in-depth rundown on more complex actions, it covers both basic and more advanced needs on making your choreography smooth and your workflow as easy as possible.",
             "Other guides are also commonly referred to, when it comes to specific needs of mods, such as Soda's music mod guide, Unfortunate's clock guide, Fusili's custom fonts guide and so on. Feel free to roam through the many guides on Steam at your own pace by yourself.",
             ""
         ]
@@ -147,27 +147,42 @@
     {
         "name": "8 GettingStarted, chapter 4",
         "title": "Advanced Tools / Guides",
-        "content": "Can't find a sprite from the main game, that isn't listed in the editor. Check out all the niche tricks and tools the community discovered and bring your levels and campaigns to a whole new level.",
+        "content": "Can't find a sprite from the main game, that isn't listed in the editor? Check out all the niche tricks and tools the community discovered and bring your levels and campaigns to a whole new level.",
         "images": [
             "",
-            "/screenshots/getting-started/c3-yoss-guides.png"
+            "/screenshots/getting-started/c3-yoss-guides.png",
+            "",
+            "/screenshots/getting-started/c4-rivs-encylopaedia.png",
+            "/screenshots/getting-started/c4-WadEditor.png",
+            "/screenshots/getting-started/c4-WadEditor2.jpg",
+            "/screenshots/getting-started/c4-better-editor.png",
+            "/screenshots/getting-started/c4-hexedited.png",
+            "/screenshots/getting-started/c4-hexedited-2.jpg"
         ],
         "extraContent": [
-            "Yossarian's many guides on Notepad++ bring the possibilities of making your own content unique to a whole new level. Simply put, \"notepadding\" is a way to put in unique sprites and behaviours for all sorts of items by changing the IDs within a level's files. This can be done with any text editor, but Notepad++ has become the go-to definition for adding content, that the editor can't give on its own.",
-            "Qui's tools references, going down to the most important to the more niche tools.",
-            "Riv's encyclopaedia, updated and user friendly site, that shows all the sprites and object ids for easier notepadding",
-            "dump's HLMWadEditor and .META editor for advanced modifications on sprite, including useful options like resizing, adding more frames on a sprite, creating whole new ui layouts and more. WadEditor being the big tool, with most of their patchwad files requiring a manual download to work properly. That's what .meta editor is for, which is a lightweight version of it, allowing you to make more advanced changing without forcing players to download their mods manually.",
-            "Hex editors like XVI32 allow you to change hardcoded lines of the game, by modifying a the localization.bin file. More thorough explanation on Rob's tutorial part 9. If you want to add more text, use Maxim's localization editor instead (UI elements at 2941 and higher).",
-            "Riv's Better HLM Editor for cooler looking levels with much easier handling on changing object ids, corners, tiles and so on. Right now, it can be a bit finicky when working on the same level with both vanilla editor and Better Editor simultaneously, make sure to make backups beforehand.",
-            "Other miscellaneous tools, that help with niche problems like the .play decompiler to edit downloaded levels, using bmgFont to make custom font files more easily and the patchwad defender to prevent unauthorized sprite stealing, should you find it necessary."
+            "Yossarian's many guides on Notepad++ make your levels feel much more alive, be it by adding / removing shadows on certain items or add weapons or enemies, that can't be added otherwise. Simply put, \"notepadding\" is the term to change an item's / NPC's looks and behaviour by changing their IDs inside the level files. This can be done with any text editor, Notepad++ is just the default tool for adding content, that the vanilla editor can't offer.",
+            "Further below we'll discuss the many tools that were either made by the community or found to be useful for modifying the game's files. All of them can be found in qui's tools list at https://linktr.ee/hlm2_tools. Here, we list the most important ones to the more niche tools that are used for special needs.",
+            "Riv's encyclopaedia is an updated version of the infamous object and sprite id lists, that were promoted on old YouTube tutorials and Steam guides. This site includes both sprite ids and objects in one place. With sprite ID, object ID, path, size, number of frames, depth and many more attributes, it serves as the ultimate reference sheet to make notepadding easier. If you ever find yourself using Notepad++, this list is the go-to helper.",
+            "The HLMWadEditor by dump is a more advanced tool, that takes the many features of the WadExplorer and expands it with more customization, like resizing, adding frames on a sprite, adjust item masking and creating new UI layouts altogether. When working with the WadEditor, players are more often required to download the patchwads manually. To minimize that, you can use the .META editor to create lightweight files, that don't require a manual download, once it's in your campaign / level folder.",
+            "",
+            "Riv's Better HLM Editor is an alternative to the game's vanilla level editor with freedom in mind. Next to a zoom option and a complete sprites and objects list, this editor gives you much more power in terms of a level's visual design, thus making your levels much prettier. But keep in mind, that the level can break when trying to edit it with both the Better Editor and the vanilla editor simultaneously, so make sure to make a backup before trying anything risky.",
+            "Hex editors like XVI32 allow you to change the text of the localization files, including UI elements. You can find a more thorough explanation on Rob's YouTube tutorial in Part 9, 12 minutes onwards. If the space is not enough, you can also use Maxim_S' localization editor, which allows you to expand on it (UI elements at string 2941 and higher).",
+            "",
+            "At last, we have the more niche tools, that can help you with specific problems. Such as the .play decompiler to extract and edit downloaded levels and campaigns, bmgFont to create custom font files more easily and the patchwad defender to prevent unauthorized sprite stealing, should you find it necessary."
         ]
     },
     {
         "name": "9 GettingStarted, chapter 5",
         "title": "I WANT MORE!!!",
-        "content": "tbd",
-        "images": [],
-        "extraContent": []
+        "content": "So, you want to know it all. You are very welcome to join our places to talk, where the majority of the community hangs out, posts about their own projects for feedback and make new discoveries. Check out our page on \"Places To Talk\", to know the best place for you.",
+        "images": [
+            "",
+            "/screenshots/getting-started/c5-hlm-wiki.png"
+        ],
+        "extraContent": [
+            "Other than that, there's also the Fandom Wiki page for Hotline Miami, whose \"Level Editor\" category gets occasionally updated with the newest sprite dumps, replacement mods and other useful templates, that you can download and use for yourself. Take a look and see what catches your eye!",
+            ""
+        ]
     },
     {
         "name": "10 LostAndFound, Q1",
@@ -184,7 +199,7 @@
         "images": [
             "/screenshots/lost-and-found/non-entries/level-folder-windows.png",
             "/screenshots/lost-and-found/non-entries/level-folder-linux.png",
-            ""
+            "/screenshots/lost-and-found/non-entries/level-folder-mac2.png"
         ],
         "extraContent": [
             "On Linux:",
@@ -197,7 +212,7 @@
         "title": "Is this safe? How do I know there aren't any viruses?",
         "content": "Yes, it's safe. We test each entry for ourselves and check the given folder for any malicious content before adding them to this archive.",
         "extraContent": [
-            "Please contact us immediately should there be an oversight on our behalf."
+            "Please contact us immediately should there be an oversight from us."
         ]
     },
     {
@@ -206,12 +221,12 @@
         "content": "Yes. We welcome all sorts of lost media from the modding scene, be it a standalone HLM1 mod or a workshop entry for HLM2. Before you send it our way, make sure your entry ticks the following criteria:",
         "listed": [
             "Compressed in a .zip file",
-            "Has been uploaded before (preferably on Steam Workshop or itch.io). Unreleased projects that never shipped aren't lost media.",
+            "Has been uploaded before, preferably on Steam Workshop or itch.io. Unreleased projects that never shipped aren't lost media.",
             "Provided with screenshots (optional)"
         ],
         "extraContent": [
             "Other information about the lost entry such as release date, name of the author, story summary or maybe some trivia are also welcome, but not necessary.",
-            "Simply send us an email with the info and we'll check out your entry soon™."
+            "Simply send us an email with the info and we'll check out your entry soon™. Feel free to tell us whether we should put your name to the contributors' list or not."
         ]
     },
     {
@@ -229,7 +244,8 @@
             "E621",
             "Moonman",
             "New Life",
-            "Deep Blue"
+            "Deep Blue",
+            "Decay"
         ],
         "extraContent": [
             "A 2-level campaign from ~2020 / 21, in which you play as a guy raiding a secret lab. Second level features him obtaining a laser weapon, which he uses against the lab wardens. Once streamed by TheLegoMack on YouTube.",
@@ -243,7 +259,8 @@
             "A 3-level campaign about three anthropomorphic characters, with one of them being e621.net's mascot. Seen on this video from September 2016 https://www.youtube.com/watch?v=BqgyjuCVx9U.",
             "A single level revolving around Mac Tonight's twisted internet alter ego \"Moonman\", possibly committing hate crimes towards certain ethnic groups.",
             "A 4-level long campaign from 2019-ish starring Manny Pardo, who died and got reincarnated as a young, female undercover police officer. Some remains of the campaign were streamed by Rob Salmon on https://www.youtube.com/watch?v=zwes6DiynN0.",
-            "A 5-level long parody of SuitedFox's \"Deep Red\", starring knock-off versions of Jake Coalis and Vincent Corleonchetti (the 3rd). It was streamed by Rob Salmon on https://www.youtube.com/watch?v=zwes6DiynN0."
+            "A 5-level long parody of SuitedFox's \"Deep Red\", starring knock-off versions of Jake Coalis and Vincent Corleonchetti (the 3rd). It was streamed by Rob Salmon on https://www.youtube.com/watch?v=zwes6DiynN0.",
+            "A single level made in 2020, which takes the aesthetic of the first gameboys and / or Nokia color scheme and a vibrant bitcrushed track as the music of choice."
         ]
     },
     {

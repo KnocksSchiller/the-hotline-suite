@@ -22,7 +22,7 @@
             "/screenshots/getting-started/c1-gog-download.png",
             "/screenshots/lost-and-found/non-entries/level-folder-windows.png",
             "/screenshots/lost-and-found/non-entries/level-folder-linux.png",
-            "/screenshots/lost-and-found/non-entries/level-folder-mac.png",
+            "/screenshots/lost-and-found/non-entries/level-folder-mac2.png",
             "/screenshots/getting-started/c1-mods-folder.png",
             "/screenshots/getting-started/c1-wad-folder.png",
             "",
@@ -199,7 +199,7 @@
         "images": [
             "/screenshots/lost-and-found/non-entries/level-folder-windows.png",
             "/screenshots/lost-and-found/non-entries/level-folder-linux.png",
-            "/screenshots/lost-and-found/non-entries/level-folder-mac.png"
+            "/screenshots/lost-and-found/non-entries/level-folder-mac2.png"
         ],
         "extraContent": [
             "On Linux:",
@@ -221,7 +221,7 @@
         "content": "Yes. We welcome all sorts of lost media from the modding scene, be it a standalone HLM1 mod or a workshop entry for HLM2. Before you send it our way, make sure your entry ticks the following criteria:",
         "listed": [
             "Compressed in a .zip file",
-            "Has been uploaded before (preferably on Steam Workshop or itch.io). Unreleased projects that never shipped aren't lost media.",
+            "Has been uploaded before, preferably on Steam Workshop or itch.io. Unreleased projects that never shipped aren't lost media.",
             "Provided with screenshots (optional)"
         ],
         "extraContent": [

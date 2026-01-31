@@ -384,6 +384,7 @@
             "One noticable feature are the yellow soft walls working just like in the original game, making this level as true to the original game as possible, thanks to the technical discovery they made."
         ],
         "images": [
+            "/screenshots/lost-and-found/To The Top/screen.png",
             "/screenshots/lost-and-found/To The Top/20260109225434_1.jpg",
             "/screenshots/lost-and-found/To The Top/20260109225508_1.jpg",
             "/screenshots/lost-and-found/To The Top/20260109225533_1.jpg",
@@ -599,5 +600,96 @@
         ],
         "link": "lost-and-found-entries/True Friends.zip",
         "size": 0.03
+    },
+        {
+        "id": 30,
+        "title": "The Comedy Hour",
+        "author": "Comedy Greg",
+        "date": "29th December 2017",
+        "contents": [
+            "An 8-level long campaign about a group of friends, who's podcast was stolen by a rival group. The story handles their struggles with each other and overcoming their differences by reaching a common goal.",
+            "The jokes in the campaign are rather edgy and thrives with both sexually and racially questionable statements. Take it as a warning."
+        ],
+        "images": [
+            "screenshots/lost-and-found/The Comedy Hour/screen.png",
+            "screenshots/lost-and-found/The Comedy Hour/20260130210808_1.jpg",
+            "screenshots/lost-and-found/The Comedy Hour/20260130211523_1.jpg",
+            "screenshots/lost-and-found/The Comedy Hour/20260130215037_1.jpg",
+            "screenshots/lost-and-found/The Comedy Hour/20260130211953_1.jpg",
+            "screenshots/lost-and-found/The Comedy Hour/20260130213404_1.jpg",
+            "screenshots/lost-and-found/The Comedy Hour/20260130215207_1.jpg"
+        ],
+        "link": "lost-and-found-entries/The Comedy Hour.zip",
+        "size": 0.26
+    },
+        {
+        "id": 31,
+        "title": "Jackt Kngdm",
+        "author": "SuitedFox",
+        "date": "27th June 2017",
+        "contents": [
+            "A 10-level long campaign, about Jackt's and Pardo's offspring taking over Acid Kingdom and planning Miami's ultimate demise. Even if thing look hopeless at first, the people of the Hotline Miami community might have a chance, if they come together and fight the enemy as a team.",
+            "The campaign is similar to \"Workshop War\" with the inclusion of several community members from that era, but is also very self-aware about the narrative, making the campaign pretty meta regarding the author's choice of creative output at the time."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Jackt Kngdm/20260130194724_1.jpg",
+            "screenshots/lost-and-found/Jackt Kngdm/20260130193357_1.jpg",
+            "screenshots/lost-and-found/Jackt Kngdm/20260130193919_1.jpg",
+            "screenshots/lost-and-found/Jackt Kngdm/20260130193324_1.jpg",
+            "screenshots/lost-and-found/Jackt Kngdm/20260130193943_1.jpg",
+            "screenshots/lost-and-found/Jackt Kngdm/20260130201809_1.jpg",
+            "screenshots/lost-and-found/Jackt Kngdm/20260130200923_1.jpg",
+            "screenshots/lost-and-found/Jackt Kngdm/20260130195245_1.jpg",
+            "screenshots/lost-and-found/Jackt Kngdm/20260130200233_1.jpg",
+            "screenshots/lost-and-found/Jackt Kngdm/20260130202601_1.jpg",
+            "screenshots/lost-and-found/Jackt Kngdm/20260130194559_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Jackt Kngdm.zip",
+        "size": 3.26
+    },
+        {
+        "id": 32,
+        "title": "Miami Memes",
+        "author": "Plank",
+        "date": "30th April 2016",
+        "contents": [
+            "A 3-level long shitpost campaign akin to the average JACKT genre. For when you thought Plank's infamous Coomtaker saga is the only shitpost he's ever made, here's one point that argues against that statement."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Miami Memes/20260131135832_1.jpg",
+            "screenshots/lost-and-found/Miami Memes/20260131135948_1.jpg",
+            "screenshots/lost-and-found/Miami Memes/20260131140058_1.jpg",
+            "screenshots/lost-and-found/Miami Memes/20260131140224_1.jpg",
+            "screenshots/lost-and-found/Miami Memes/20260131140502_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Miami Memes.zip",
+        "size": 0.02
+    },
+        {
+        "id": 33,
+        "title": "Hamr Adventure",
+        "author": "Purrple",
+        "date": "28th May 2016",
+        "contents": [
+            "Hamr Adventure can be treated as an endurance test. With 24 levels, this campaign stands out not only from its sheer length, but also with its unique story-telling, while sticking to the regular JACKT format, giving the campaign an overall abstract vibe to it.", 
+            "The level design vary from bearable to mild annoyance to purgatory. So don't worry if you struggle in levels like \"House\", \"Ducktape\" or the last 4 levels in general, as they are very demanding by design."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Hamr Adventure/20260130220039_1.jpg",
+            "screenshots/lost-and-found/Hamr Adventure/20260130221135_1.jpg",
+            "screenshots/lost-and-found/Hamr Adventure/20260130221828_1.jpg",
+            "screenshots/lost-and-found/Hamr Adventure/20260130223433_1.jpg",
+            "screenshots/lost-and-found/Hamr Adventure/20260130223526_1.jpg",
+            "screenshots/lost-and-found/Hamr Adventure/20260130225145_1.jpg",
+            "screenshots/lost-and-found/Hamr Adventure/20260130233515_1.jpg",
+            "screenshots/lost-and-found/Hamr Adventure/20260130234822_1.jpg",
+            "screenshots/lost-and-found/Hamr Adventure/20260131001607_1.jpg",
+            "screenshots/lost-and-found/Hamr Adventure/20260131001625_1.jpg",
+            "screenshots/lost-and-found/Hamr Adventure/20260131002146_1.jpg",
+            "screenshots/lost-and-found/Hamr Adventure/20260131004314_1.jpg",
+            "screenshots/lost-and-found/Hamr Adventure/20260131004934_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Hamr Adventure.zip",
+        "size": 0.93
     }
 ]

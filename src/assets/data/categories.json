@@ -3,42 +3,42 @@
         "title": "Getting Started",
         "description": "Learn how to play, create and search for new custom HLM2 Content.",
         "descriptionMobile": "How to play and create new Hotline Miami 2 Content.",
-        "icon": "/screenshots/categories/category-icon-placeholder.png",
+        "icon": "/screenshots/categories/category-getting-started-big.png",
         "to": "/getting-started"
     },
     {
         "title": "HLM1-Modding",
         "description": "Bring your project to the next level! Learn the quirks of Gamemaker / GMS.",
         "descriptionMobile": "Bring your project to the next level with Gamemaker / GMS.",
-        "icon": "/screenshots/categories/category-icon-placeholder.png",
+        "icon": "/screenshots/categories/category-hlm1-modding-big.png",
         "to": "/hlm1-modding"
     },
     {
         "title": "Places To Talk",
         "description": "Join our community, make connections and be up to date on upcoming projects.",
         "descriptionMobile": "Join our community and make connections.",
-        "icon": "/screenshots/categories/category-icon-placeholder.png",
+        "icon": "/screenshots/categories/category-places-to-talk-big.png",
         "to": "/places-to-talk"
     },
     {
         "title": "Workshop Dives",
         "description": "A closer look at the many noteworthy mods throughout the years.",
         "descriptionMobile": "A closer look at noteworthy mods throughout the years.",
-        "icon": "/screenshots/categories/category-icon-placeholder.png",
+        "icon": "/screenshots/categories/category-workshop-dives-big.png",
         "to": "/workshop-dives"
     },
     {
         "title": "Lost & Found",
         "description": "Check out our archive of lost media, that we managed to recover.",
         "descriptionMobile": "Lost Media, that we managed to recover. Now Available.",
-        "icon": "/screenshots/categories/category-icon-placeholder.png",
+        "icon": "/screenshots/categories/category-lost-and-found-big.png",
         "to": "/lost-and-found"
     },
     {
         "title": "Hotline-Likes",
         "description": "Don't want to play the same two games? See what other games do the trick.",
         "descriptionMobile": "See which game scratches the same itch as Hotline Miami.",
-        "icon": "/screenshots/categories/category-icon-placeholder.png",
+        "icon": "/screenshots/categories/category-hotline-likes-big.png",
         "to": "/hotline-likes"
     }
 ]

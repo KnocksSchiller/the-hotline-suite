@@ -2,7 +2,7 @@
     {
         "name": "0 HomeAbout",
         "title": "About",
-        "content": "This is a website hosted on AWS with the intention to promote and get people into custom made content, that revolve around the indie top-down-shooter \"Hotline Miami\". Most of this site's content revolve around making, creating and playing custom made entries for \"Hotline Miami\" and \"Hotline Miami 2: Wrong Number\". Since the release of the first game in 2012, the community has been growing ever since and became very dedicated after the release of the second game's level editor.",
+        "content": "This website's intention is to promote and get people into custom made content, that revolve around the indie top-down-shooter \"Hotline Miami\". The Hotline modding community has been growing since the release of the first game in 2012 and became very dedicated after the release of the second game's level editor. Most of this site's content revolve around making, creating and playing custom made entries for \"Hotline Miami\" and \"Hotline Miami 2: Wrong Number\".",
         "extraContent": [
             "We also offer places to talk to, mainly public discord servers but also subreddits that you can engage with, be it casually or for genuine feedback by other community members."
         ]
@@ -10,7 +10,7 @@
     {
         "name": "1 HomeFAQ1",
         "title": "Who is this website for?",
-        "content": "This website is mainly for people who want to get into the modding scene of \"Hotline Miami\" and its sequel. However, it can be just as interesting for active community members to see what other games can offer the same engagement as Hotline Miami or even see and play one of the lost entries, that we managed to recover."
+        "content": "This website is mainly for people who want to get into the modding scene of \"Hotline Miami\" and its sequel. With the addition of the Lost and Found section and the Hotline-Likes section it can be just as interesting for active community members to see what other games can engage them."
     },
     {
         "name": "2 GettingStarted, chapter 1",

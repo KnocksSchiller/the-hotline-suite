@@ -296,7 +296,7 @@
         "id": 15,
         "title": "Snowblind",
         "author": "Plank",
-        "date": "Around 2016 / 2017",
+        "date": "6th April 2017",
         "contents": [
             "A fan-made single level set in the universe of the Hunter trilogy. Here, you play as Simon clearing out a 3-floor building full of thugs and Bratva members.",
             "While the level itself is competently made, it also serves as a time capsule on how Hunter's sprites used to look like compared to the current, more refined version of the trilogy."
@@ -313,26 +313,6 @@
     },
     {
         "id": 16,
-        "title": "Banger",
-        "author": "b-idea",
-        "date": "August 2019",
-        "contents": [
-            "A single level from the colaborative collection \"Summer Of Rage\", featuring 3 action packed floors with many summer-themed sprites and vibrant enemy and furniture recolors.",
-            "The level collection itself has a music mod, which is encouraged to be installed when playing the whole collection. You can find it at https://steamcommunity.com/workshop/filedetails/?id=1822110263."
-        ],
-        "images": [
-            "/screenshots/lost-and-found/Banger/20251231160005_1.jpg",
-            "/screenshots/lost-and-found/Banger/20251231160132_1.jpg",
-            "/screenshots/lost-and-found/Banger/20251231160333_1.jpg",
-            "/screenshots/lost-and-found/Banger/20251231160408_1.jpg",
-            "/screenshots/lost-and-found/Banger/20251231160512_1.jpg",
-            "/screenshots/lost-and-found/Banger/20251229012914_1.jpg"
-        ],
-        "link": "lost-and-found-entries/Banger.zip",
-        "size": 2.03
-    },
-    {
-        "id": 17,
         "title": "Politics",
         "author": "1spiceyburgar",
         "date": "15th February 2021",
@@ -352,7 +332,7 @@
         "size": 419
     },
     {
-        "id": 18,
+        "id": 17,
         "title": "Fandom Adventures Part 1",
         "author": "Atlan",
         "date": "22nd May 2016",
@@ -375,50 +355,7 @@
         "size": 0.62
     },
     {
-        "id": 19,
-        "title": "To the top",
-        "author": "b-idea",
-        "date": "around 2020",
-        "contents": [
-            "A spin-off level featuring Dennis from Wildstyle (or rather HLM1). This short, but stylish level features a set of unique encounters in closed corridors while also keeping the atmostphere of the original game.",
-            "One noticable feature are the yellow soft walls working just like in the original game, making this level as true to the original game as possible, thanks to the technical discovery they made."
-        ],
-        "images": [
-            "/screenshots/lost-and-found/To The Top/screen.png",
-            "/screenshots/lost-and-found/To The Top/20260109225434_1.jpg",
-            "/screenshots/lost-and-found/To The Top/20260109225508_1.jpg",
-            "/screenshots/lost-and-found/To The Top/20260109225533_1.jpg",
-            "/screenshots/lost-and-found/To The Top/20260109225632_1.jpg",
-            "/screenshots/lost-and-found/To The Top/20260109225737_1.jpg"
-        ],
-        "link": "lost-and-found-entries/To the top.zip",
-        "size": 1.35
-    },
-    {
-        "id": 20,
-        "title": "Dust",
-        "author": "b-idea",
-        "date": "10th July 2021",
-        "contents": [
-            "B-idea's ambitious 1-level campaign set in a post-apocalyptic world. You're playing as a female merc, fighting monsters inside an abandoned subway station.",
-            "This campaign oozes in atmosphere with its beautiful spritework and light effects and is not holding back with its difficulty, featuring a tight arena section and a crushing boss fight with its OST mainly taken from Quake 3: Arena."
-        ],
-        "images": [
-            "/screenshots/lost-and-found/Dust/20260109215104_1.jpg",
-            "/screenshots/lost-and-found/Dust/20260109215109_1.jpg",
-            "/screenshots/lost-and-found/Dust/20260109215302_1.jpg",
-            "/screenshots/lost-and-found/Dust/20260109215537_1.jpg",
-            "/screenshots/lost-and-found/Dust/20260109215622_1.jpg",
-            "/screenshots/lost-and-found/Dust/20260109215657_1.jpg",
-            "/screenshots/lost-and-found/Dust/20260109221338_1.jpg",
-            "/screenshots/lost-and-found/Dust/20260109221913_1.jpg",
-            "/screenshots/lost-and-found/Dust/20260109222455_1.jpg"
-        ],
-        "link": "lost-and-found-entries/Dust.zip",
-        "size": 105
-    },
-    {
-        "id": 21,
+        "id": 18,
         "title": "Fascio",
         "author": "dedsekret & xyfropunk",
         "date": "10th July 2022",
@@ -439,7 +376,7 @@
         "size": 1.37
     },
     {
-        "id": 22,
+        "id": 19,
         "title": "JACKT WRKSHP EDTN",
         "author": "CrazyJaydon",
         "date": "17th September 2016",
@@ -460,7 +397,7 @@
         "size": 0.18
     },
     {
-        "id": 23,
+        "id": 20,
         "title": "Faded Act I",
         "author": "perforator",
         "date": "15th October 2017",
@@ -482,7 +419,7 @@
         "size": 2.27
     },
     {
-        "id": 24,
+        "id": 21,
         "title": "Faded Act II",
         "author": "perforator",
         "date": "26th February 2018",
@@ -503,7 +440,7 @@
         "size": 12.1
     },
     {
-        "id": 25,
+        "id": 22,
         "title": "Faded Act I (Rus)",
         "author": "perforator",
         "date": "15th October 2017",
@@ -525,7 +462,7 @@
         "size": 2.27
     },
     {
-        "id": 26,
+        "id": 23,
         "title": "Faded Act II (Rus)",
         "author": "perforator",
         "date": "26th February 2018",
@@ -546,7 +483,7 @@
         "size": 12.1
     },
     {
-        "id": 27,
+        "id": 24,
         "title": "Werewolf Nights",
         "author": "the puzzler",
         "date": "11th March 2017",
@@ -566,7 +503,7 @@
         "size": 0.28
     },
     {
-        "id": 28,
+        "id": 25,
         "title": "Freaks",
         "author": "the puzzler",
         "date": "16th June 2017",
@@ -586,7 +523,7 @@
         "size": 0.08
     },
     {
-        "id": 29,
+        "id": 26,
         "title": "True Friends",
         "author": "CoyoteUgly1995",
         "date": "3rd May 2016",
@@ -601,8 +538,8 @@
         "link": "lost-and-found-entries/True Friends.zip",
         "size": 0.03
     },
-        {
-        "id": 30,
+    {
+        "id": 27,
         "title": "The Comedy Hour",
         "author": "Comedy Greg",
         "date": "29th December 2017",
@@ -622,8 +559,8 @@
         "link": "lost-and-found-entries/The Comedy Hour.zip",
         "size": 0.26
     },
-        {
-        "id": 31,
+    {
+        "id": 28,
         "title": "Jackt Kngdm",
         "author": "SuitedFox",
         "date": "27th June 2017",
@@ -647,8 +584,8 @@
         "link": "lost-and-found-entries/Jackt Kngdm.zip",
         "size": 3.26
     },
-        {
-        "id": 32,
+    {
+        "id": 29,
         "title": "Miami Memes",
         "author": "Plank",
         "date": "30th April 2016",
@@ -665,13 +602,13 @@
         "link": "lost-and-found-entries/Miami Memes.zip",
         "size": 0.02
     },
-        {
-        "id": 33,
+    {
+        "id": 30,
         "title": "Hamr Adventure",
         "author": "Purrple",
         "date": "28th May 2016",
         "contents": [
-            "Hamr Adventure can be treated as an endurance test. With 24 levels, this campaign stands out not only from its sheer length, but also with its unique story-telling, while sticking to the regular JACKT format, giving the campaign an overall abstract vibe to it.", 
+            "Hamr Adventure can be treated as an endurance test. With 24 levels, this campaign stands out not only from its sheer length, but also with its unique story-telling, while sticking to the regular JACKT format, giving the campaign an overall abstract vibe to it.",
             "The level design vary from bearable to mild annoyance to purgatory. So don't worry if you struggle in levels like \"House\", \"Ducktape\" or the last 4 levels in general, as they are very demanding by design."
         ],
         "images": [

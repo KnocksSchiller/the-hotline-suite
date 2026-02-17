@@ -63,11 +63,11 @@ body {
 }
 
 @font-face {
-  font-family:"Press Start 2P";
+  font-family: "Press Start 2P";
   src: url('@/assets/fonts/PressStart2P-Regular.ttf');
 }
 
-@font-face{
+@font-face {
   font-family: "Atkinson-Hyperlegible";
   src: url('@/assets/fonts/AtkinsonHyperlegible-Bold.ttf')
 }
@@ -91,22 +91,6 @@ img {
   max-width: 100%;
 }
 
-/* Longer texts having a more readable font than retro-computer */
-.readable,
-.readable>*,
-details p,
-details li {
-  /* font-family: Arial, Helvetica, sans-serif; */
-  /* font-family: 'Courier New', Courier, monospace; */
-  /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
-  /* font-family: 'Times New Roman', Times, serif; */
-  /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
-  /* font-family: "Press Start 2P"; */
-  /* font-size: 16px; */
-  font-family: "Atkinson-Hyperlegible";
-  font-size: 22px;
-}
-
 h2,
 summary {
   font-family: "Justice";
@@ -125,6 +109,15 @@ h3 {
   font-size: 24px;
 }
 
+h1 {
+  font-size: 40px;
+}
+
+ol,
+ul {
+  font-size: 20px;
+}
+
 details {
   margin: 50px;
 }
@@ -135,20 +128,31 @@ li,
 div,
 h1,
 button,
-input,
-textarea {
+input {
   font-family: "Retro-Computer";
   color: white;
 }
 
 p,
 a,
-li,
-div,
 button,
-input,
-textarea {
+input {
   font-size: 20px;
+}
+
+/* Longer texts having a more readable font than retro-computer */
+details p,
+details li,
+article * {
+  /* font-family: Arial, Helvetica, sans-serif; */
+  /* font-family: 'Courier New', Courier, monospace; */
+  /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+  /* font-family: 'Times New Roman', Times, serif; */
+  /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+  /* font-family: "Press Start 2P"; */
+  /* font-size: 16px; */
+  font-family: "Atkinson-Hyperlegible";
+  font-size: 22px;
 }
 
 a {
@@ -234,7 +238,8 @@ details details summary {
 }
 
 details img,
-details p {
+details p,
+details ul {
   margin-left: 30px;
 }
 
@@ -277,16 +282,15 @@ details p {
     margin: 20px 8px;
   }
 
-  p {
+  article {
     padding: 0 10px;
   }
 
-
   p,
-  i,
-  a,
   button,
-  li {
+  a,
+  ol,
+  ul {
     font-size: 16px;
   }
 
@@ -299,15 +303,15 @@ details p {
     font-size: 32px;
   }
 
-  .readable,
-  .readable>*,
   details p,
-  details li {
+  details li,
+  article * {
     font-size: 18px;
   }
 
   details img,
-  details p {
+  details p,
+  details ul {
     margin-left: 0px;
   }
 

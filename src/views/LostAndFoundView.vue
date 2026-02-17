@@ -1,15 +1,16 @@
 <template>
     <div class="site-content">
         <h1 class="animText retro">Lost & Found:</h1>
-        <p class="readable">Take a look at our archive of custom levels and campaigns, that couldn't pass the test of time, but were
-            lucky
-            enough to be preserved by our dear community members, who sent the files our way.
-        </p>
-        <p class="readable"><a class="animText">WARNING!</a> Some of the content may come over as insensitive depending on the person you
-            ask. The archive also does <a class="animText">NOT</a> guarantee, that each and every entry is of great
-            quality. We do not stand by the messages of any of the archive's entries and save them solely for
-            preservation purposes.
-        </p>
+        <article>
+            <p>Take a look at our archive of custom levels and campaigns, that couldn't pass the test of time, but
+                were lucky enough to be preserved by our dear community members, who sent the files our way.
+            </p>
+            <p><a class="animText">WARNING!</a> Some of the content may come over as insensitive depending on the person
+                you ask. The archive also does <a class="animText">NOT</a> guarantee, that each and every entry is of
+                great quality. We do not stand by the messages of any of the archive's entries and save them solely for
+                preservation purposes.
+            </p>
+        </article>
         <SortedNavEntries :mobile="mobile" , :list="lfentries" :isDownload="true" />
         <FoldingText v-for="text in sortedLfFaq" :mobile="mobile" :text="text" />
         <WantedList :mobile="mobile" :list="textsections[14]" />

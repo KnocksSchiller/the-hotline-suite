@@ -21,10 +21,6 @@ export default {
 </script>
 
 <style scoped>
-ul {
-    margin-left: 30px;
-}
-
 li {
     color: var(--lGreen);
 }

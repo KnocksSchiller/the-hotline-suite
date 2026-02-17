@@ -1,7 +1,9 @@
 <template>
     <h2 class="animText">{{ text.title }}</h2>
-    <p class="readable">{{ text.content }}</p>
-    <p class="readable" v-for="e in text.extraContent">{{ e }}</p>
+    <article>
+        <p>{{ text.content }}</p>
+        <p v-for="e in text.extraContent">{{ e }}</p>
+    </article>
     <div class="screenshot-flex"> <img v-for="i in text.images" :src="i" />
     </div>
     <a v-if="text.link" :href="text.link" target="_blank" class="animText underline">See the full collection</a>

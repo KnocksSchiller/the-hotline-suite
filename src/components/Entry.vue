@@ -18,7 +18,9 @@
                 @click=setCurrentImage(index)>
         </div>
     </div>
-    <p class="readable" v-for="e in entry.contents">{{ e }}</p>
+    <article>
+        <p v-for="e in entry.contents">{{ e }}</p>
+    </article>
     <span v-if="this.isDownload">
         <button @click="downloadFile(entry.link, entry.title)">Download</button>
         <i>{{ entry.title }}.zip ({{ entry.size }} MB)</i>
@@ -130,6 +132,10 @@ i {
         grid-row-gap: 10px;
         width: 95%;
         margin: auto;
+    }
+
+    div:first-of-type p{
+        padding: 0 10px;
     }
 }
 </style>

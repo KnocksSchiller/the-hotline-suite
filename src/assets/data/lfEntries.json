@@ -2,12 +2,28 @@
     {
         "id": 0,
         "title": "Crackline Uganda",
-        "author": "unknown",
+        "author": "FreedoM",
         "date": "around 2020",
         "contents": [
-            "A campaign in the likes of Half-Life's infamous mod \"Crack-Life\". It comes with a single level, that tells the player to play the vanilla game of HLM2 with the mods installed. What's the worst thing that could happen?"
+            "A 1-level long campaign, that in reality is a complete rehaul of the main game, Hotline Miami 2, with custom sprites, sounds and even altered dialogues that are heavily inspired from Half-Life's mod \"Crack-Life\".",
+            "Like its main inspiration, this campaign contains many racial and homophobic slurs as well as sensitive topics, that some people might feel uncomfortable with. Still, its unfiltered content is merely there for shock value and therefore makes this creation shine in its own unique way."
         ],
-        "images": [],
+        "images": [
+            "/screenshots/lost-and-found/Crackline Uganda/20260228212447_1.jpg",
+            "/screenshots/lost-and-found/Crackline Uganda/20260228223425_1.jpg",
+            "/screenshots/lost-and-found/Crackline Uganda/20260228192326_1.jpg",
+            "/screenshots/lost-and-found/Crackline Uganda/20260228192621_1.jpg",
+            "/screenshots/lost-and-found/Crackline Uganda/20260228193432_1.jpg",
+            "/screenshots/lost-and-found/Crackline Uganda/20260228193707_1.jpg",
+            "/screenshots/lost-and-found/Crackline Uganda/20260228195702_1.jpg",
+            "/screenshots/lost-and-found/Crackline Uganda/20260228201123_1.jpg",
+            "/screenshots/lost-and-found/Crackline Uganda/20260228201500_1.jpg",
+            "/screenshots/lost-and-found/Crackline Uganda/20260228201712_1.jpg",
+            "/screenshots/lost-and-found/Crackline Uganda/20260228202725_1.jpg",
+            "/screenshots/lost-and-found/Crackline Uganda/20260228224138_1.jpg",
+            "/screenshots/lost-and-found/Crackline Uganda/20260228204000_1.jpg",
+            "/screenshots/lost-and-found/Crackline Uganda/20260228222005_1.jpg"
+        ],
         "link": "lost-and-found-entries/Crackline Uganda.zip",
         "size": 250
     },
@@ -628,5 +644,97 @@
         ],
         "link": "lost-and-found-entries/Hamr Adventure.zip",
         "size": 0.93
+    },
+    {
+        "id": 31,
+        "title": "Comedy Hour 2: A New Hope",
+        "author": "Comedy Greg 2",
+        "date": "1st January 2018",
+        "contents": [
+            "A 15-levels long sequel to \"The Comedy Hour\". Here, one of the group's associates \"bestname\" wants to avenge the death of his friend Racko by killing the rest of the group. Featuring flashbacks, background lore of the cast, rides through heaven and hell and e-celebrity drama from the time it came out.",
+            "While this campaign still has its fair share of vulgarity, it is fairly tame compared to the first entry. More noticable is their interesting narrative approach of telling the story in a set of blocks, instead of one consecutive cutscene."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Comedy Hour 2/screen.png",
+            "screenshots/lost-and-found/Comedy Hour 2/20260308150422_1.jpg",
+            "screenshots/lost-and-found/Comedy Hour 2/20260307223800_1.jpg",
+            "screenshots/lost-and-found/Comedy Hour 2/20260307224121_1.jpg",
+            "screenshots/lost-and-found/Comedy Hour 2/20260307230040_1.jpg",
+            "screenshots/lost-and-found/Comedy Hour 2/20260307225901_1.jpg",
+            "screenshots/lost-and-found/Comedy Hour 2/20260307225619_1.jpg",
+            "screenshots/lost-and-found/Comedy Hour 2/20260307230212_1.jpg",
+            "screenshots/lost-and-found/Comedy Hour 2/20260307225702_1.jpg",
+            "screenshots/lost-and-found/Comedy Hour 2/20260308145753_1.jpg",
+            "screenshots/lost-and-found/Comedy Hour 2/20260308145820_1.jpg",
+            "screenshots/lost-and-found/Comedy Hour 2/20260308150113_1.jpg",
+            "screenshots/lost-and-found/Comedy Hour 2/20260308150230_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Comedy Hour 2.zip",
+        "size": 2.3
+    },
+    {
+        "id": 32,
+        "title": "Animal Control",
+        "author": "AlpDePalp",
+        "date": "around 2018 / 2019",
+        "contents": [
+            "A 4-level long campaign that tells the story of Henchman and his accomplice trying to break out their friend Danil, who was abducted by furries. Contains vulgarity and a questionably vast knowledge about the furry community."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Animal Control/screen.png",
+            "screenshots/lost-and-found/Animal Control/20260309221843_1.jpg",
+            "screenshots/lost-and-found/Animal Control/20260309222018_1.jpg",
+            "screenshots/lost-and-found/Animal Control/20260309222042_1.jpg",
+            "screenshots/lost-and-found/Animal Control/20260309222132_1.jpg",
+            "screenshots/lost-and-found/Animal Control/20260309223419_1.jpg",
+            "screenshots/lost-and-found/Animal Control/20260309222203_1.jpg",
+            "screenshots/lost-and-found/Animal Control/20260309223007_1.jpg",
+            "screenshots/lost-and-found/Animal Control/20260309222728_1.jpg",
+            "screenshots/lost-and-found/Animal Control/20260309223601_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Animal Control.zip",
+        "size": 0.33
+    },
+    {
+        "id": 33,
+        "title": "Loss of Self",
+        "author": "N U G G E T",
+        "date": "14th May 2016",
+        "contents": [
+            "A 2-level long campaign about Corey doing a job from an anonymous messenger and slowly going insane. It starts out normal in the first level, but then quickly takes a more surreal approach in its narrative."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Loss of Self/20260309231237_1.jpg",
+            "screenshots/lost-and-found/Loss of Self/20260309230636_1.jpg",
+            "screenshots/lost-and-found/Loss of Self/20260309230734_1.jpg",
+            "screenshots/lost-and-found/Loss of Self/20260309230945_1.jpg",
+            "screenshots/lost-and-found/Loss of Self/20260309231015_1.jpg",
+            "screenshots/lost-and-found/Loss of Self/20260309231340_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Loss of Self.zip",
+        "size": 0.68
+    },
+    {
+        "id": 34,
+        "title": "Loathing",
+        "author": "Lordofmobs",
+        "date": "5th June 2016",
+        "contents": [
+            "A 16-level long campaign starring Hammer. There, he tries to fight off the Colombians and plans to destroy 50 Blessings with his newfound companions. A fast paced campaign that delves into one's psyche when taking on such a huge task and how it can change people when reaching the end."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Loathing/20260311002725_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311002907_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311003834_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311004006_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311004249_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311005343_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311005949_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311010024_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311010215_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311010739_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Loathing.zip",
+        "size": 0.41
     }
 ]

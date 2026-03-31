@@ -16,25 +16,30 @@
             <i>{{ textsections[15].extraContent[1] }}</i>
             <p>{{ textsections[15].extraContent[2] }}</p>
         </article>
-        <ChapterText v-for="dive in dives.slice().reverse()" :mobile="mobile" :text="dive" />
+        <ChapterText v-for="dive in sortedWDives" :mobile="mobile" :text="dive" :linktext="linktext"/>
     </div>
 </template>
 
 <script>
-import FoldingText from '@/components/FoldingText.vue'
 import texts from '@/assets/data/texts.json'
 import ChapterText from '@/components/ChapterText.vue'
 import wDives from '@/assets/data/wDives.json'
 
 export default {
-    components: { FoldingText, ChapterText },
+    components: { ChapterText },
     data() {
         return {
             textsections: texts,
-            dives: wDives
+            dives: wDives,
+            linktext: "See the full collection..."
         }
     },
-    props: ['mobile']
+    props: ['mobile'],
+    computed: {
+        sortedWDives() {
+            return this.dives.slice().reverse()
+        }
+    }
 }
 </script>
 

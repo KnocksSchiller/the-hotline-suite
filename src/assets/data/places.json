@@ -1,0 +1,48 @@
+[
+    {
+        "title": "The Workshop Labs",
+        "contents": [
+            "The Workshop Labs is a large English-speaking Discord server with plenty of active members both young and old. Next to the usual conversation channels, it features plenty of project channels, both casual and more dedicated as well as art channels for getting feedback on making sprites, level layouts and other editor issues.",
+            "Occasionally, they create contests for everyone willing to participate. They vary from simple sprite projects, level and campaign collections, vignettes or something new entirely. They can be competitive with a price to win, but can also be held more casually to keep the fun alive.",
+            "With its strong moderation team, the Workshop Labs is currently the go-to place to get to know the community and getting advice on level design and sprites as quickly as possible. As long as you follow the rules and keep your cool, they are very welcome to new members."
+        ],
+        "images": [
+            "/screenshots/places-to-talk/twl.png"
+        ],
+        "link": "https://discord.gg/sqyHd2JN6v"
+    },
+    {
+        "title": "The Forge",
+        "contents": [
+            "Similar to The Workshop Labs, The Forge is a large Russian-speaking Discord server that aims to connect our East-European modders. Here, you can get in touch with its members, ask for feedback on your art and levels or even create your own project channel, so long as you keep it active for the others.",
+            "While events are rare, they welcome newcomers as well as experienced modders, who are able to speak in their language. If you prefer to speak in Russian or other Slavic languages, The Forge is the best place to start, as long as you follow their rules."
+        ],
+        "images": [
+            "/screenshots/places-to-talk/theForge.png"
+        ],
+        "link": "https://discord.gg/f3EPf7YZMh"
+    },
+    {
+        "title": "r/PhoneHom",
+        "contents": [
+            "The PhoneHom Subreddit is a combination of r/HotlineMiami, r/hotlinemiamimaps and r/HotlineMiamiMods, having a bigger focus on the modding scene. It used to have its own Discord server, but eventually was made unavailable, as the moderation team decided to move on from it, once The Workshop Labs came to fruition.",
+            "While the current state of the Subreddit is a bit stale, it still serves as an archive of useful sprite dumps, modding tools, art and its phone jam events."
+        ],
+        "images": [
+            "/screenshots/places-to-talk/rPHONEHOM3.png"
+        ],
+        "link": "https://www.reddit.com/r/PHONEHOM/"
+    },
+    {
+        "title": "r/HotlineMiami",
+        "contents": [
+            "r/HotlineMiami is usually the first place any fan of Hotline Miami would check out to find answers regarding the story's plot, favorite levels, achievement hunting or just discussing theories regarding the characters.",
+            "While there is the occasional question about the editor, campaign recommendations or announcements of bigger projects, the Subreddit is mainly aimed toward those, who care about the main two games only with little engagement regarding its modding scene.",
+            "We personally recommend the aforementioned places for establishing a solid link to the modding community and keeping up with the many projects the people are working on. While this Subreddit contains plenty of useful resprites you could use for your own projects, it's not the place to stay when it comes on growing the community's modding scene."
+        ],
+        "images": [
+            "/screenshots/places-to-talk/rHLM3.png"
+        ],
+        "link": "https://www.reddit.com/r/HotlineMiami/"
+    }
+]

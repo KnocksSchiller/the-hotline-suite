@@ -310,22 +310,26 @@
     },
     {
         "id": 15,
-        "title": "Snowblind",
-        "author": "Plank",
-        "date": "6th April 2017",
+        "title": "Loathing",
+        "author": "Lordofmobs",
+        "date": "5th June 2016",
         "contents": [
-            "A fan-made single level set in the universe of the Hunter trilogy. Here, you play as Simon clearing out a 3-floor building full of thugs and Bratva members.",
-            "While the level itself is competently made, it also serves as a time capsule on how Hunter's sprites used to look like compared to the current, more refined version of the trilogy."
+            "A 16-level long campaign starring Hammer. There, he tries to fight off the Colombians and plans to destroy 50 Blessings with his newfound companions. A fast paced campaign that delves into one's psyche when taking on such a huge task and how it can change people when reaching the end."
         ],
         "images": [
-            "/screenshots/lost-and-found/Snowblind/20251228222742_1.jpg",
-            "/screenshots/lost-and-found/Snowblind/20251228223323_1.jpg",
-            "/screenshots/lost-and-found/Snowblind/20251228223359_1.jpg",
-            "/screenshots/lost-and-found/Snowblind/20251228223409_1.jpg",
-            "/screenshots/lost-and-found/Snowblind/20251228223457_1.jpg"
+            "screenshots/lost-and-found/Loathing/20260311002725_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311002907_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311003834_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311004006_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311004249_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311005343_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311005949_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311010024_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311010215_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311010739_1.jpg"
         ],
-        "link": "lost-and-found-entries/Snowblind.zip",
-        "size": 5.22
+        "link": "lost-and-found-entries/Loathing.zip",
+        "size": 0.41
     },
     {
         "id": 16,
@@ -713,28 +717,5 @@
         ],
         "link": "lost-and-found-entries/Loss of Self.zip",
         "size": 0.68
-    },
-    {
-        "id": 34,
-        "title": "Loathing",
-        "author": "Lordofmobs",
-        "date": "5th June 2016",
-        "contents": [
-            "A 16-level long campaign starring Hammer. There, he tries to fight off the Colombians and plans to destroy 50 Blessings with his newfound companions. A fast paced campaign that delves into one's psyche when taking on such a huge task and how it can change people when reaching the end."
-        ],
-        "images": [
-            "screenshots/lost-and-found/Loathing/20260311002725_1.jpg",
-            "screenshots/lost-and-found/Loathing/20260311002907_1.jpg",
-            "screenshots/lost-and-found/Loathing/20260311003834_1.jpg",
-            "screenshots/lost-and-found/Loathing/20260311004006_1.jpg",
-            "screenshots/lost-and-found/Loathing/20260311004249_1.jpg",
-            "screenshots/lost-and-found/Loathing/20260311005343_1.jpg",
-            "screenshots/lost-and-found/Loathing/20260311005949_1.jpg",
-            "screenshots/lost-and-found/Loathing/20260311010024_1.jpg",
-            "screenshots/lost-and-found/Loathing/20260311010215_1.jpg",
-            "screenshots/lost-and-found/Loathing/20260311010739_1.jpg"
-        ],
-        "link": "lost-and-found-entries/Loathing.zip",
-        "size": 0.41
     }
 ]

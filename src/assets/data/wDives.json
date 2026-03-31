@@ -1,7 +1,10 @@
 [
     {
         "title": "pre-2018",
-        "content": "Entries from 2015 to 2017. All combed into one, since those are the beginner years. The beginning of classics such as Miami Falls, Hunter, Cold War, Wild Thing, Real Human Bean and the first couple comedic entries, that shaped the overall humour of that time.",
+        "contents": [
+            "Entries from 2015 to 2017. All combed into one, since those are the beginner years. The beginning of classics such as Miami Falls, Hunter, Cold War, Wild Thing, Real Human Bean and the first couple comedic entries, that shaped the overall humour of that time.",
+            "With that in mind, many tricks were discovered during the time and new tools were introduced, giving modders new opportunities to express themselves within their creations almost every day."
+        ],
         "images": [
             "/screenshots/workshop-dives/pre-2018/miami-falls-2.jpeg",
             "/screenshots/workshop-dives/pre-2018/miami-falls-3.jpeg",
@@ -11,14 +14,15 @@
             "/screenshots/workshop-dives/pre-2018/wild-thing-2.jpeg",
             "/screenshots/workshop-dives/pre-2018/human-bean-1.jpeg"
         ],
-        "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3259743367",
-        "extraContent": [
-            "With that in mind, many tricks were discovered during the time and new tools were introduced, giving modders new opportunities to express themselves within their creations almost every day."
-        ]
+        "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3259743367"
     },
     {
         "title": "2018",
-        "content": "Year one of people getting better with the editor and when the first truly ambitious projects came to life, both for HLM1 standalone mods and HLM2 workshop entries.",
+        "contents": [
+            "Year one of people getting better with the editor and when the first truly ambitious projects came to life, both for HLM1 standalone mods and HLM2 workshop entries.",
+            "It's also the year the first big collaborative collection \"Florida Freakout\" came to be, with its many original horror-themed levels.",
+            "Screenshots taken from Guest: Medical Complex, Hunter: Red Star, Steamed Hams, Squeal, Cryoablation, Neural and Auto Angel"
+        ],
         "images": [
             "/screenshots/workshop-dives/2018/guest-medical-complex.jpeg",
             "/screenshots/workshop-dives/2018/hunter-redstar.jpeg",
@@ -28,15 +32,15 @@
             "/screenshots/workshop-dives/2018/neural.jpeg",
             "/screenshots/workshop-dives/2018/auto-angel.jpeg"
         ],
-        "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3259702203",
-        "extraContent": [
-            "It's also the year the first big collaborative collection \"Florida Freakout\" came to be, with its many original horror-themed levels.",
-            "Screenshots taken from Guest: Medical Complex, Hunter: Red Star, Steamed Hams, Squeal, Cryoablation, Neural and Auto Angel"
-        ]
+        "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3259702203"
     },
     {
         "title": "2019",
-        "content": "Want to push your skills to the limit? Check out the workshop during 2019, when the so called \"Hard Craze\" was fully blooming. Entries like Twitch, Miami Menace, Liberation, Voyance, Monochrome, Smokin and many of musicjab's levels managed to shed a new light into the editor by making layouts and enemy placement as engaging as possible.",
+        "contents": [
+            "Want to push your skills to the limit? Check out the workshop during 2019, when the so called \"Hard Craze\" was fully blooming. Entries like Twitch, Miami Menace, Liberation, Voyance, Monochrome, Smokin and many of musicjab's levels managed to shed a new light into the editor by making layouts and enemy placement as engaging as possible.",
+            "The community also pushed the next collection \"Summer Of Rage\", with its beautiful summer-themed locations.",
+            "It's also the main year where \"r/PhoneHom\" and its Discord server put good effort to promote quality entries and pushing the community's output with its fun little jams."
+        ],
         "images": [
             "/screenshots/workshop-dives/2019/twitch.jpeg",
             "/screenshots/workshop-dives/2019/miami-menace-1.jpeg",
@@ -46,15 +50,14 @@
             "/screenshots/workshop-dives/2019/monochrome.jpeg",
             "/screenshots/workshop-dives/2019/smokin.jpeg"
         ],
-        "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3259747070",
-        "extraContent": [
-            "The community also pushed the next collection \"Summer Of Rage\", with its beautiful summer-themed locations.",
-            "It's also the main year where \"r/PhoneHom\" and its Discord server put good effort to promote quality entries and pushing the community's output with its fun little jams."
-        ]
+        "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3259747070"
     },
     {
         "title": "2020",
-        "content": "The year this collection originally came to be, though only as a personal archive and less of a community effort.",
+        "contents": [
+            "The year this collection originally came to be, though only as a personal archive and less of a community effort.",
+            "Still, it manages to capture the diverse and new approaches for the workshop, both by old members and newcomers. Thus modern classics such as Beyond Deathwish, Sun Keepers, Program, Vnutri Lapenko, Wildstyle, Crashtest and Shibuya gave the community a big breath of fresh air."
+        ],
         "images": [
             "/screenshots/workshop-dives/2020/beyond-deathwish.jpeg",
             "/screenshots/workshop-dives/2020/sun-keepers.jpeg",
@@ -64,14 +67,16 @@
             "/screenshots/workshop-dives/2020/crashtest.jpeg",
             "/screenshots/workshop-dives/2020/shibuya-2.jpeg"
         ],
-        "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2209929343",
-        "extraContent": [
-            "Still, it manages to capture the diverse and new approaches for the workshop, both by old members and newcomers. Thus modern classics such as Beyond Deathwish, Sun Keepers, Program, Vnutri Lapenko, Wildstyle, Crashtest and Shibuya gave the community a big breath of fresh air."
-        ]
+        "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2209929343"
     },
     {
         "title": "2021",
-        "content": "Coming to a great start with the inception of \"The Workshop Labs\" Discord server, which succesfully stayed relevant throughout the years with its fun events and dedicated server members and moderators.",
+        "contents": [
+            "Coming to a great start with the inception of \"The Workshop Labs\" Discord server, which succesfully stayed relevant throughout the years with its fun events and dedicated server members and moderators.",
+            "As for the workshop, the community was able to keep the creativity alive with the conclusion of the Hunter trilogy, as well as with Bite, Breach, The Kremlin Czar, Veveran, Mask Mayhem, Cure, Dust, Equalizer and Artstyle.",
+            "There's also been an increase of more abstract levels such as ALFA, Space Impact, Retro Vector and Portal: Escape, exploring many new boundaries within the editor and chances to listen to new and engaging music.",
+            "Despite that, the community managed to go back to their roots with The Workshop Labs' \"Modless Mayhem\" collection, restricting themselves by using vanilla assets only and still managing to express themselves in their own way, compared to the old days of the workshop (see pre-2018)."
+        ],
         "images": [
             "/screenshots/workshop-dives/2021/hunter-brotherhood.jpeg",
             "/screenshots/workshop-dives/2021/bite.jpeg",
@@ -88,16 +93,16 @@
             "/screenshots/workshop-dives/2021/portal-escape-2.jpg",
             "/screenshots/workshop-dives/2021/dust.jpg"
         ],
-        "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3259761218",
-        "extraContent": [
-            "As for the workshop, the community was able to keep the creativity alive with the conclusion of the Hunter trilogy, as well as with Bite, Breach, The Kremlin Czar, Veveran, Mask Mayhem, Cure, Dust, Equalizer and Artstyle.",
-            "There's also been an increase of more abstract levels such as ALFA, Space Impact, Retro Vector and Portal: Escape, exploring many new boundaries within the editor and chances to listen to new and engaging music.",
-            "Despite that, the community managed to go back to their roots with The Workshop Labs' \"Modless Mayhem\" collection, restricting themselves by using vanilla assets only and still managing to express themselves in their own way, compared to the old days of the workshop (see pre-2018)."
-        ]
+        "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3259761218"
     },
     {
         "title": "2022",
-        "content": "10 years earlier, two guys from sweden decided to make a fun little game for themselves, which then became a huge success in the indie-game scene. Back then, they probably never thought how relevant this game series continues to be 10 years later.",
+        "contents": [
+            "10 years earlier, two guys from sweden decided to make a fun little game for themselves, which then became a huge success in the indie-game scene. Back then, they probably never thought how relevant this game series continues to be 10 years later.",
+            "This year was the year of the many events, from the musically themed \"Vinyl Violence\" collection, the geographically based \"Culture Shock\" trio and last but not least, the \"Missed Calls\" project.",
+            "The \"Missed Calls\" project was an event on The Workshop Labs, creating fun little levels with HLM1 assets and songs only. Surprisingly, many of the submitted levels made it to the final campaign, making it a tightly sewed 38-level long campaign, with many niche locations, phone messages and lots of wit. Those, who seek a more stylized experience in HLM2, this campaign is the ultimate love letter to its predecessor.",
+            "Beside that, there are also plenty of other entries like Gone, Fever, Mimic, Kill Machine, Devil's Game and Rotgut as a cherry on top."
+        ],
         "images": [
             "/screenshots/workshop-dives/2022/missed calls.jpg",
             "/screenshots/workshop-dives/2022/gone.jpg",
@@ -108,16 +113,16 @@
             "/screenshots/workshop-dives/2022/devil's game.jpg",
             "/screenshots/workshop-dives/2022/rotgut.jpg"
         ],
-        "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3259876499",
-        "extraContent": [
-            "This year was the year of the many events, from the musically themed \"Vinyl Violence\" collection, the geographically based \"Culture Shock\" trio and last but not least, the \"Missed Calls\" project.",
-            "The \"Missed Calls\" project was an event on The Workshop Labs, creating fun little levels with HLM1 assets and songs only. Surprisingly, many of the submitted levels made it to the final campaign, making it a tightly sewed 38-level long campaign, with many niche locations, phone messages and lots of wit. Those, who seek a more stylized experience in HLM2, this campaign is the ultimate love letter to its predecessor.",
-            "Beside that, there are also plenty of other entries like Gone, Fever, Mimic, Kill Machine, Devil's Game and Rotgut as a cherry on top."
-        ]
+        "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3259876499"
     },
     {
         "title": "2023",
-        "content": "The year this collection got back on its feet, making it a much more dedicated project than originally intended.",
+        "contents": [
+            "The year this collection got back on its feet, making it a much more dedicated project than originally intended.",
+            "This time, we have several comedic campaigns, that got some attention outside of the modding scene such as Mark's Worth, Tiger Maid Service and, of course, Klone Krisis.",
+            "On top of that, the \"Chopped & Screwed\" collection challenged the community to reimagine an old custom level of their choice with the many tricks and skills people gathered through the years. This lead to 6 entries, that reshape some of the old classics into a fun and unique experience.",
+            "Other entries like The Thing: Contamination, Catana, Motorhead, Bad Medicine, Pardoom, as well as Yoss' \"Love and Forgetting\" managed to make this year just as interesting as the others."
+        ],
         "images": [
             "/screenshots/workshop-dives/2023/mark's worth.jpg",
             "/screenshots/workshop-dives/2023/tiger maid service.png",
@@ -130,16 +135,15 @@
             "/screenshots/workshop-dives/2023/pardoom.jpg",
             "/screenshots/workshop-dives/2023/love and forgetting.jpg"
         ],
-        "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2912408225",
-        "extraContent": [
-            "This time, we have several comedic campaigns, that got some attention outside of the modding scene such as Mark's Worth, Tiger Maid Service and, of course, Klone Krisis.",
-            "On top of that, the \"Chopped & Screwed\" collection challenged the community to reimagine an old custom level of their choice with the many tricks and skills people gathered through the years. This lead to 6 entries, that reshape some of the old classics into a fun and unique experience.",
-            "Other entries like The Thing: Contamination, Catana, Motorhead, Bad Medicine, Pardoom, as well as Yoss' \"Love and Forgetting\" managed to make this year just as interesting as the others."
-        ]
+        "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2912408225"
     },
     {
         "title": "2024",
-        "content": "In 2024, many ambitious projects with a good amount of quality came out, like Moving Shadows, Test Drive, Digression, Carcharodon, Burn Hard and Actor. It's also the year where the community grew a lot bigger thanks to the outreach of several videos and threads online.",
+        "contents": [
+            "In 2024, many ambitious projects with a good amount of quality came out, like Moving Shadows, Test Drive, Digression, Carcharodon, Burn Hard and Actor. It's also the year where the community grew a lot bigger thanks to the outreach of several videos and threads online.",
+            "Once again the community got into some collaborative events, namely the \"Boxes\" project and the Forge's \"Knockin' out Debts\" collection with its engaging Henchman levels.",
+            "The many experimental entries by Dapper Capper like Carousel Heights, Magician, Venus as well as other entries like Lobotomy, The Bathrooms, Moneymaker, AA12-redux and Strangetown are worth a mention."
+        ],
         "images": [
             "/screenshots/workshop-dives/2024/moving shadows.jpg",
             "/screenshots/workshop-dives/2024/test drive.jpg",
@@ -152,15 +156,14 @@
             "/screenshots/workshop-dives/2024/magician.jpg",
             "/screenshots/workshop-dives/2024/bathrooms.jpg"
         ],
-        "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3147248284",
-        "extraContent": [
-            "Once again the community got into some collaborative events, namely the \"Boxes\" project and the Forge's \"Knockin' out Debts\" collection with its engaging Henchman levels.",
-            "The many experimental entries by Dapper Capper like Carousel Heights, Magician, Venus as well as other entries like Lobotomy, The Bathrooms, Moneymaker, AA12-redux and Strangetown are worth a mention."
-        ]
+        "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3147248284"
     },
     {
-        "title": "2025",
-        "content": "So far, we got some very interesting entries out already such as Redline, Matt Stryker, Don Juan, ZX_Miami_Cowboys, Of Love and Violence, Past of Tokyo, Radar: Tricolor and Fight for China.",
+        "title": "2025 (pending)",
+        "contents": [
+            "So far, we got some very interesting entries out already such as Redline, Matt Stryker, Don Juan, ZX_Miami_Cowboys, Of Love and Violence, Past of Tokyo, Radar: Tricolor and Fight for China.",
+            "We will continue to update the collection until the year is over. Then we probably just move on to the next year."
+        ],
         "images": [
             "/screenshots/workshop-dives/2025/redline.jpg",
             "/screenshots/workshop-dives/2025/matt-stryker.jpg",
@@ -169,9 +172,15 @@
             "/screenshots/workshop-dives/2025/past of tokyo.jpg",
             "/screenshots/workshop-dives/2025/radar.jpg"
         ],
-        "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3399188474",
-        "extraContent": [
-            "We will continue to update the collection until the year is over. Then we probably just move on to the next year."
-        ]
+        "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3399188474"
+    },
+    {
+        "title": "2026 (ongoing)",
+        "contents": [
+            "With \"The Hotline Suite\" being fully operational, the community continues to strive with many creative results, both within the vanilla editor and the better editor.",
+            "Currently digging through the many entries, with Radar: Eclipse, Mean Bitch of Maui and Goons standing out on their own unique way."
+        ],
+        "images": [],
+        "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3649088674"
     }
 ]

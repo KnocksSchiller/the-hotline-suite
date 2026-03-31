@@ -1,18 +1,17 @@
 <template>
     <h2 class="animText">{{ text.title }}</h2>
     <article>
-        <p>{{ text.content }}</p>
-        <p v-for="e in text.extraContent">{{ e }}</p>
+        <p v-for="c in text.contents">{{ c }}</p>
     </article>
     <div class="screenshot-flex"> <img v-for="i in text.images" :src="i" />
     </div>
-    <a v-if="text.link" :href="text.link" target="_blank" class="animText underline">See the full collection</a>
+    <a v-if="text.link" :href="text.link" target="_blank" class="animText underline">{{ linktext }}</a>
 </template>
 
 <script>
 export default {
     'name': "ChapterText",
-    'props': ['text', 'mobile'],
+    'props': ['text', 'mobile', 'linktext'],
 }
 </script>
 
@@ -26,6 +25,7 @@ h2 {
     overflow: auto;
     gap: 15px;
     margin-bottom: 1.5em;
+    align-items: start;
 }
 
 .screenshot-flex img {

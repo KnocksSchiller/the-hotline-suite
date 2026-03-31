@@ -24,7 +24,7 @@
         "date": "17th July 2005 - 2009",
         "contents": [
             "Endless War is a series of flash games, that you could play in several browser-games websites. It is a top-down-shooter, that requires you to reach the end and goal to finish the mission. The path is filled with enemies, that block your way and try to kill you once they spot you. You can either fight back or simply avoid them and reach the goal without hurting anyone.",
-            "The games offer a huge variety of settings, including World War 2, the Vietnam War, counter-terrorists, terrorist, the Iraq War and even fictional settings like Fallout, Blood and World War 3 (Humans vs. Aliens)",
+            "The games offer a huge variety of settings, including World War 2, the Vietnam War, counter-terrorists, terrorist, the Iraq War and even fictional settings like Fallout, Blood and World War 3 (Humans vs. Aliens).",
             "While the graphics and overall gameplay are comparable to both Hotline Miami and Jonatan's first draft \"Super Carnage\", there are plenty of features that differ a lot from both Hotline Miami games. For example, Endless War has a weapon arsenal, health and armor as well as grenades. You can also control allies with \"Q\", offering a more tactical approach on clearing the level. The option to pick up weapons from the ground as well as the presence of cursed bathrooms remain eerily similar to both game series.",
             "Gameplaywise, the series demands more player input, as the enemies remain static most of the time, unless they spot you. Their jank pathfinding and questionable hitboxes make their behavior less predictable than Hotline's, which can result in rather unfair scenarios at times.",
             "Nevertheless the game manages to convey a unique aesthetic and is probably the first exposure to violent top-down shooters for many people at the time, before Hotline Miami came out. You can play the series through \"Flashpoint\", which serves as a library of flash games, that you can download and play through their program."
@@ -101,6 +101,32 @@
             "/screenshots/hlm-likes/Jackal/ss_733dde64f2586742033cc4c4aa2b7562870a0a3d.jpg",
             "/screenshots/hlm-likes/Jackal/20260126184901_1.jpg",
             "/screenshots/hlm-likes/Jackal/20260126181019_1.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Kusan: City of Wolves",
+        "author": "CIRCLEfromDOT & PQube",
+        "date": "2026",
+        "contents": [
+            "Kusan is a top-down-shooter made in Unity, that is set in the futuristic and anthropomorphic city Kusan, following the story of Mr. Jin and Mr. Ayn. While the gun play, level structure and grade of violence are heavily inspired by Hotline Miami and its sequel, it greatly differs from its art style, environmental details and storytelling.",
+            "Both the art direction and environment are much more detailed and varied, as well as interactive either through destructible objects, puzzles or interactions with other creatures, while the story varies in forms of both graphic novels and visual novels.",
+            "The player gets a score for each individual floor, which then summarizes the overall performance of the level. The better you are, the more currency you earn, allowing you to unlock perks for its unique inventory / upgrading system. Next to overall improvements to your character, it allows you to focus your play style more on either melee combat, the throwing dagger or ranged weapons.",
+            "While the enemies and layout of the levels are less engaging than Hotline Miami's enemy AI, the game makes up for it with its more varied enemy types, bosses and overall details.",
+            "You can play a free demo, which includes the first four levels and a final boss and is available on Steam, PlayStation 5, Xbox Series X and S and on the Nintendo Switch."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Kusan/Kusan-City-of-Wolves.jpg",
+            "/screenshots/hlm-likes/Kusan/20260323124428_1.jpg",
+            "/screenshots/hlm-likes/Kusan/20260323125709_1.jpg",
+            "/screenshots/hlm-likes/Kusan/20260323123852_1.jpg",
+            "/screenshots/hlm-likes/Kusan/20260323123957_1.jpg",
+            "/screenshots/hlm-likes/Kusan/20260323131445_1.jpg",
+            "/screenshots/hlm-likes/Kusan/20260323124154_1.jpg",
+            "/screenshots/hlm-likes/Kusan/steam3.jpg",
+            "/screenshots/hlm-likes/Kusan/20260323132136_1.jpg",
+            "/screenshots/hlm-likes/Kusan/20260323133440_1.jpg",
+            "/screenshots/hlm-likes/Kusan/20260323131733_1.jpg"
         ]
     }
 ]

@@ -401,7 +401,7 @@
         "author": "CrazyJaydon",
         "date": "17th September 2016",
         "contents": [
-            "Jaydon's infamous shitpost campaign, solidifying the JACKT genre as the low effort shitposts in 8 compact and thrilling levels. Old and very outdated memes ahead. Play at you own risk!"
+            "Jaydon's infamous shitpost campaign, solidifying the JACKT genre within the Steam Workshop as the low effort shitposts in 8 compact and thrilling levels. Old and very outdated memes ahead. Play at you own risk!"
         ],
         "images": [
             "/screenshots/lost-and-found/JACKT WRKSHP EDTN/20260109230950_1.jpg",
@@ -717,5 +717,154 @@
         ],
         "link": "lost-and-found-entries/Loss of Self.zip",
         "size": 0.68
+    },
+    {
+        "id": 34,
+        "title": "Animal Control 2",
+        "author": "AlpDePalp",
+        "date": "19th November 2020",
+        "contents": [
+            "Animal Contol 2 is the 11-level-long sequel to its first part. It continues the story of its predecessor, following the story of Daniel, the Henchman, the Russian mafia and the fans. After the colombians pledged allegiance with the furries, all hell broke loose, splitting the fans' and the mafia's comradery and picking up the pieces that remained intact. Will the Russian mafia come back to their strength and defeat the threat?",
+            "Overall a decent sequel with less vulgarity and much more variety in both level settings and dialogues, featuring a few good jokes about the level editor and the community.",
+            "The credits and the first cutscene claim to have a music mod for this campaign. However, we were not able to recover that one. Should you have a version of the original wad, we would love to add it along with the campaign itself. Alternatively, you can search up TheLegoMack's YouTube channel, where he once streamed the campaign a few years ago."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Animal Control 2/9.jpg",
+            "screenshots/lost-and-found/Animal Control 2/1.png",
+            "screenshots/lost-and-found/Animal Control 2/5.jpg",
+            "screenshots/lost-and-found/Animal Control 2/6.jpg",
+            "screenshots/lost-and-found/Animal Control 2/13.jpg",
+            "screenshots/lost-and-found/Animal Control 2/15.jpg",
+            "screenshots/lost-and-found/Animal Control 2/3.jpg",
+            "screenshots/lost-and-found/Animal Control 2/7.jpg",
+            "screenshots/lost-and-found/Animal Control 2/10.jpg",
+            "screenshots/lost-and-found/Animal Control 2/12.jpg",
+            "screenshots/lost-and-found/Animal Control 2/11.jpg",
+            "screenshots/lost-and-found/Animal Control 2/2.png",
+            "screenshots/lost-and-found/Animal Control 2/14.jpg",
+            "screenshots/lost-and-found/Animal Control 2/8.jpg"
+        ],
+        "link": "lost-and-found-entries/Animal Control 2.zip",
+        "size": 2.4
+    },
+    {
+        "id": 35,
+        "title": "Moonman",
+        "author": "cant moss...",
+        "date": "12th September 2018",
+        "contents": [
+            "A single level starring Mac Tonight's alter ego \"Moonman\", where he storms a building full of African Americans. Beware of the edgy title it comes with."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Moonman/20260427193343_1.jpg",
+            "screenshots/lost-and-found/Moonman/20260427193412_1.jpg",
+            "screenshots/lost-and-found/Moonman/20260427193452_1.jpg",
+            "screenshots/lost-and-found/Moonman/20260427193534_2.jpg"
+        ],
+        "link": "lost-and-found-entries/Moonman.zip",
+        "size": 2.8
+    },
+    {
+        "id": 36,
+        "title": "Payday Mayday",
+        "author": "Mirror",
+        "date": "unknown",
+        "contents": [
+            "A 1-level campaign following a mobster's first job in Miami, making a deal with the local crime syndicates."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Payday Mayday/20260427200016_1.jpg",
+            "screenshots/lost-and-found/Payday Mayday/20260427200126_1.jpg",
+            "screenshots/lost-and-found/Payday Mayday/20260427200212_1.jpg",
+            "screenshots/lost-and-found/Payday Mayday/20260427200235_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Moonman.zip",
+        "size": 0.78
+    },
+    {
+        "id": 37,
+        "title": "Skinwars",
+        "author": "TheCrossRoss",
+        "date": "5th January 2016",
+        "contents": [
+            "A 7-level campaign about Manny Pardo threatening to destroy the world from the skin star in space. Which of the HLM2 cast is able to stop this evil madness?.",
+            "Against popular belief, this campaign is actually quite creative even for an obvious shitpost campaign."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Skinwars/20260427201640_1.jpg",
+            "screenshots/lost-and-found/Skinwars/20260427202532_1.jpg",
+            "screenshots/lost-and-found/Skinwars/20260427201405_1.jpg",
+            "screenshots/lost-and-found/Skinwars/20260427201718_1.jpg",
+            "screenshots/lost-and-found/Skinwars/20260427201948_1.jpg",
+            "screenshots/lost-and-found/Skinwars/20260427202125_1.jpg",
+            "screenshots/lost-and-found/Skinwars/20260427202446_1.jpg",
+            "screenshots/lost-and-found/Skinwars/20260427202234_1.jpg",
+            "screenshots/lost-and-found/Skinwars/20260427202809_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Moonman.zip",
+        "size": 0.14
+    },
+    {
+        "id": 38,
+        "title": "jacktwerld",
+        "author": "BigBox",
+        "date": "14th February 2016",
+        "contents": [
+            "A 6-level JACKT campaign about Manny Pardo's making a deal with Richter to acquire his favourite food."
+        ],
+        "images": [
+            "screenshots/lost-and-found/jacketwerld/20260427221151_1.jpg",
+            "screenshots/lost-and-found/jacketwerld/20260427221351_1.jpg",
+            "screenshots/lost-and-found/jacketwerld/20260427222306_1.jpg",
+            "screenshots/lost-and-found/jacketwerld/20260427221714_2.jpg",
+            "screenshots/lost-and-found/jacketwerld/20260427222210_1.jpg"
+        ],
+        "link": "lost-and-found-entries/jacktwerld.zip",
+        "size": 0.16
+    },
+    {
+        "id": 39,
+        "title": "Meme World",
+        "author": "Meme Lad",
+        "date": "28th March 2016",
+        "contents": [
+            "A 3-level shitpost campaign about taking back the country of Ukraine, which has been abducted by ninjas.",
+            "The .mp3 file, that's inside the campaign's folder was kept as it's part of a joke in a cutscene (original song name is Blank Banshee - Paradise Disc[芸能山城組])."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Meme World/20260427224413_1.jpg",
+            "screenshots/lost-and-found/Meme World/20260427224539_1.jpg",
+            "screenshots/lost-and-found/Meme World/20260427224722_1.jpg",
+            "screenshots/lost-and-found/Meme World/20260427224845_1.jpg",
+            "screenshots/lost-and-found/Meme World/20260427225048_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Meme World.zip",
+        "size": 3.1
+    },
+    {
+        "id": 40,
+        "title": "Jackt No More",
+        "author": "CrazyJaydon",
+        "date": "17th February 2016",
+        "contents": [
+            "A 5-level JACKT campaign about the modding community rebelling against Dennaton Games. This campaign stands out in particular for its soul crushing level design, demanding every last braincell to beat them properly.",
+            "Some levels can't be beaten with the newest version of the editor. If you want to actually beat the campaign, you'd need to downgrade your game's version to one, that has the beta version of the editor."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Jackt No More/20260427230602_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427230900_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427231114_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427231140_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427231646_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427231438_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427231620_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427232044_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427232945_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427231715_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427233154_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427233520_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Jackt No More.zip",
+        "size": 0.21
     }
 ]

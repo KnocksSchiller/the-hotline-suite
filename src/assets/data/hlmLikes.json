@@ -127,5 +127,31 @@
             "/screenshots/hlm-likes/Kusan/20260323133440_1.jpg",
             "/screenshots/hlm-likes/Kusan/20260323131733_1.jpg"
         ]
+    },
+    {
+        "id": 6,
+        "title": "Collect Call",
+        "author": "Somewhere Else",
+        "date": "tbd",
+        "contents": [
+            "Your employment has run out. A payphone in the lobby begins to ring. A toneless voice offers vague terms drenched in innuendo. The job pays just twenty-one dollars.",
+            "In this gloomy, futuristic dystopia, Collect Call can be best described as \"Hotline Miami, but as a card game\". It is a turn-based tactical roguelike focused on close quarters combat including a card deck system, trinkets, weapons and disguises. From the various player characters, factions, abilities and secrets, the game offers a wide variety of play styles, card combinations and decisions that affect the story's narrative progression when following the \"ascension\" route.",
+            "It is currently under development with many cards, enemy types and the fundamental game loop and art style already established, with the current plan focusing on adding more player freedom, game modes, playable characters, more enemy factions and finalized art. You can see the most recent developments on their public Discord server at https://discord.gg/Cfn9WtQBNt."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Collect Call/1.jpg",
+            "/screenshots/hlm-likes/Collect Call/2.jpg",
+            "/screenshots/hlm-likes/Collect Call/3.png",
+            "/screenshots/hlm-likes/Collect Call/4.jpg",
+            "/screenshots/hlm-likes/Collect Call/4-5.jpg",
+            "/screenshots/hlm-likes/Collect Call/5.jpg",
+            "/screenshots/hlm-likes/Collect Call/5-5.jpg",
+            "/screenshots/hlm-likes/Collect Call/6.jpg",
+            "/screenshots/hlm-likes/Collect Call/7.jpg",
+            "/screenshots/hlm-likes/Collect Call/8.jpg",
+            "/screenshots/hlm-likes/Collect Call/9.jpg",
+            "/screenshots/hlm-likes/Collect Call/10.jpg",
+            "/screenshots/hlm-likes/Collect Call/11.jpg"
+        ]
     }
 ]

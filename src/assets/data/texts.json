@@ -168,7 +168,7 @@
             "Riv's Better HLM Editor is an alternative to the game's vanilla level editor with freedom in mind. Next to a zoom option and a complete sprites and objects list, this editor gives you much more power in terms of a level's visual design, thus making your levels much prettier. But keep in mind, that the level can break when trying to edit it with both the Better Editor and the vanilla editor simultaneously, so make sure to make a backup before trying anything risky.",
             "Hex editors like XVI32 allow you to change the text of the localization files, including UI elements. You can find a more thorough explanation on Rob's YouTube tutorial in Part 9, 12 minutes onwards. If the space is not enough, you can also use Maxim_S' localization editor, which allows you to expand on it (UI elements at string 2941 and higher).",
             "",
-            "At last, we have the more niche tools, that can help you with specific problems. Such as the .play decompiler to extract and edit downloaded levels and campaigns, bmgFont to create custom font files more easily and the patchwad defender to prevent unauthorized sprite stealing, should you find it necessary."
+            "At last, we have the more niche tools, that can help you with specific problems. Such as the .play decompiler to extract and edit downloaded levels and campaigns, BMFont to create custom font files more easily and the patchwad defender to prevent unauthorized sprite stealing, should you find it necessary."
         ]
     },
     {

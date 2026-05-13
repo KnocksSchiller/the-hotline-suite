@@ -1,15 +1,15 @@
 <template>
     <div class="site-content">
         <h1 class="animText">Getting Started:</h1>
-        <p class="readable"> This page teaches you about the ins and outs of <a class="animText">Hotline modding </a>and
-            how to get into
-            it. </p>
-        <p class="readable"><a class="animText">NOTE:</a> This page mainly revolves around <a class="animText">Hotline
-                Miami 2's Level
-                Editor</a> and the workshop around it. <br>For <a class="animText">making standablone mods</a>, see
-            <router-link :to="CatHlm1.to" class="animText underline">{{ CatHlm1.title }}</router-link>.
-        </p>
-        <p class="readable">The following chapters of this page go as followed:</p>
+        <article>
+            <p> This page teaches you about the ins and outs of <a class="animText">Hotline Miami 2 modding</a> and
+                mainly revolves around <a class="animText">Hotline Miami 2's Level Editor</a> and the workshop around
+                it.</p>
+            <p>For <a class="animText">making standalone mods</a>, see <router-link :to="CatHlm1.to"
+                    class="animText underline">{{ CatHlm1.title }}</router-link>.
+            </p>
+            <p>The following chapters of this page go as followed:</p>
+        </article>
         <nav>
             <ol>
                 <li><a href="#chapter1">{{ textsections[2].title }}</a></li>
@@ -25,7 +25,7 @@
                 <li><a href="#chapter5">{{ textsections[9].title }}</a></li>
             </ol>
         </nav>
-        <FoldingText id="chapter1" :mobile="mobile" :text="textsections[2]" open />
+        <FoldingText id="chapter1" :mobile="mobile" :text="textsections[2]" />
         <details id="chapter2" open>
             <summary>
                 {{ textsections[3].title }}

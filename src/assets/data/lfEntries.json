@@ -2,12 +2,28 @@
     {
         "id": 0,
         "title": "Crackline Uganda",
-        "author": "unknown",
+        "author": "FreedoM",
         "date": "around 2020",
         "contents": [
-            "A campaign in the likes of Half-Life's infamous mod \"Crack-Life\". It comes with a single level, that tells the player to play the vanilla game of HLM2 with the mods installed. What's the worst thing that could happen?"
+            "A 1-level long campaign, that in reality is a complete rehaul of the main game, Hotline Miami 2, with custom sprites, sounds and even altered dialogues that are heavily inspired from Half-Life's mod \"Crack-Life\".",
+            "Like its main inspiration, this campaign contains many racial and homophobic slurs as well as sensitive topics, that some people might feel uncomfortable with. Still, its unfiltered content is merely there for shock value and therefore makes this creation shine in its own unique way."
         ],
-        "images": [],
+        "images": [
+            "/screenshots/lost-and-found/Crackline Uganda/20260228212447_1.jpg",
+            "/screenshots/lost-and-found/Crackline Uganda/20260228223425_1.jpg",
+            "/screenshots/lost-and-found/Crackline Uganda/20260228192326_1.jpg",
+            "/screenshots/lost-and-found/Crackline Uganda/20260228192621_1.jpg",
+            "/screenshots/lost-and-found/Crackline Uganda/20260228193432_1.jpg",
+            "/screenshots/lost-and-found/Crackline Uganda/20260228193707_1.jpg",
+            "/screenshots/lost-and-found/Crackline Uganda/20260228195702_1.jpg",
+            "/screenshots/lost-and-found/Crackline Uganda/20260228201123_1.jpg",
+            "/screenshots/lost-and-found/Crackline Uganda/20260228201500_1.jpg",
+            "/screenshots/lost-and-found/Crackline Uganda/20260228201712_1.jpg",
+            "/screenshots/lost-and-found/Crackline Uganda/20260228202725_1.jpg",
+            "/screenshots/lost-and-found/Crackline Uganda/20260228224138_1.jpg",
+            "/screenshots/lost-and-found/Crackline Uganda/20260228204000_1.jpg",
+            "/screenshots/lost-and-found/Crackline Uganda/20260228222005_1.jpg"
+        ],
         "link": "lost-and-found-entries/Crackline Uganda.zip",
         "size": 250
     },
@@ -294,45 +310,29 @@
     },
     {
         "id": 15,
-        "title": "Snowblind",
-        "author": "Plank",
-        "date": "Around 2016 / 2017",
+        "title": "Loathing",
+        "author": "Lordofmobs",
+        "date": "5th June 2016",
         "contents": [
-            "A fan-made single level set in the universe of the Hunter trilogy. Here, you play as Simon clearing out a 3-floor building full of thugs and Bratva members.",
-            "While the level itself is competently made, it also serves as a time capsule on how Hunter's sprites used to look like compared to the current, more refined version of the trilogy."
+            "A 16-level long campaign starring Hammer. There, he tries to fight off the Colombians and plans to destroy 50 Blessings with his newfound companions. A fast paced campaign that delves into one's psyche when taking on such a huge task and how it can change people when reaching the end."
         ],
         "images": [
-            "/screenshots/lost-and-found/Snowblind/20251228222742_1.jpg",
-            "/screenshots/lost-and-found/Snowblind/20251228223323_1.jpg",
-            "/screenshots/lost-and-found/Snowblind/20251228223359_1.jpg",
-            "/screenshots/lost-and-found/Snowblind/20251228223409_1.jpg",
-            "/screenshots/lost-and-found/Snowblind/20251228223457_1.jpg"
+            "screenshots/lost-and-found/Loathing/20260311002725_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311002907_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311003834_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311004006_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311004249_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311005343_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311005949_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311010024_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311010215_1.jpg",
+            "screenshots/lost-and-found/Loathing/20260311010739_1.jpg"
         ],
-        "link": "lost-and-found-entries/Snowblind.zip",
-        "size": 5.22
+        "link": "lost-and-found-entries/Loathing.zip",
+        "size": 0.41
     },
     {
         "id": 16,
-        "title": "Banger",
-        "author": "b-idea",
-        "date": "August 2019",
-        "contents": [
-            "A single level from the colaborative collection \"Summer Of Rage\", featuring 3 action packed floors with many summer-themed sprites and vibrant enemy and furniture recolors.",
-            "The level collection itself has a music mod, which is encouraged to be installed when playing the whole collection. You can find it at https://steamcommunity.com/workshop/filedetails/?id=1822110263."
-        ],
-        "images": [
-            "/screenshots/lost-and-found/Banger/20251231160005_1.jpg",
-            "/screenshots/lost-and-found/Banger/20251231160132_1.jpg",
-            "/screenshots/lost-and-found/Banger/20251231160333_1.jpg",
-            "/screenshots/lost-and-found/Banger/20251231160408_1.jpg",
-            "/screenshots/lost-and-found/Banger/20251231160512_1.jpg",
-            "/screenshots/lost-and-found/Banger/20251229012914_1.jpg"
-        ],
-        "link": "lost-and-found-entries/Banger.zip",
-        "size": 2.03
-    },
-    {
-        "id": 17,
         "title": "Politics",
         "author": "1spiceyburgar",
         "date": "15th February 2021",
@@ -352,7 +352,7 @@
         "size": 419
     },
     {
-        "id": 18,
+        "id": 17,
         "title": "Fandom Adventures Part 1",
         "author": "Atlan",
         "date": "22nd May 2016",
@@ -375,49 +375,7 @@
         "size": 0.62
     },
     {
-        "id": 19,
-        "title": "To the top",
-        "author": "b-idea",
-        "date": "around 2020",
-        "contents": [
-            "A spin-off level featuring Dennis from Wildstyle (or rather HLM1). This short, but stylish level features a set of unique encounters in closed corridors while also keeping the atmostphere of the original game.",
-            "One noticable feature are the yellow soft walls working just like in the original game, making this level as true to the original game as possible, thanks to the technical discovery they made."
-        ],
-        "images": [
-            "/screenshots/lost-and-found/To The Top/20260109225434_1.jpg",
-            "/screenshots/lost-and-found/To The Top/20260109225508_1.jpg",
-            "/screenshots/lost-and-found/To The Top/20260109225533_1.jpg",
-            "/screenshots/lost-and-found/To The Top/20260109225632_1.jpg",
-            "/screenshots/lost-and-found/To The Top/20260109225737_1.jpg"
-        ],
-        "link": "lost-and-found-entries/To the top.zip",
-        "size": 1.35
-    },
-    {
-        "id": 20,
-        "title": "Dust",
-        "author": "b-idea",
-        "date": "10th July 2021",
-        "contents": [
-            "B-idea's ambitious 1-level campaign set in a post-apocalyptic world. You're playing as a female merc, fighting monsters inside an abandoned subway station.",
-            "This campaign oozes in atmosphere with its beautiful spritework and light effects and is not holding back with its difficulty, featuring a tight arena section and a crushing boss fight with its OST mainly taken from Quake 3: Arena."
-        ],
-        "images": [
-            "/screenshots/lost-and-found/Dust/20260109215104_1.jpg",
-            "/screenshots/lost-and-found/Dust/20260109215109_1.jpg",
-            "/screenshots/lost-and-found/Dust/20260109215302_1.jpg",
-            "/screenshots/lost-and-found/Dust/20260109215537_1.jpg",
-            "/screenshots/lost-and-found/Dust/20260109215622_1.jpg",
-            "/screenshots/lost-and-found/Dust/20260109215657_1.jpg",
-            "/screenshots/lost-and-found/Dust/20260109221338_1.jpg",
-            "/screenshots/lost-and-found/Dust/20260109221913_1.jpg",
-            "/screenshots/lost-and-found/Dust/20260109222455_1.jpg"
-        ],
-        "link": "lost-and-found-entries/Dust.zip",
-        "size": 105
-    },
-    {
-        "id": 21,
+        "id": 18,
         "title": "Fascio",
         "author": "dedsekret & xyfropunk",
         "date": "10th July 2022",
@@ -438,12 +396,12 @@
         "size": 1.37
     },
     {
-        "id": 22,
+        "id": 19,
         "title": "JACKT WRKSHP EDTN",
         "author": "CrazyJaydon",
         "date": "17th September 2016",
         "contents": [
-            "Jaydon's infamous shitpost campaign, solidifying the JACKT genre as the low effort shitposts in 8 compact and thrilling levels. Old and very outdated memes ahead. Play at you own risk!"
+            "Jaydon's infamous shitpost campaign, solidifying the JACKT genre within the Steam Workshop as the low effort shitposts in 8 compact and thrilling levels. Old and very outdated memes ahead. Play at you own risk!"
         ],
         "images": [
             "/screenshots/lost-and-found/JACKT WRKSHP EDTN/20260109230950_1.jpg",
@@ -459,7 +417,7 @@
         "size": 0.18
     },
     {
-        "id": 23,
+        "id": 20,
         "title": "Faded Act I",
         "author": "perforator",
         "date": "15th October 2017",
@@ -481,7 +439,7 @@
         "size": 2.27
     },
     {
-        "id": 24,
+        "id": 21,
         "title": "Faded Act II",
         "author": "perforator",
         "date": "26th February 2018",
@@ -502,7 +460,7 @@
         "size": 12.1
     },
     {
-        "id": 25,
+        "id": 22,
         "title": "Faded Act I (Rus)",
         "author": "perforator",
         "date": "15th October 2017",
@@ -524,7 +482,7 @@
         "size": 2.27
     },
     {
-        "id": 26,
+        "id": 23,
         "title": "Faded Act II (Rus)",
         "author": "perforator",
         "date": "26th February 2018",
@@ -545,7 +503,7 @@
         "size": 12.1
     },
     {
-        "id": 27,
+        "id": 24,
         "title": "Werewolf Nights",
         "author": "the puzzler",
         "date": "11th March 2017",
@@ -565,7 +523,7 @@
         "size": 0.28
     },
     {
-        "id": 28,
+        "id": 25,
         "title": "Freaks",
         "author": "the puzzler",
         "date": "16th June 2017",
@@ -583,5 +541,330 @@
         ],
         "link": "lost-and-found-entries/Freaks.zip",
         "size": 0.08
+    },
+    {
+        "id": 26,
+        "title": "True Friends",
+        "author": "CoyoteUgly1995",
+        "date": "3rd May 2016",
+        "contents": [
+            "A 1-level long shitpost campaign where you play as Mark, trying to get by with his daily life and helping out his thankless friends. Will they come to their senses and apologize for their rude behaviour? Only one way to find out!"
+        ],
+        "images": [
+            "screenshots/lost-and-found/True Friends/20260124223115_1.jpg",
+            "screenshots/lost-and-found/True Friends/20260124223126_1.jpg",
+            "screenshots/lost-and-found/True Friends/20260124223736_1.jpg"
+        ],
+        "link": "lost-and-found-entries/True Friends.zip",
+        "size": 0.03
+    },
+    {
+        "id": 27,
+        "title": "The Comedy Hour",
+        "author": "Comedy Greg",
+        "date": "29th December 2017",
+        "contents": [
+            "An 8-level long campaign about a group of friends, who's podcast was stolen by a rival group. The story handles their struggles with each other and overcoming their differences by reaching a common goal.",
+            "The jokes in the campaign are rather edgy and thrives with both sexually and racially questionable statements. Take it as a warning."
+        ],
+        "images": [
+            "screenshots/lost-and-found/The Comedy Hour/screen.png",
+            "screenshots/lost-and-found/The Comedy Hour/20260130210808_1.jpg",
+            "screenshots/lost-and-found/The Comedy Hour/20260130211523_1.jpg",
+            "screenshots/lost-and-found/The Comedy Hour/20260130215037_1.jpg",
+            "screenshots/lost-and-found/The Comedy Hour/20260130211953_1.jpg",
+            "screenshots/lost-and-found/The Comedy Hour/20260130213404_1.jpg",
+            "screenshots/lost-and-found/The Comedy Hour/20260130215207_1.jpg"
+        ],
+        "link": "lost-and-found-entries/The Comedy Hour.zip",
+        "size": 0.26
+    },
+    {
+        "id": 28,
+        "title": "Jackt Kngdm",
+        "author": "SuitedFox",
+        "date": "27th June 2017",
+        "contents": [
+            "A 10-level long campaign, about Jackt's and Pardo's offspring taking over Acid Kingdom and planning Miami's ultimate demise. Even if thing look hopeless at first, the people of the Hotline Miami community might have a chance, if they come together and fight the enemy as a team.",
+            "The campaign is similar to \"Workshop War\" with the inclusion of several community members from that era, but is also very self-aware about the narrative, making the campaign pretty meta regarding the author's choice of creative output at the time."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Jackt Kngdm/20260130194724_1.jpg",
+            "screenshots/lost-and-found/Jackt Kngdm/20260130193357_1.jpg",
+            "screenshots/lost-and-found/Jackt Kngdm/20260130193919_1.jpg",
+            "screenshots/lost-and-found/Jackt Kngdm/20260130193324_1.jpg",
+            "screenshots/lost-and-found/Jackt Kngdm/20260130193943_1.jpg",
+            "screenshots/lost-and-found/Jackt Kngdm/20260130201809_1.jpg",
+            "screenshots/lost-and-found/Jackt Kngdm/20260130200923_1.jpg",
+            "screenshots/lost-and-found/Jackt Kngdm/20260130195245_1.jpg",
+            "screenshots/lost-and-found/Jackt Kngdm/20260130200233_1.jpg",
+            "screenshots/lost-and-found/Jackt Kngdm/20260130202601_1.jpg",
+            "screenshots/lost-and-found/Jackt Kngdm/20260130194559_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Jackt Kngdm.zip",
+        "size": 3.26
+    },
+    {
+        "id": 29,
+        "title": "Miami Memes",
+        "author": "Plank",
+        "date": "30th April 2016",
+        "contents": [
+            "A 3-level long shitpost campaign akin to the average JACKT genre. For when you thought Plank's infamous Coomtaker saga is the only shitpost he's ever made, here's one point that argues against that statement."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Miami Memes/20260131135832_1.jpg",
+            "screenshots/lost-and-found/Miami Memes/20260131135948_1.jpg",
+            "screenshots/lost-and-found/Miami Memes/20260131140058_1.jpg",
+            "screenshots/lost-and-found/Miami Memes/20260131140224_1.jpg",
+            "screenshots/lost-and-found/Miami Memes/20260131140502_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Miami Memes.zip",
+        "size": 0.02
+    },
+    {
+        "id": 30,
+        "title": "Hamr Adventure",
+        "author": "Purrple",
+        "date": "28th May 2016",
+        "contents": [
+            "Hamr Adventure can be treated as an endurance test. With 24 levels, this campaign stands out not only from its sheer length, but also with its unique story-telling, while sticking to the regular JACKT format, giving the campaign an overall abstract vibe to it.",
+            "The level design vary from bearable to mild annoyance to purgatory. So don't worry if you struggle in levels like \"House\", \"Ducktape\" or the last 4 levels in general, as they are very demanding by design."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Hamr Adventure/20260130220039_1.jpg",
+            "screenshots/lost-and-found/Hamr Adventure/20260130221135_1.jpg",
+            "screenshots/lost-and-found/Hamr Adventure/20260130221828_1.jpg",
+            "screenshots/lost-and-found/Hamr Adventure/20260130223433_1.jpg",
+            "screenshots/lost-and-found/Hamr Adventure/20260130223526_1.jpg",
+            "screenshots/lost-and-found/Hamr Adventure/20260130225145_1.jpg",
+            "screenshots/lost-and-found/Hamr Adventure/20260130233515_1.jpg",
+            "screenshots/lost-and-found/Hamr Adventure/20260130234822_1.jpg",
+            "screenshots/lost-and-found/Hamr Adventure/20260131001607_1.jpg",
+            "screenshots/lost-and-found/Hamr Adventure/20260131001625_1.jpg",
+            "screenshots/lost-and-found/Hamr Adventure/20260131002146_1.jpg",
+            "screenshots/lost-and-found/Hamr Adventure/20260131004314_1.jpg",
+            "screenshots/lost-and-found/Hamr Adventure/20260131004934_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Hamr Adventure.zip",
+        "size": 0.93
+    },
+    {
+        "id": 31,
+        "title": "Comedy Hour 2: A New Hope",
+        "author": "Comedy Greg 2",
+        "date": "1st January 2018",
+        "contents": [
+            "A 15-levels long sequel to \"The Comedy Hour\". Here, one of the group's associates \"bestname\" wants to avenge the death of his friend Racko by killing the rest of the group. Featuring flashbacks, background lore of the cast, rides through heaven and hell and e-celebrity drama from the time it came out.",
+            "While this campaign still has its fair share of vulgarity, it is fairly tame compared to the first entry. More noticable is their interesting narrative approach of telling the story in a set of blocks, instead of one consecutive cutscene."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Comedy Hour 2/screen.png",
+            "screenshots/lost-and-found/Comedy Hour 2/20260308150422_1.jpg",
+            "screenshots/lost-and-found/Comedy Hour 2/20260307223800_1.jpg",
+            "screenshots/lost-and-found/Comedy Hour 2/20260307224121_1.jpg",
+            "screenshots/lost-and-found/Comedy Hour 2/20260307230040_1.jpg",
+            "screenshots/lost-and-found/Comedy Hour 2/20260307225901_1.jpg",
+            "screenshots/lost-and-found/Comedy Hour 2/20260307225619_1.jpg",
+            "screenshots/lost-and-found/Comedy Hour 2/20260307230212_1.jpg",
+            "screenshots/lost-and-found/Comedy Hour 2/20260307225702_1.jpg",
+            "screenshots/lost-and-found/Comedy Hour 2/20260308145753_1.jpg",
+            "screenshots/lost-and-found/Comedy Hour 2/20260308145820_1.jpg",
+            "screenshots/lost-and-found/Comedy Hour 2/20260308150113_1.jpg",
+            "screenshots/lost-and-found/Comedy Hour 2/20260308150230_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Comedy Hour 2.zip",
+        "size": 2.3
+    },
+    {
+        "id": 32,
+        "title": "Animal Control",
+        "author": "AlpDePalp",
+        "date": "around 2018 / 2019",
+        "contents": [
+            "A 4-level long campaign that tells the story of Henchman and his accomplice trying to break out their friend Danil, who was abducted by furries. Contains vulgarity and a questionably vast knowledge about the furry community."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Animal Control/screen.png",
+            "screenshots/lost-and-found/Animal Control/20260309221843_1.jpg",
+            "screenshots/lost-and-found/Animal Control/20260309222018_1.jpg",
+            "screenshots/lost-and-found/Animal Control/20260309222042_1.jpg",
+            "screenshots/lost-and-found/Animal Control/20260309222132_1.jpg",
+            "screenshots/lost-and-found/Animal Control/20260309223419_1.jpg",
+            "screenshots/lost-and-found/Animal Control/20260309222203_1.jpg",
+            "screenshots/lost-and-found/Animal Control/20260309223007_1.jpg",
+            "screenshots/lost-and-found/Animal Control/20260309222728_1.jpg",
+            "screenshots/lost-and-found/Animal Control/20260309223601_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Animal Control.zip",
+        "size": 0.33
+    },
+    {
+        "id": 33,
+        "title": "Loss of Self",
+        "author": "N U G G E T",
+        "date": "14th May 2016",
+        "contents": [
+            "A 2-level long campaign about Corey doing a job from an anonymous messenger and slowly going insane. It starts out normal in the first level, but then quickly takes a more surreal approach in its narrative."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Loss of Self/20260309231237_1.jpg",
+            "screenshots/lost-and-found/Loss of Self/20260309230636_1.jpg",
+            "screenshots/lost-and-found/Loss of Self/20260309230734_1.jpg",
+            "screenshots/lost-and-found/Loss of Self/20260309230945_1.jpg",
+            "screenshots/lost-and-found/Loss of Self/20260309231015_1.jpg",
+            "screenshots/lost-and-found/Loss of Self/20260309231340_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Loss of Self.zip",
+        "size": 0.68
+    },
+    {
+        "id": 34,
+        "title": "Animal Control 2",
+        "author": "AlpDePalp",
+        "date": "19th November 2020",
+        "contents": [
+            "Animal Contol 2 is the 11-level-long sequel to its first part. It continues the story of its predecessor, following the story of Daniel, the Henchman, the Russian mafia and the fans. After the colombians pledged allegiance with the furries, all hell broke loose, splitting the fans' and the mafia's comradery and picking up the pieces that remained intact. Will the Russian mafia come back to their strength and defeat the threat?",
+            "Overall a decent sequel with less vulgarity and much more variety in both level settings and dialogues, featuring a few good jokes about the level editor and the community.",
+            "The credits and the first cutscene claim to have a music mod for this campaign. However, we were not able to recover that one. Should you have a version of the original wad, we would love to add it along with the campaign itself. Alternatively, you can search up TheLegoMack's YouTube channel, where he once streamed the campaign a few years ago."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Animal Control 2/9.jpg",
+            "screenshots/lost-and-found/Animal Control 2/1.png",
+            "screenshots/lost-and-found/Animal Control 2/5.jpg",
+            "screenshots/lost-and-found/Animal Control 2/6.jpg",
+            "screenshots/lost-and-found/Animal Control 2/13.jpg",
+            "screenshots/lost-and-found/Animal Control 2/15.jpg",
+            "screenshots/lost-and-found/Animal Control 2/3.jpg",
+            "screenshots/lost-and-found/Animal Control 2/7.jpg",
+            "screenshots/lost-and-found/Animal Control 2/10.jpg",
+            "screenshots/lost-and-found/Animal Control 2/12.jpg",
+            "screenshots/lost-and-found/Animal Control 2/11.jpg",
+            "screenshots/lost-and-found/Animal Control 2/2.png",
+            "screenshots/lost-and-found/Animal Control 2/14.jpg",
+            "screenshots/lost-and-found/Animal Control 2/8.jpg"
+        ],
+        "link": "lost-and-found-entries/Animal Control 2.zip",
+        "size": 2.4
+    },
+    {
+        "id": 35,
+        "title": "Moonman",
+        "author": "cant moss...",
+        "date": "12th September 2018",
+        "contents": [
+            "A single level starring Mac Tonight's alter ego \"Moonman\", where he storms a building full of African Americans. Beware of the edgy title it comes with."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Moonman/20260427193343_1.jpg",
+            "screenshots/lost-and-found/Moonman/20260427193412_1.jpg",
+            "screenshots/lost-and-found/Moonman/20260427193452_1.jpg",
+            "screenshots/lost-and-found/Moonman/20260427193534_2.jpg"
+        ],
+        "link": "lost-and-found-entries/Moonman.zip",
+        "size": 2.8
+    },
+    {
+        "id": 36,
+        "title": "Payday Mayday",
+        "author": "Mirror",
+        "date": "unknown",
+        "contents": [
+            "A 1-level campaign following a mobster's first job in Miami, making a deal with the local crime syndicates."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Payday Mayday/20260427200016_1.jpg",
+            "screenshots/lost-and-found/Payday Mayday/20260427200126_1.jpg",
+            "screenshots/lost-and-found/Payday Mayday/20260427200212_1.jpg",
+            "screenshots/lost-and-found/Payday Mayday/20260427200235_1.jpg"
+        ],
+        "link": "lost-and-found-entries/PAYDAY MAYDAY.zip",
+        "size": 0.78
+    },
+    {
+        "id": 37,
+        "title": "Skinwars",
+        "author": "TheCrossRoss",
+        "date": "5th January 2016",
+        "contents": [
+            "A 7-level campaign about Manny Pardo threatening to destroy the world from the skin star in space. Which of the HLM2 cast is able to stop this evil madness?.",
+            "Against popular belief, this campaign is actually quite creative even for an obvious shitpost campaign."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Skinwars/20260427201640_1.jpg",
+            "screenshots/lost-and-found/Skinwars/20260427202532_1.jpg",
+            "screenshots/lost-and-found/Skinwars/20260427201405_1.jpg",
+            "screenshots/lost-and-found/Skinwars/20260427201718_1.jpg",
+            "screenshots/lost-and-found/Skinwars/20260427201948_1.jpg",
+            "screenshots/lost-and-found/Skinwars/20260427202125_1.jpg",
+            "screenshots/lost-and-found/Skinwars/20260427202446_1.jpg",
+            "screenshots/lost-and-found/Skinwars/20260427202234_1.jpg",
+            "screenshots/lost-and-found/Skinwars/20260427202809_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Skinwars.zip",
+        "size": 0.14
+    },
+    {
+        "id": 38,
+        "title": "jacktwerld",
+        "author": "BigBox",
+        "date": "14th February 2016",
+        "contents": [
+            "A 6-level JACKT campaign about Manny Pardo's making a deal with Richter to acquire his favourite food."
+        ],
+        "images": [
+            "screenshots/lost-and-found/jacketwerld/20260427221151_1.jpg",
+            "screenshots/lost-and-found/jacketwerld/20260427221351_1.jpg",
+            "screenshots/lost-and-found/jacketwerld/20260427222306_1.jpg",
+            "screenshots/lost-and-found/jacketwerld/20260427221714_2.jpg",
+            "screenshots/lost-and-found/jacketwerld/20260427222210_1.jpg"
+        ],
+        "link": "lost-and-found-entries/jacktwerld.zip",
+        "size": 0.16
+    },
+    {
+        "id": 39,
+        "title": "Meme World",
+        "author": "Meme Lad",
+        "date": "28th March 2016",
+        "contents": [
+            "A 3-level shitpost campaign about taking back the country of Ukraine, which has been abducted by ninjas.",
+            "The .mp3 file, that's inside the campaign's folder was kept as it's part of a joke in a cutscene (original song name is Blank Banshee - Paradise Disc[芸能山城組])."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Meme World/20260427224413_1.jpg",
+            "screenshots/lost-and-found/Meme World/20260427224539_1.jpg",
+            "screenshots/lost-and-found/Meme World/20260427224722_1.jpg",
+            "screenshots/lost-and-found/Meme World/20260427224845_1.jpg",
+            "screenshots/lost-and-found/Meme World/20260427225048_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Meme World.zip",
+        "size": 3.1
+    },
+    {
+        "id": 40,
+        "title": "Jackt No More",
+        "author": "CrazyJaydon",
+        "date": "17th February 2016",
+        "contents": [
+            "A 5-level JACKT campaign about the modding community rebelling against Dennaton Games. This campaign stands out in particular for its soul crushing level design, demanding every last braincell to beat them properly.",
+            "Some levels can't be beaten with the newest version of the editor. If you want to actually beat the campaign, you'd need to downgrade your game's version to one, that has the beta version of the editor."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Jackt No More/20260427230602_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427230900_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427231114_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427231140_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427231646_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427231438_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427231620_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427232044_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427232945_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427231715_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427233154_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427233520_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Jackt No More.zip",
+        "size": 0.21
     }
 ]

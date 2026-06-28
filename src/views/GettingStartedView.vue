@@ -5,10 +5,10 @@
             <p> This page teaches you about the ins and outs of <a class="animText">Hotline Miami 2 modding</a> and
                 mainly revolves around <a class="animText">Hotline Miami 2's Level Editor</a> and the workshop around
                 it.</p>
-            <p>For <a class="animText">making standalone mods</a>, see <router-link :to="CatHlm1.to"
+            <p>For <a class="animText">making standalone mods</a> within GameMaker Studio, see <router-link :to="CatHlm1.to"
                     class="animText underline">{{ CatHlm1.title }}</router-link>.
             </p>
-            <p>The following chapters of this page go as followed:</p>
+            <p>The following chapters go as followed:</p>
         </article>
         <nav>
             <ol>

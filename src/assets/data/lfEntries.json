@@ -397,24 +397,29 @@
     },
     {
         "id": 19,
-        "title": "JACKT WRKSHP EDTN",
+        "title": "Jackt No More",
         "author": "CrazyJaydon",
-        "date": "17th September 2016",
+        "date": "17th February 2016",
         "contents": [
-            "Jaydon's infamous shitpost campaign, solidifying the JACKT genre within the Steam Workshop as the low effort shitposts in 8 compact and thrilling levels. Old and very outdated memes ahead. Play at you own risk!"
+            "A 5-level JACKT campaign about the modding community rebelling against Dennaton Games. This campaign stands out in particular for its soul crushing level design, demanding every last braincell to beat them properly.",
+            "Some levels can't be beaten with the newest version of the editor. If you want to actually beat the campaign, you'd need to downgrade your game's version to one, that has the beta version of the editor."
         ],
         "images": [
-            "/screenshots/lost-and-found/JACKT WRKSHP EDTN/20260109230950_1.jpg",
-            "/screenshots/lost-and-found/JACKT WRKSHP EDTN/20260109231057_1.jpg",
-            "/screenshots/lost-and-found/JACKT WRKSHP EDTN/20260109231110_1.jpg",
-            "/screenshots/lost-and-found/JACKT WRKSHP EDTN/20260109231609_1.jpg",
-            "/screenshots/lost-and-found/JACKT WRKSHP EDTN/20260109231646_1.jpg",
-            "/screenshots/lost-and-found/JACKT WRKSHP EDTN/20260109232147_1.jpg",
-            "/screenshots/lost-and-found/JACKT WRKSHP EDTN/20260109232316_1.jpg",
-            "/screenshots/lost-and-found/JACKT WRKSHP EDTN/20260109232637_1.jpg"
+            "screenshots/lost-and-found/Jackt No More/20260427230602_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427230900_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427231114_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427231140_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427231646_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427231438_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427231620_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427232044_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427232945_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427231715_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427233154_1.jpg",
+            "screenshots/lost-and-found/Jackt No More/20260427233520_1.jpg"
         ],
-        "link": "lost-and-found-entries/JACKT WRKSHP EDTN.zip",
-        "size": 0.18
+        "link": "lost-and-found-entries/Jackt No More.zip",
+        "size": 0.21
     },
     {
         "id": 20,
@@ -843,28 +848,295 @@
     },
     {
         "id": 40,
-        "title": "Jackt No More",
-        "author": "CrazyJaydon",
-        "date": "17th February 2016",
+        "title": "Broken",
+        "author": "mihacernadas",
+        "date": "21st August 2023",
         "contents": [
-            "A 5-level JACKT campaign about the modding community rebelling against Dennaton Games. This campaign stands out in particular for its soul crushing level design, demanding every last braincell to beat them properly.",
-            "Some levels can't be beaten with the newest version of the editor. If you want to actually beat the campaign, you'd need to downgrade your game's version to one, that has the beta version of the editor."
+            "A 5-level long campaign, starring Mike and Corey who cross each other's path and get acquainted to each other. After an incident on a rooftop his inner animal tells him to choose between his interest and his best friend.",
+            "Featuring an interesting choice of words upon their first meetings, which we think are quite hilarious on their own."
         ],
         "images": [
-            "screenshots/lost-and-found/Jackt No More/20260427230602_1.jpg",
-            "screenshots/lost-and-found/Jackt No More/20260427230900_1.jpg",
-            "screenshots/lost-and-found/Jackt No More/20260427231114_1.jpg",
-            "screenshots/lost-and-found/Jackt No More/20260427231140_1.jpg",
-            "screenshots/lost-and-found/Jackt No More/20260427231646_1.jpg",
-            "screenshots/lost-and-found/Jackt No More/20260427231438_1.jpg",
-            "screenshots/lost-and-found/Jackt No More/20260427231620_1.jpg",
-            "screenshots/lost-and-found/Jackt No More/20260427232044_1.jpg",
-            "screenshots/lost-and-found/Jackt No More/20260427232945_1.jpg",
-            "screenshots/lost-and-found/Jackt No More/20260427231715_1.jpg",
-            "screenshots/lost-and-found/Jackt No More/20260427233154_1.jpg",
-            "screenshots/lost-and-found/Jackt No More/20260427233520_1.jpg"
+            "screenshots/lost-and-found/Broken/screen.png",
+            "screenshots/lost-and-found/Broken/20260612152533_1.jpg",
+            "screenshots/lost-and-found/Broken/20260612151603_1.jpg",
+            "screenshots/lost-and-found/Broken/20260612151657_1.jpg",
+            "screenshots/lost-and-found/Broken/20260612152027_1.jpg",
+            "screenshots/lost-and-found/Broken/20260612153449_1.jpg",
+            "screenshots/lost-and-found/Broken/20260612153556_1.jpg",
+            "screenshots/lost-and-found/Broken/20260612153331_1.jpg"
         ],
-        "link": "lost-and-found-entries/Jackt No More.zip",
-        "size": 0.21
+        "link": "lost-and-found-entries/Broken.zip",
+        "size": 1.8
+    },
+    {
+        "id": 41,
+        "title": "Dog days",
+        "author": "Scum",
+        "date": "22nd July 2016",
+        "contents": [
+            "A 5-level campaign featuring Ted going on a killing spree and slowly losing his mind, once he encounters Hammer, who was hired by a civilian to put him down.",
+            "Noticable was Hammer's unique choice of words when encountering Ted or really any character he talked to."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Dog days/20260612164125_1.jpg",
+            "screenshots/lost-and-found/Dog days/20260612164351_1.jpg",
+            "screenshots/lost-and-found/Dog days/20260612164606_1.jpg",
+            "screenshots/lost-and-found/Dog days/20260612164941_1.jpg",
+            "screenshots/lost-and-found/Dog days/20260612165122_1.jpg",
+            "screenshots/lost-and-found/Dog days/20260612165137_1.jpg",
+            "screenshots/lost-and-found/Dog days/20260612165426_1.jpg",
+            "screenshots/lost-and-found/Dog days/20260612165526_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Dog days.zip",
+        "size": 0.13
+    },
+    {
+        "id": 42,
+        "title": "JACKT ADVNTRS 5",
+        "author": "123carter",
+        "date": "23rd July 2016",
+        "contents": [
+            "11-level long shitpost campaign, starring the Son, Beard and Pardo. While the humor resembles the average JACKT experience, the levels were actually quite challenging even for its time."
+        ],
+        "images": [
+            "screenshots/lost-and-found/JACKT ADVNTRS 5/20260612170412_1.jpg",
+            "screenshots/lost-and-found/JACKT ADVNTRS 5/20260612170510_1.jpg",
+            "screenshots/lost-and-found/JACKT ADVNTRS 5/20260612170618_1.jpg",
+            "screenshots/lost-and-found/JACKT ADVNTRS 5/20260612171026_1.jpg",
+            "screenshots/lost-and-found/JACKT ADVNTRS 5/20260612171316_1.jpg",
+            "screenshots/lost-and-found/JACKT ADVNTRS 5/20260612171359_1.jpg",
+            "screenshots/lost-and-found/JACKT ADVNTRS 5/20260612171417_1.jpg",
+            "screenshots/lost-and-found/JACKT ADVNTRS 5/20260612171927_1.jpg"
+        ],
+        "link": "lost-and-found-entries/JACKT ADVNTRS 5.zip",
+        "size": 0.27
+    },
+    {
+        "id": 43,
+        "title": "Act 1",
+        "author": "musicjab",
+        "date": "29th May 2017",
+        "contents": [
+            "A 1-level campaign, starring a thug named Jake, who's taking revenge on the thugs who broke into his house."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Act 1/20260612181053_1.jpg",
+            "screenshots/lost-and-found/Act 1/20260612181426_1.jpg",
+            "screenshots/lost-and-found/Act 1/20260612181445_1.jpg"
+        ],
+        "link": "lost-and-found-entries/ACT 1.zip",
+        "size": 1.5
+    },
+    {
+        "id": 44,
+        "title": "PP",
+        "author": "[H-FL] W!mut",
+        "date": "19th June 2017",
+        "contents": [
+            "A 4-level long campaign starring the fans, who lost their bar to a rival gang and hire both Hammer and Pardo to try getting it back from their enemy's grip."
+        ],
+        "images": [
+            "screenshots/lost-and-found/PP/20260612205838_1.jpg",
+            "screenshots/lost-and-found/PP/20260612205930_1.jpg",
+            "screenshots/lost-and-found/PP/20260612210008_1.jpg",
+            "screenshots/lost-and-found/PP/20260612210051_1.jpg",
+            "screenshots/lost-and-found/PP/20260612210157_1.jpg",
+            "screenshots/lost-and-found/PP/20260612210215_1.jpg",
+            "screenshots/lost-and-found/PP/20260612210317_1.jpg",
+            "screenshots/lost-and-found/PP/20260612210702_1.jpg",
+            "screenshots/lost-and-found/PP/20260612210355_1.jpg"
+        ],
+        "link": "lost-and-found-entries/PP.zip",
+        "size": 0.13
+    },
+    {
+        "id": 45,
+        "title": "Aubrey",
+        "author": "thebasicbrick",
+        "date": "19th August 2017",
+        "contents": [
+            "4-level long campaign covering Aubrey's backstory, his involvment with 50 Blessings and his association with Biker, that lead to some rather comical conversations."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Aubrey/20260612185617_1.jpg",
+            "screenshots/lost-and-found/Aubrey/20260612185905_1.jpg",
+            "screenshots/lost-and-found/Aubrey/20260612190045_1.jpg",
+            "screenshots/lost-and-found/Aubrey/20260612190145_1.jpg",
+            "screenshots/lost-and-found/Aubrey/20260612190302_1.jpg",
+            "screenshots/lost-and-found/Aubrey/20260612205756_1.jpg",
+            "screenshots/lost-and-found/Aubrey/20260612191021_1.jpg",
+            "screenshots/lost-and-found/Aubrey/20260612191624_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Aubrey.zip",
+        "size": 1
+    },
+    {
+        "id": 46,
+        "title": "One Man Army",
+        "author": "Plank",
+        "date": "around 2017",
+        "contents": [
+            "NOT LOST! This entry was never published, but we took the liberty to archive it with the consent of the author.",
+            "A 4-level long campaign about Corporal Pliskin and his adventures in the Hawaiian war, only the situation turns out to be different than what our protagonist believes to see.",
+            "The reason it never came out is mainly because this campaign is unfinished. You might see a few levels with either lacking tiles or furniture or even no tiles at all. Most levels' intro and outro don't have anything other than one enemy to kill and entering the vehicle.",
+            "When asked about the story, Plank said it can be seen as a pseudo-spiritual prequel to what later became Firestarter, another cancelled project by Plank set in Vietnam."
+        ],
+        "images": [
+            "screenshots/lost-and-found/One Man Army/20260612193408_1.jpg",
+            "screenshots/lost-and-found/One Man Army/20260612193458_1.jpg",
+            "screenshots/lost-and-found/One Man Army/20260612193638_1.jpg",
+            "screenshots/lost-and-found/One Man Army/20260612193936_1.jpg",
+            "screenshots/lost-and-found/One Man Army/20260612194348_1.jpg",
+            "screenshots/lost-and-found/One Man Army/20260612194410_1.jpg"
+        ],
+        "link": "lost-and-found-entries/One Man Army.zip",
+        "size": 1.2
+    },
+    {
+        "id": 47,
+        "title": "The Bureau",
+        "author": "dapp_Y",
+        "date": "12th November 2017",
+        "contents": [
+            "NOT LOST! This entry was never published, but we took the liberty to archive it with the consent of the author.",
+            "A 3-level long campaign about an agent named Joschua and a female thug named Rochelle, one trying to get by with his job while keeping his relationship in tact, the other trying to survive in the streets and her boss' questionable methods.",
+            "The second intro has no trigger or transition to the main level, so your best chance to continue is by leaving the level and proceed to the combat level. For the second level, we took the liberty of adding a transitional cutscene on the 2nd floor's top right corner (shown above), so that the player can see its outro without problems.",
+            "Coming with custom gun sounds, effects and weapon sprites and most likely an incomplete music wad."
+        ],
+        "images": [
+            "screenshots/lost-and-found/The Bureau/20260623205404_1.jpg",
+            "screenshots/lost-and-found/The Bureau/20260623205831_1.jpg",
+            "screenshots/lost-and-found/The Bureau/20260623210143_1.jpg",
+            "screenshots/lost-and-found/The Bureau/20260623205535_1.jpg",
+            "screenshots/lost-and-found/The Bureau/20260623210232_1.jpg",
+            "screenshots/lost-and-found/The Bureau/20260623211707_1.jpg",
+            "screenshots/lost-and-found/The Bureau/20260623211749_1.jpg",
+            "screenshots/lost-and-found/The Bureau/20260623215311_1.jpg",
+            "screenshots/lost-and-found/The Bureau/20260623214021_1.jpg",
+            "screenshots/lost-and-found/The Bureau/20260623214348_1.jpg"
+        ],
+        "link": "lost-and-found-entries/The Bureau.zip",
+        "size": 130.3
+    },
+    {
+        "id": 48,
+        "title": "Miami Mayhem",
+        "author": "Plank",
+        "date": "around 2017",
+        "contents": [
+            "A 4-level long campaign about Brad the thug with an attitude, Sammy the 50 Blessings operative and Blue Lips from the Russian Mafia. Each level features them doing their dangerous tasks, with each intro and outro being quite humorous, either unintentionally or on purpose."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Miami Mayhem/20260624135558_1.jpg",
+            "screenshots/lost-and-found/Miami Mayhem/20260624135736_1.jpg",
+            "screenshots/lost-and-found/Miami Mayhem/20260624140225_1.jpg",
+            "screenshots/lost-and-found/Miami Mayhem/20260624140446_1.jpg",
+            "screenshots/lost-and-found/Miami Mayhem/20260624140641_1.jpg",
+            "screenshots/lost-and-found/Miami Mayhem/20260624141237_1.jpg",
+            "screenshots/lost-and-found/Miami Mayhem/20260624141435_1.jpg",
+            "screenshots/lost-and-found/Miami Mayhem/20260624141509_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Miami Mayhem.zip",
+        "size": 0.66
+    },
+    {
+        "id": 49,
+        "title": "Miami Mayhem Act 2",
+        "author": "Plank",
+        "date": "around 2017",
+        "contents": [
+            "A 3-level long campaign continuing the story of Miami Mayhem, starting out with Blue Lips' demise, Brad's struggle to reunite his old flame and Rick doing his job as a 50 Blessings operative. Similar to the first act, the cutscenes are strangely comical, be it intentional or by accident."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Miami Mayhem Act 2/20260624141631_1.jpg",
+            "screenshots/lost-and-found/Miami Mayhem Act 2/20260624141728_1.jpg",
+            "screenshots/lost-and-found/Miami Mayhem Act 2/20260624142343_1.jpg",
+            "screenshots/lost-and-found/Miami Mayhem Act 2/20260624142636_1.jpg",
+            "screenshots/lost-and-found/Miami Mayhem Act 2/20260624142640_1.jpg",
+            "screenshots/lost-and-found/Miami Mayhem Act 2/20260624142656_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Miami Mayhem Act 2.zip",
+        "size": 0.57
+    },
+    {
+        "id": 50,
+        "title": "Wiseau Warfare",
+        "author": "Zarathust...",
+        "date": "11th June 2017",
+        "contents": [
+            "A 2-level long campaign about the son taking the role of Tommy Wiseau, director of the critically acclaimed movie \"The Room\". Here, he tries to get revenge on the people who hired a squad to kill him and tracks down the motives of his enemies. Features lots of quotes from the aforementioned movie."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Wiseau Warfare/20260624223607_1.jpg",
+            "screenshots/lost-and-found/Wiseau Warfare/20260624223645_1.jpg",
+            "screenshots/lost-and-found/Wiseau Warfare/20260624223939_1.jpg",
+            "screenshots/lost-and-found/Wiseau Warfare/20260624224344_1.jpg",
+            "screenshots/lost-and-found/Wiseau Warfare/20260624225504_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Wiseau Warfare.zip",
+        "size": 0.2
+    },
+    {
+        "id": 51,
+        "title": "Vaporized",
+        "author": "society dog",
+        "date": "around 2020",
+        "contents": [
+            "A 7-level long campaign about a man, trying to get his money from the gang he works for, hoping to finally leave his life of crime and return to his family.",
+            "Features lots of strange dialogues due to mistranslations, unconvenient furniture placement and strange phenomena during the cutscenes as we follow his story and the many things that go through his mind."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Vaporized/20260627194656_1.jpg",
+            "screenshots/lost-and-found/Vaporized/20260627194912_1.jpg",
+            "screenshots/lost-and-found/Vaporized/20260627201047_1.jpg",
+            "screenshots/lost-and-found/Vaporized/20260627194914_1.jpg",
+            "screenshots/lost-and-found/Vaporized/20260627200731_1.jpg",
+            "screenshots/lost-and-found/Vaporized/20260627195928_1.jpg",
+            "screenshots/lost-and-found/Vaporized/20260627200512_1.jpg",
+            "screenshots/lost-and-found/Vaporized/20260627201545_1.jpg",
+            "screenshots/lost-and-found/Vaporized/20260627200820_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Vaporized.zip",
+        "size": 1.1
+    },
+    {
+        "id": 52,
+        "title": "Serial Killers of Miami",
+        "author": "society dog",
+        "date": "around 2020",
+        "contents": [
+            "A 5-level long campaign featuring Max, a schizophrenic serial killer trying to fight his urge to kill through the help of his psychiatrist and the medications prescribed.",
+            "Like previous entries from society dog, this one has lots of strange dialogue, misplaced furniture and questionable level design.",
+            "Its prequel, Dark Past, is still available on the Steam Workshop."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Miami Killers/20260627203501_1.jpg",
+            "screenshots/lost-and-found/Miami Killers/20260627205626_1.jpg",
+            "screenshots/lost-and-found/Miami Killers/20260627205757_1.jpg",
+            "screenshots/lost-and-found/Miami Killers/20260627204835_1.jpg",
+            "screenshots/lost-and-found/Miami Killers/20260627205015_1.jpg",
+            "screenshots/lost-and-found/Miami Killers/20260627205403_1.jpg",
+            "screenshots/lost-and-found/Miami Killers/20260627210023_1.jpg",
+            "screenshots/lost-and-found/Miami Killers/20260627210201_1.jpg",
+            "screenshots/lost-and-found/Miami Killers/20260627204154_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Miami Killers.zip",
+        "size": 1.7
+    },
+    {
+        "id": 53,
+        "title": "Ty's Story",
+        "author": "jlrvortex",
+        "date": "6th August 2018",
+        "contents": [
+            "A 4-level long campaign about Ty, the 50 Blessings operative who does what the phonecalls tell him to do and occasionally visits a picnic of three people. While the story and levels are bare-bones, its environmental storytelling did not go unnoticed."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Ty's Story/20260627211442_1.jpg",
+            "screenshots/lost-and-found/Ty's Story/20260627211800_1.jpg",
+            "screenshots/lost-and-found/Ty's Story/20260627211642_1.jpg"
+        ],
+        "link": "lost-and-found-entries/Tys Story.zip",
+        "size": 2.7
     }
 ]

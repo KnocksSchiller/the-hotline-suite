@@ -4,7 +4,7 @@
       <p><a class="animText">Made by:</a> Knocks Schiller and <a class="animText underline" target="_blank"
           href="https://github.com/KnocksSchiller/the-hotline-suite/wiki/The-Fellow-Contributors">the fellow
           contributors</a>.</p>
-      <p><a class="animText"> Runs with:</a> Vue.JS, hosted on AWS.</p>
+      <p><a class="animText"> Runs with:</a> Vue.js, hosted on AWS.</p>
       <p><a class="animText">Email:</a> knocks.schiller @ tutanota.com <br>OR write a Discord message to
         knocksschiller
       </p>

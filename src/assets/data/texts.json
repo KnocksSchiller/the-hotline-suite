@@ -234,7 +234,6 @@
         "content": "An overview of entries, that we're actively looking for. If you happen to posess the files of one of the following entries, we would appreciate it, if you send it our way or make it public again, should you be the author of one of these entries.",
         "listed": [
             "Psychokinesis",
-            "Serial Killers of Miami",
             "Send Help",
             "Manny Gear Solid 3",
             "The Helmet Brothers",
@@ -243,11 +242,12 @@
             "E621",
             "New Life",
             "Deep Blue",
-            "Decay"
+            "Classified",
+            "Redemption",
+            "Redemption 2"
         ],
         "extraContent": [
             "A 2-level campaign from ~2020 / 21, in which you play as a guy raiding a secret lab. Second level features him obtaining a laser weapon, which he uses against the lab wardens. Once streamed by TheLegoMack on YouTube.",
-            "A campaign made around 2020 by \"society dog\", where you play as a man struggling with his psyche after going through the horrors of the Vietnam war. Its prequel \"Dark Past\" is still publicly available.",
             "A single level that looks like Minecraft. You play as Herobrine killing Gang members and find diamonds on the last floor, leading to a quite humorous cutscene. Once shown in one of the \"Hotline Editor was a mistake\" videos.",
             "The third installment of Metal Gear Solid parody, starring Manny Pardo as Solid Snake. Like the first two installment, it had very lengthy cutscenes. This one specifically also included a \"skip level\" and the infamous ladder scene recreated in Hotline Miami 2's janky level editor fashion.",
             "Title may be different. Campaign made around 2020 about two biker brothers in their 40s or 50s killing Russians. Mostly humurous and in good nature.",
@@ -256,7 +256,9 @@
             "A 3-level campaign about three anthropomorphic characters, with one of them being e621.net's mascot. Seen on this video from September 2016 https://www.youtube.com/watch?v=BqgyjuCVx9U.",
             "A 4-level long campaign from 2019-ish starring Manny Pardo, who died and got reincarnated as a young, female undercover police officer. Some remains of the campaign were streamed by Rob Salmon on https://www.youtube.com/watch?v=zwes6DiynN0.",
             "A 5-level long parody of SuitedFox's \"Deep Red\", starring knock-off versions of Jake Coalis and Vincent Corleonchetti (the 3rd). It was streamed by Rob Salmon on https://www.youtube.com/watch?v=zwes6DiynN0.",
-            "A single level made in 2020, which takes the aesthetic of the first gameboys and / or Nokia color scheme and a vibrant bitcrushed track as the music of choice."
+            "A single level from around 2017 made by thebasicbrick starring Evan fighting 50 Blessings operatives through an office complex.",
+            "One of Mr. Best's campaigns released around 2023/24 about a blonde guy rescuing and housing an 11 year old girl.",
+            "The sequel of Mr. Best's redemption released around 2025 about the now grown up rescued girl trying to find the first entry's protagonist while taking on dangerous missions against organized crime."
         ]
     },
     {
@@ -272,6 +274,31 @@
             "Simply put, each workshop entry fits under at least one of the following criteria:",
             "* standing out does not guarantee quality. Take it as a warning.",
             "So yes. Some entries can be bad, but at least managed to stand out from the other levels and campaigns in some way."
+        ]
+    },
+    {
+        "name": "16, HLM1-Modding Ch1",
+        "title": "Setting up GameMaker Studio",
+        "content": "To get the best balance between the newer features of GameMaker Studio after Gamemaker 7 while still being able to run a fully functional build of Hotline Miami, we'll be using Pi0h1's port of the source code into GameMaker Studio 1.4. This version works best on Windows, but also offers macOS and Ubuntu support, though sources on acquiring those two versions are rare.",
+        "images": [
+            "/screenshots/hlm1-modding/GameMaker-Studio-Logo1.png",
+            "",
+            "/screenshots/hlm1-modding/donut-yt-tutorial-ugp.png",
+            "/screenshots/hlm1-modding/cure's guide.png",
+            "/screenshots/hlm1-modding/hlm1-port-download-cropped3.gif",
+            "/screenshots/hlm1-modding/gms open project.png",
+            "/screenshots/hlm1-modding/gmsched-zoomed3.gif",
+            "/screenshots/hlm1-modding/gms run game.png"
+        ],
+        "extraContent": [
+            "First we need to acquire a copy of GameMaker Studio 1.4. Since YoYo Games stopped offering keys to get it officially, we'll do one of the following methods instead:",
+            "We can either follow DOnut's YouTube tutorial at https://www.youtube.com/watch?v=1y_0qEqLucU by downloading GameMaker Studio off https://gms-updates.gmclan.org/release/gms and then use the Universal Game Patcher (https://silica.codes/GameMakerReverse/UGP/releases) to generate a functional key of your installed software.",
+            "Or we can follow Cure's Steam guide at https://steamcommunity.com/sharedfiles/filedetails/?id=2990037153, which includes a mega link with GameMaker Studio and an unlocking script to be able to run the software. You can make a desktop link of Startilla_V3.exe to start GameMaker Studio more easily.",
+            "Once set up, you can get the project files of Hotline Miami's GMS 1.4 port by downloading it off Pi0h1's GitHub page at https://github.com/Pi0h1/HotlineMiami.gmx into a drive with lots of free space.",
+            "Next, you open up GameMaker Studio, head to “open” and find the project file within the downloaded folder.",
+            "Then, you want to download and enable a script called “gmsched”, which will run the game at a decent frame rate when compiling and running the whole project. Simply download it off \"https://github.com/skyfloogle/gmsched/releases\" and drag it into your project within GMS Studio.",
+            "Finally, you can start your modding journey by adding or modifying sprites, create new rooms or implement entirely new features. To run your project simply hit the “Run the game” button. The first compiling might take a few minutes, but shouldn't be as long the next time you do it.",
+            ""
         ]
     }
 ]

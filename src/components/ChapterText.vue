@@ -3,7 +3,8 @@
     <article>
         <p v-for="c in text.contents">{{ c }}</p>
     </article>
-    <div class="screenshot-flex"> <img v-for="i in text.images" :src="i" />
+    <div>
+        <img v-for="i in text.images" :src="i" />
     </div>
     <a v-if="text.link" :href="text.link" target="_blank" class="animText underline">{{ linktext }}</a>
 </template>
@@ -20,7 +21,7 @@ h2 {
     font-family: "Retro-Computer";
 }
 
-.screenshot-flex {
+div {
     display: flex;
     overflow: auto;
     gap: 15px;
@@ -28,12 +29,13 @@ h2 {
     align-items: start;
 }
 
-.screenshot-flex img {
+div img {
     min-width: 33%;
 }
 
+/* mobile view */
 @media(max-width: 768px) {
-    .screenshot-flex img {
+    div img {
         min-width: 90%;
     }
 

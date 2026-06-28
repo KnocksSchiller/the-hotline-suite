@@ -202,14 +202,50 @@ button {
   cursor: pointer;
 }
 
-button:active {
+button:active,
+button:disabled,
+button.downloading {
   border: 2px solid white;
   color: var(--lGreen);
   text-shadow: 4px 4px var(--red);
 }
 
-button:hover {
+button:hover:not(:disabled) {
   transform: scale(1.1);
+}
+
+/* Loading animation */
+button.downloading {
+  position: relative;
+  /* space for spinner */
+  padding-right: 40px;
+  transform: scale(1.1);
+  margin-right: 10px;
+}
+
+button.downloading::before {
+  content: '';
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 16px;
+  height: 16px;
+  border: 2px solid white;
+  border-top-color: var(--lGreen);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: translateY(-50%) rotate(360deg);
+  }
+}
+
+/* Optional: whole page cursor during download */
+.downloading {
+  cursor: wait;
 }
 
 .screenshot-grid {

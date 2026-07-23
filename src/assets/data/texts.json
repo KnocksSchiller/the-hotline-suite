@@ -294,10 +294,10 @@
             "First we need to acquire a copy of GameMaker Studio 1.4. Since YoYo Games stopped offering keys to get it officially, we'll do one of the following methods instead:",
             "We can either follow DOnut's YouTube tutorial at https://www.youtube.com/watch?v=1y_0qEqLucU by downloading GameMaker Studio off https://gms-updates.gmclan.org/release/gms and then use the Universal Game Patcher (https://silica.codes/GameMakerReverse/UGP/releases) to generate a functional key of your installed software.",
             "Or we can follow Cure's Steam guide at https://steamcommunity.com/sharedfiles/filedetails/?id=2990037153, which includes a mega link with GameMaker Studio and an unlocking script to be able to run the software. You can make a desktop link of Startilla_V3.exe to start GameMaker Studio more easily.",
-            "Once set up, you can get the project files of Hotline Miami's GMS 1.4 port by downloading it off Pi0h1's GitHub page at https://github.com/Pi0h1/HotlineMiami.gmx into a drive with lots of free space.",
+            "Once set up, you can get the project files of Hotline Miami's GMS 1.4 port by downloading it off Pi0h1's GitHub page at https://github.com/Pi0h1/HotlineMiami.gmx into a drive that has a lot of free space.",
             "Next, you open up GameMaker Studio, head to “open” and find the project file within the downloaded folder.",
             "Then, you want to download and enable a script called “gmsched”, which will run the game at a decent frame rate when compiling and running the whole project. Simply download it off \"https://github.com/skyfloogle/gmsched/releases\" and drag it into your project within GMS Studio.",
-            "Finally, you can start your modding journey by adding or modifying sprites, create new rooms or implement entirely new features. To run your project simply hit the “Run the game” button. The first compiling might take a few minutes, but shouldn't be as long the next time you do it.",
+            "Finally, you can start your modding journey by adding or modifying sprites, create new rooms or implement new features. To run your project simply hit the “Run the game” button. The first compiling might take a few minutes, but shouldn't be as long the next time you do it.",
             ""
         ]
     }

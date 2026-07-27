@@ -15,10 +15,14 @@
         </article>
         <nav>
             <ol>
-                <li><a href="#chapter1">{{ textsections[16].title }}</a></li>
+                <li><a href="#setting-up-gms">{{ textsections[16].title }}</a></li>
+                <li><a href="#knowing-your-tools">{{ textsections[17].title }}</a></li>
+                <li><a href="#modding-hlm1">{{ textsections[18].title }}</a></li>
             </ol>
         </nav>
-        <FoldingText id="chapter1" :mobile="mobile" :text="textsections[16]" />
+        <FoldingText id="setting-up-gms" :mobile="mobile" :text="textsections[16]" />
+        <FoldingText id="knowing-your-tools" :mobile="mobile" :text="textsections[17]" />
+        <FoldingText id="modding-hlm1" :mobile="mobile" :text="textsections[18]" />
     </div>
 </template>
 

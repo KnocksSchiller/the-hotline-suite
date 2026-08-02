@@ -20,7 +20,7 @@
                 <li><a href="#modding-hlm1">{{ textsections[18].title }}</a></li>
             </ol>
         </nav>
-        <FoldingText id="setting-up-gms" :mobile="mobile" :text="textsections[16]" />
+        <FoldingText id="setting-up-gms" :mobile="mobile" :text="textsections[16]" open/>
         <FoldingText id="knowing-your-tools" :mobile="mobile" :text="textsections[17]" />
         <FoldingText id="modding-hlm1" :mobile="mobile" :text="textsections[18]" />
     </div>

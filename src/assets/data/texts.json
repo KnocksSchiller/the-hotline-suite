@@ -13,7 +13,7 @@
         "content": "This website is mainly for people who want to get into the modding scene of \"Hotline Miami\" and its sequel. With the addition of the Lost and Found section and the Hotline-Likes section it can be just as interesting for active community members to see what other games can engage them."
     },
     {
-        "name": "2 GettingStarted, chapter 1",
+        "name": "2 GettingStarted, how to play custom levels",
         "title": "How to play custom levels / campaigns",
         "content": "The level editor works exclusively on the PC version of Hotline Miami 2. While it is possible to create and play custom levels on GOG, we advise you to do it on Steam, as it's properly connected to Steam's workshop. Here, you will learn how to download levels, how to play them and how to install mods, that require a manual installation.",
         "images": [
@@ -46,12 +46,12 @@
         ]
     },
     {
-        "name": "3 GettingStarted, chapter 2",
+        "name": "3 GettingStarted, how to make custom content",
         "title": "How to make custom content",
         "content": "For convenience, this chapter will be separated into three parts. Here, you can read through the essentials of the level editor, making cutscenes and making your own sprites and how to implement them in-game."
     },
     {
-        "name": "4 GettingStarted, chapter 2-1",
+        "name": "4 GettingStarted, the level editor",
         "title": "The Level Editor",
         "content": "First thing we recommend you to do, is to set the game's display resolution to 1366x768. That way you'll be able to see most of the floor's layout, while also being able to read the texts.",
         "images": [
@@ -78,7 +78,7 @@
         ]
     },
     {
-        "name": "5 GettingStarted, chapter 2-2",
+        "name": "5 GettingStarted, cutscenes",
         "title": "Cutscenes",
         "content": "With the cutscene editor you can write your own story. Press \"Ctrl + Alt + C\" inside the editor or press the \"Create Cutscene\" button at the menu bar to access it.",
         "images": [
@@ -103,7 +103,7 @@
         ]
     },
     {
-        "name": "6 GettingStarted, chapter 2-3",
+        "name": "6 GettingStarted, making sprites",
         "title": "Making Sprites",
         "content": "You need two tools in order to make and implement custom sprites into your level. The first tool is a drawing program. If you already use one, feel free to stick to your preferred program, as long as it gets the job done. If not, the most common ones are Photoshop, GIMP, Paint.net, Aseprite and LibreSprite.",
         "images": [
@@ -126,7 +126,7 @@
         ]
     },
     {
-        "name": "7 GettingStarted, chapter 3",
+        "name": "7 GettingStarted, tutorials and guides",
         "title": "Tutorials and Essential Guides",
         "content": "Not sure what makes a good level? Feel free to check out the many YouTube tutorials and Steam guides that go more in depth of the many things you can do and what to avoid when making levels.",
         "images": [
@@ -145,7 +145,7 @@
         ]
     },
     {
-        "name": "8 GettingStarted, chapter 4",
+        "name": "8 GettingStarted, advanced tools and guides",
         "title": "Advanced Tools / Guides",
         "content": "Can't find a sprite from the main game, that isn't listed in the editor? Check out all the niche tricks and tools the community discovered and bring your levels and campaigns to a whole new level.",
         "images": [
@@ -172,7 +172,7 @@
         ]
     },
     {
-        "name": "9 GettingStarted, chapter 5",
+        "name": "9 GettingStarted, i want more",
         "title": "I WANT MORE!!!",
         "content": "So, you want to know it all. You are very welcome to join our places to talk, where the majority of the community hangs out, posts about their own projects for feedback and make new discoveries. Check out our page on \"Places To Talk\", to know the best place for you.",
         "images": [
@@ -277,7 +277,7 @@
         ]
     },
     {
-        "name": "16, HLM1-Modding Ch1",
+        "name": "16, HLM1-Modding setting up gms",
         "title": "Setting up GameMaker Studio",
         "content": "To get the best balance between the newer features of GameMaker Studio after Gamemaker 7 while still being able to run a fully functional build of Hotline Miami, we'll be using Pi0h1's port of the source code into GameMaker Studio 1.4. This version works best on Windows, but also offers macOS and Ubuntu support, though sources on acquiring those two versions are rare.",
         "images": [
@@ -285,20 +285,64 @@
             "",
             "/screenshots/hlm1-modding/donut-yt-tutorial-ugp.png",
             "/screenshots/hlm1-modding/cure's guide.png",
-            "/screenshots/hlm1-modding/hlm1-port-download-cropped3.gif",
+            "/screenshots/hlm1-modding/setting-up-download-zip.gif",
             "/screenshots/hlm1-modding/gms open project.png",
             "/screenshots/hlm1-modding/gmsched-zoomed3.gif",
             "/screenshots/hlm1-modding/gms run game.png"
         ],
         "extraContent": [
             "First we need to acquire a copy of GameMaker Studio 1.4. Since YoYo Games stopped offering keys to get it officially, we'll do one of the following methods instead:",
-            "We can either follow DOnut's YouTube tutorial at https://www.youtube.com/watch?v=1y_0qEqLucU by downloading GameMaker Studio off https://gms-updates.gmclan.org/release/gms and then use the Universal Game Patcher (https://silica.codes/GameMakerReverse/UGP/releases) to generate a functional key of your installed software.",
+            "We can either follow D0nut's YouTube tutorial at https://www.youtube.com/watch?v=1y_0qEqLucU by downloading GameMaker Studio off https://gms-updates.gmclan.org/release/gms and then use the Universal Game Patcher (https://silica.codes/GameMakerReverse/UGP/releases) to generate a functional key of your installed software.",
             "Or we can follow Cure's Steam guide at https://steamcommunity.com/sharedfiles/filedetails/?id=2990037153, which includes a mega link with GameMaker Studio and an unlocking script to be able to run the software. You can make a desktop link of Startilla_V3.exe to start GameMaker Studio more easily.",
-            "Once set up, you can get the project files of Hotline Miami's GMS 1.4 port by downloading it off Pi0h1's GitHub page at https://github.com/Pi0h1/HotlineMiami.gmx into a drive that has a lot of free space.",
-            "Next, you open up GameMaker Studio, head to “open” and find the project file within the downloaded folder.",
-            "Then, you want to download and enable a script called “gmsched”, which will run the game at a decent frame rate when compiling and running the whole project. Simply download it off \"https://github.com/skyfloogle/gmsched/releases\" and drag it into your project within GMS Studio.",
-            "Finally, you can start your modding journey by adding or modifying sprites, create new rooms or implement new features. To run your project simply hit the “Run the game” button. The first compiling might take a few minutes, but shouldn't be as long the next time you do it.",
+            "Once set up, you can get the project files of Hotline Miami's GMS 1.4 port by downloading it off Pi0h1's GitHub page at https://github.com/Pi0h1/HotlineMiami.gmx into a drive that has a lot of free space. Make sure you select the \"modern\" branch, which is better documented and has an experimental port into GMS2.",
+            "Next, you open up GameMaker Studio, head to \"open\" and find the project file within the downloaded folder. For Version 1.4, we want to open the .gmx file inside \"Hotline Miami.gmx\".",
+            "Then, you want to download and enable a script called \"gmsched\", which will run the game at a decent frame rate when compiling and running the whole project. Simply download it off \"https://github.com/skyfloogle/gmsched/releases\" and drag it into your project within GMS Studio.",
+            "Finally, you can start your modding journey by adding or modifying sprites, create new rooms or implement new features. To run your project simply hit the \"Run the game\" button. The first compiling might take a few minutes, but shouldn't be as long the next time you do it.",
             ""
+        ]
+    },
+    {
+        "name": "17, HLM1-Modding knowing your tools",
+        "title": "Knowing your tools",
+        "content": "To have an easier time learning HLM1-modding, it's good to understand the basics of Gamemaker Studio. Among many other sources, the YouTube tutorial series by Let's Learn Gamemaker Studio at https://youtube.com/playlist?list=PLhwAMKTBx5mVkKZ0AaGZtA-isGVBPLuEO describe the many features the engine provides in detail, while keeping them simple, including topics such as:",
+        "listed": [
+            "Importing sprites, add frames and effects",
+            "Rooms, tiles, backgrounds and views",
+            "Objects, scripts and events",
+            "Sounds, music",
+            "Basic programming and the \"with\" statement",
+            "Alarms and timelines"
+        ],
+        "images": [
+            "/screenshots/hlm1-modding/tools-learning-gms-yt-playlist.png",
+            "",
+            "/screenshots/hlm1-modding/tools-what-do-smol.png"
+        ],
+        "extraContent": [
+            "We recommend following along with the tutorial by making a prototype of your own and implementing each section into your projects to some regards. You don't need to do all them, should they not fit into the game you came up with.",
+            "Should you run into a problem, you can always find a solution either in Gamemaker's manual, YouTube tutorials or even forum pages. Should none of them work, ask an LLM for advice (aka \"AI\"), but be precise with your problem and what version of Gamemaker you use, to avoid unnecessary rewrites.",
+            ""
+        ]
+    },
+    {
+        "name": "18, HLM1-Modding modding hlm1",
+        "title": "Modding Hotline Miami 1",
+        "content": "Now with a grasp of Gamemaker, it's time to digest the many wonders Dennaton has made to create Hotline Miami 1 and then figure out what sprites, objects and scripts you have to change to your mod's liking. While the engine provides an infinite range on what you can do with the already established game, you mainly want to do one of the followings for your mod specifically:",
+        "listed": [
+            "Making rooms / levels and how to properly organize them, including navigation menu and credits",
+            "Making new weapons or attributes to player characters or enemies",
+            "Mask selection and abilities",
+            "Making and writing cutscenes",
+            "High score and combo system",
+            "AI behaviour"
+        ],
+        "images": [
+            "",
+            "screenshots/hlm1-modding/modding-hlm1-yt-playlist.png"
+    ],
+        "extraContent": [
+            "You can find the more grounded changes at Spencer Yan's and D0nut's YouTube tutorial series at https://www.youtube.com/playlist?list=PLt0FtDUKWBwPJjruLdN_qeSI1iAstpucU, each video telling you which scripts, objects and events you need to change.",
+            "One last word of advice, despite Jonatan's rather unoptimized coding methods from over a decade ago, we recommend enduring it and following along the practices he used, since a complete rewrite of the systems requires deeper knowledge on Gamemaker Studios and coding in general."
         ]
     }
 ]

@@ -174,5 +174,120 @@
             "/screenshots/hlm-likes/Flashes of Chaos/5.png",
             "/screenshots/hlm-likes/Flashes of Chaos/6.png"
         ]
+    },
+    {
+        "id": 8,
+        "title": "Bloodlife",
+        "author": "Pi0h1",
+        "date": "2nd May 2026",
+        "contents": [
+            "BANG. BANG. YOU'RE DEAD. Follow Erick and Ben, two good-for-nothing punks and absolute scum of the earth, as they climb the ranks of an underground criminal world and make the sheer mention of their names feared when spoken on the streets.",
+            "Bloodlife is a standalone mod of Hotline Miami 1, following an original story throughout 16 levels with two gimmick levels and two boss fights, featuring Erick's variety of guns and Ben's unique melee abilities, you're given a variety of play styles alongside two hard modes for replayability.",
+            "Its art style and atmosphere resembles the many quirks of the early to mid 2000s, giving the mod a fresh approach on visual design, while keeping the experience and game loop of the original game as close as possible.",
+            "You can download the mod at Pi0h1's itch.io page at https://pi0h1.itch.io/bloodlife."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Bloodlife/1.png",
+            "/screenshots/hlm-likes/Bloodlife/4.png",
+            "/screenshots/hlm-likes/Bloodlife/5.png",
+            "/screenshots/hlm-likes/Bloodlife/13.png",
+            "/screenshots/hlm-likes/Bloodlife/12.png",
+            "/screenshots/hlm-likes/Bloodlife/9.png",
+            "/screenshots/hlm-likes/Bloodlife/6.png",
+            "/screenshots/hlm-likes/Bloodlife/7.png",
+            "/screenshots/hlm-likes/Bloodlife/10.png",
+            "/screenshots/hlm-likes/Bloodlife/11.png",
+            "/screenshots/hlm-likes/Bloodlife/14.png",
+            "/screenshots/hlm-likes/Bloodlife/2.png",
+            "/screenshots/hlm-likes/Bloodlife/8.png",
+            "/screenshots/hlm-likes/Bloodlife/3.png"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Make Me Real",
+        "author": "★ MEKU-RIA",
+        "date": "25th November 2017",
+        "contents": [
+            "The Ensurer watches over all. MAKE ME REAL is a standalone mod of Hotline Miami 1. You're playing 5 levels starring Riaru with tons of particle effects, visual and audible noise and a neon pink filter on top.",
+            "Its tight gameplay and four unique abilities make for a fresh approach to the modding scene, with a narrative commonly seen in indie-game titles.",
+            "The mod can be downloaded and installed through the \"Worthlessness Selected\" page at https://meku-ria.itch.io/make-me-real, which includes both Make Me Real and its sequel."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Make Me Real/1.png",
+            "/screenshots/hlm-likes/Make Me Real/5.png",
+            "/screenshots/hlm-likes/Make Me Real/6.png",
+            "/screenshots/hlm-likes/Make Me Real/2.png",
+            "/screenshots/hlm-likes/Make Me Real/4.png",
+            "/screenshots/hlm-likes/Make Me Real/8.png",
+            "/screenshots/hlm-likes/Make Me Real/10.png",
+            "/screenshots/hlm-likes/Make Me Real/12.png",
+            "/screenshots/hlm-likes/Make Me Real/7.png",
+            "/screenshots/hlm-likes/Make Me Real/9.png",
+            "/screenshots/hlm-likes/Make Me Real/3.png",
+            "/screenshots/hlm-likes/Make Me Real/11.png"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Make Me Real 2: Sovereigns",
+        "author": "★ MEKU-RIA",
+        "date": "2nd May 2018",
+        "contents": [
+            "REALIZE THIS! The sequel to the standalone mod features the many quirks of Make Me Real, but much more noisy and grimy.",
+            "Playing as Ted Holden, you're given four new abilities alongside an \"Ensurer\" mode, which you can reach once you hit a high enough combo. Gameplaywise, it's a massive upgrade to its predecessor with its fun abilities, more fluent navigation, faster enemy AI and a much crunchier sound system and its highly energetic soundtrack.",
+            "Its narrative resembles an actual storyline between Ted and the other entities of the dream world. After finishing the main story, you can play the bonus chapter \"The Waiting Room\" and the level rush mode \"dementia\" to test your abilities as one of three characters.",
+            "The mod can be downloaded and installed through the \"Worthlessness Selected\" page at https://meku-ria.itch.io/make-me-real, which includes both Make Me Real 2: Sovereigns and its predecessor. There's also an official dub of the story at https://youtu.be/irVH1rE2HdM. "
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Make Me Real 2 Sovereigns/1.png",
+            "/screenshots/hlm-likes/Make Me Real 2 Sovereigns/3.png",
+            "/screenshots/hlm-likes/Make Me Real 2 Sovereigns/2.png",
+            "/screenshots/hlm-likes/Make Me Real 2 Sovereigns/7.png",
+            "/screenshots/hlm-likes/Make Me Real 2 Sovereigns/5.png",
+            "/screenshots/hlm-likes/Make Me Real 2 Sovereigns/10.png",
+            "/screenshots/hlm-likes/Make Me Real 2 Sovereigns/6.png",
+            "/screenshots/hlm-likes/Make Me Real 2 Sovereigns/8.png",
+            "/screenshots/hlm-likes/Make Me Real 2 Sovereigns/4.png",
+            "/screenshots/hlm-likes/Make Me Real 2 Sovereigns/9.png",
+            "/screenshots/hlm-likes/Make Me Real 2 Sovereigns/12.png",
+            "/screenshots/hlm-likes/Make Me Real 2 Sovereigns/11.png"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Midnight Mercenaries",
+        "author": "GermanPeter",
+        "date": "22nd July 2022",
+        "contents": [
+            ""
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Midnight Mercenaries/.png"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Hotline Berzerk",
+        "author": "CrazyJaydon",
+        "date": "31st October 2020",
+        "contents": [
+            ""
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Hotline Berzerk/.png"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Zeit Expanded",
+        "author": "astren & friends",
+        "date": "17th April 2025",
+        "contents": [
+            ""
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Zeit Expanded/.png"
+        ]
     }
 ]

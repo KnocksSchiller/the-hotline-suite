@@ -211,7 +211,7 @@
         "contents": [
             "The Ensurer watches over all. MAKE ME REAL is a standalone mod of Hotline Miami 1. You're playing 5 levels starring Riaru with tons of particle effects, visual and audible noise and a neon pink filter on top.",
             "Its tight gameplay and four unique abilities make for a fresh approach to the modding scene, with a narrative commonly seen in indie-game titles.",
-            "The mod can be downloaded and installed through the \"Worthlessness Selected\" page at meku-ria.itch.io/make-me-real, which includes both Make Me Real and its sequel."
+            "The mod can be downloaded and installed through the \"Worthlessness Selected\" page at meku-ria.itch.io/make-me-real, which includes both Make Me Real and its sequel. You can also find several spinoffs of the same series on their page, such as Clearance Sale, Coffee/Break and Dreampunk."
         ],
         "images": [
             "/screenshots/hlm-likes/Make Me Real/1.png",
@@ -300,6 +300,51 @@
         ],
         "images": [
             "/screenshots/hlm-likes/Zeit Expanded/.png"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Rule Of The Gun",
+        "author": "Thunder",
+        "date": "14th February 2026",
+        "contents": [
+            "ONLY SIX SHOTS. Rule Of The Gun is a top-down, bullet-hell action-puzzle game set in a dark fantasy western, where the player has to deal with a crowd of armed enemies using slow-motion effects.",
+            "Its gameplay is similar to Superhot, where time slows down drastically when not moving and gets faster the more you move. The twist being only six bullets being given to you per level, as well as the many enemy types thrown in. Throughout the 16 levels you're given more types of bullets to beat the next puzzles, as well as beating your high score on previous levels. You can also play it on hard mode, which encourages speed and efficiency.",
+            "It's currently released as a demo and might be turned into a full game in the future. As for now, it is available at thunderman02.itch.io/rule-of-the-gun."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Rule of the gun/1.png",
+            "/screenshots/hlm-likes/Rule of the gun/3.png",
+            "/screenshots/hlm-likes/Rule of the gun/8.png",
+            "/screenshots/hlm-likes/Rule of the gun/5.png",
+            "/screenshots/hlm-likes/Rule of the gun/4.png",
+            "/screenshots/hlm-likes/Rule of the gun/2.png",
+            "/screenshots/hlm-likes/Rule of the gun/6.png",
+            "/screenshots/hlm-likes/Rule of the gun/7.png"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "DREAMPUNK®: Virtual Unreality",
+        "author": "★ MEKU-RIA",
+        "date": "12th September 2019",
+        "contents": [
+            "Dreampunk is a wave based top-down shooter based on Hotline Miami 1 and is a cyberpunk-themed spinoff to the MAKE ME REAL series, originally made for a community event amongst other modders.",
+            "It offers four different maps, each one of them starring a different character with their own unique weapons, attributes and even aesthetics. Each following wave increases the amount of enemies, making you more reliable to your orientation skills and giving you more chances to use the z-sys, a powerup, that greatly increases your fire rate for a limited time. Beating more waves unlocks more abilities and insight about the character you're playing.",
+            "The game is available at meku-ria.itch.io/dreampunk."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Dreampunk/1.png",
+            "/screenshots/hlm-likes/Dreampunk/2.png",
+            "/screenshots/hlm-likes/Dreampunk/3.png",
+            "/screenshots/hlm-likes/Dreampunk/10.png",
+            "/screenshots/hlm-likes/Dreampunk/7.png",
+            "/screenshots/hlm-likes/Dreampunk/6.png",
+            "/screenshots/hlm-likes/Dreampunk/4.png",
+            "/screenshots/hlm-likes/Dreampunk/5.png",
+            "/screenshots/hlm-likes/Dreampunk/9.png",
+            "/screenshots/hlm-likes/Dreampunk/8.png",
+            "/screenshots/hlm-likes/Dreampunk/11.png"
         ]
     }
 ]

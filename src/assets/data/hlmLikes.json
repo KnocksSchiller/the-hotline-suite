@@ -7,7 +7,7 @@
         "contents": [
             "Otxo (pronounced Ot-cho) is a roguelike top-down shooter, taking inspirations from Hotline Miami in graphics, combat and soundtrack. The main difference between the two games is the game loop, with Otxo having randomly generated floors with a hub area for upgrades inbetween and boss fights after beating a certain amount of levels.",
             "Unlike in Hotline, dying is very punishable, forcing you to restart the game from the very beginning. At least the health bar makes the run more forgivable than Hotline Miami's one-shot-death system.",
-            "While the game often gets compared to Hotline Miami and gets mentioned plenty of times around the community, its unique features and different game loop offers a new perspective on the 2D top-down-shooters genre.",
+            "While the game often gets compared to Hotline Miami and gets mentioned plenty of times around the community, its unique features and different game loop offers a new perspective on the 2D top-down shooters genre.",
             "Otxo is available on Steam, PlayStation 4, 5 and the Nintendo Switch."
         ],
         "images": [
@@ -23,7 +23,7 @@
         "author": "Vitaly Zaborov",
         "date": "17th July 2005 - 2009",
         "contents": [
-            "Endless War is a series of flash games, that you could play in several browser-games websites. It is a top-down-shooter, that requires you to reach the end and goal to finish the mission. The path is filled with enemies, that block your way and try to kill you once they spot you. You can either fight back or simply avoid them and reach the goal without hurting anyone.",
+            "Endless War is a series of flash games, that you could play in several browser-games websites. It is a top-down shooter, that requires you to reach the end and goal to finish the mission. The path is filled with enemies, that block your way and try to kill you once they spot you. You can either fight back or simply avoid them and reach the goal without hurting anyone.",
             "The games offer a huge variety of settings, including World War 2, the Vietnam War, counter-terrorists, terrorist, the Iraq War and even fictional settings like Fallout, Blood and World War 3 (Humans vs. Aliens).",
             "While the graphics and overall gameplay are comparable to both Hotline Miami and Jonatan's first draft \"Super Carnage\", there are plenty of features that differ a lot from both Hotline Miami games. For example, Endless War has a weapon arsenal, health and armor as well as grenades. You can also control allies with \"Q\", offering a more tactical approach on clearing the level. The option to pick up weapons from the ground as well as the presence of cursed bathrooms remain eerily similar to both game series.",
             "Gameplaywise, the series demands more player input, as the enemies remain static most of the time, unless they spot you. Their jank pathfinding and questionable hitboxes make their behavior less predictable than Hotline's, which can result in rather unfair scenarios at times.",
@@ -108,11 +108,11 @@
         "author": "CIRCLEfromDOT & PQube",
         "date": "30th July 2026",
         "contents": [
-            "Kusan is a top-down-shooter made in Unity, that is set in the futuristic and anthropomorphic city Kusan, following the story of Mr. Jin and Mr. Ayn. While the gun play, level structure and grade of violence are heavily inspired by Hotline Miami and its sequel, it greatly differs from its art style, environmental details and storytelling.",
+            "Kusan is a top-down shooter made in Unity, that is set in the futuristic and anthropomorphic city Kusan, following the story of Mr. Jin and Mr. Ayn. While the gun play, level structure and grade of violence are heavily inspired by Hotline Miami and its sequel, it greatly differs from its art style, environmental details and storytelling.",
             "Both the art direction and environment are much more detailed and varied, as well as interactive either through destructible objects, puzzles or interactions with other creatures, while the story varies in forms of both graphic novels and visual novels.",
             "The player gets a score for each individual floor, which then summarizes the overall performance of the level. The better you are, the more currency you earn, allowing you to unlock perks for its unique inventory / upgrading system. Next to overall improvements to your character, it allows you to focus your play style more on either melee combat, the throwing dagger or ranged weapons.",
             "While the enemies and layout of the levels are less engaging than Hotline Miami's enemy AI, the game makes up for it with its more varied enemy types, bosses and overall details.",
-            "You can play a free demo, which includes the first four levels and a final boss and is available on Steam, PlayStation 5, Xbox Series X and S and on the Nintendo Switch."
+            "The game is available on Steam, PlayStation 5, Xbox Series X and S and on the Nintendo Switch. It also offers a free demo, which includes the first four levels and a boss fight."
         ],
         "images": [
             "/screenshots/hlm-likes/Kusan/Kusan-City-of-Wolves.jpg",
@@ -136,7 +136,7 @@
         "contents": [
             "Your employment has run out. A payphone in the lobby begins to ring. A toneless voice offers vague terms drenched in innuendo. The job pays just twenty-one dollars.",
             "In this gloomy, futuristic dystopia, Collect Call can be best described as \"Hotline Miami, but as a card game\". It is a turn-based tactical roguelike focused on close quarters combat including a card deck system, trinkets, weapons and disguises. From the various player characters, factions, abilities and secrets, the game offers a wide variety of play styles, card combinations and decisions that affect the story's narrative progression when following the \"ascension\" route.",
-            "It is currently under development with many cards, enemy types and the fundamental game loop and art style already established, with the current plan focusing on adding more player freedom, game modes, playable characters, more enemy factions and finalized art. You can see the most recent developments on their public Discord server at https://discord.gg/Cfn9WtQBNt."
+            "It is currently under development with many cards, enemy types and the fundamental game loop and art style already established, with the current plan focusing on adding more player freedom, game modes, playable characters, more enemy factions and finalized art. You can see the most recent developments on their public Discord server at https://discord.gg/CFn9WtQBNt."
         ],
         "images": [
             "/screenshots/hlm-likes/Collect Call/1.jpg",
@@ -152,6 +152,220 @@
             "/screenshots/hlm-likes/Collect Call/9.jpg",
             "/screenshots/hlm-likes/Collect Call/10.jpg",
             "/screenshots/hlm-likes/Collect Call/11.jpg"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Flashes of Chaos",
+        "author": "Brainburn Studio",
+        "date": "tbd",
+        "contents": [
+            "The weapon lab has fallen. Chaos reigns inside. Retrieve the lost tech. Infiltrate, survive and escape.",
+            "Flashes of Chaos is a roguelike top-down shooter which heavily focuses on modifying you weapons through a vast amount of possible combinations in their abilities and handling. Spreading SMGs? Rapid fire bazookas? Explosive punches? All of that and more are very doable in this game.",
+            "The types of levels vary from the basic clear out, to wave based defense to boss levels, that give you special debuffs throughout the level. Enemies vary between gun guys, dogs, suicide bombers and big chainsaw wielding freaks. The more you play, the more perks, weapons and modifiers you get, offering a variety of play styles with each playthrough.",
+            "Other than sharing the same perspective and amount of gore, the game vastly differs from Hotline Miami regarding game loop, atmosphere and overall approach at the top-down shooter genre.",
+            "Until its non disclosed release date, a public demo is available on Steam."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Flashes of Chaos/1.png",
+            "/screenshots/hlm-likes/Flashes of Chaos/2.png",
+            "/screenshots/hlm-likes/Flashes of Chaos/3.png",
+            "/screenshots/hlm-likes/Flashes of Chaos/4.png",
+            "/screenshots/hlm-likes/Flashes of Chaos/5.png",
+            "/screenshots/hlm-likes/Flashes of Chaos/6.png"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Bloodlife",
+        "author": "Pi0h1",
+        "date": "2nd May 2026",
+        "contents": [
+            "BANG. BANG. YOU'RE DEAD. Follow Erick and Ben, two good-for-nothing punks and absolute scum of the earth, as they climb the ranks of an underground criminal world and make the sheer mention of their names feared when spoken on the streets.",
+            "Bloodlife is a standalone mod of Hotline Miami 1, following an original story throughout 16 levels with two gimmick levels and two boss fights, featuring Erick's variety of guns and Ben's unique melee abilities, you're given a variety of play styles alongside two hard modes for replayability.",
+            "Its art style and atmosphere resembles the many quirks of the early to mid 2000s, giving the mod a fresh approach on visual design, while keeping the experience and game loop of the original game as close as possible.",
+            "You can download the mod at Pi0h1's itch.io page at pi0h1.itch.io/bloodlife."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Bloodlife/1.png",
+            "/screenshots/hlm-likes/Bloodlife/4.png",
+            "/screenshots/hlm-likes/Bloodlife/5.png",
+            "/screenshots/hlm-likes/Bloodlife/13.png",
+            "/screenshots/hlm-likes/Bloodlife/12.png",
+            "/screenshots/hlm-likes/Bloodlife/9.png",
+            "/screenshots/hlm-likes/Bloodlife/6.png",
+            "/screenshots/hlm-likes/Bloodlife/7.png",
+            "/screenshots/hlm-likes/Bloodlife/10.png",
+            "/screenshots/hlm-likes/Bloodlife/11.png",
+            "/screenshots/hlm-likes/Bloodlife/14.png",
+            "/screenshots/hlm-likes/Bloodlife/2.png",
+            "/screenshots/hlm-likes/Bloodlife/8.png",
+            "/screenshots/hlm-likes/Bloodlife/3.png"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Make Me Real",
+        "author": "★ MEKU-RIA",
+        "date": "25th November 2017",
+        "contents": [
+            "The Ensurer watches over all. MAKE ME REAL is a standalone mod of Hotline Miami 1. You're playing 5 levels starring Riaru with tons of particle effects, visual and audible noise and a neon pink filter on top.",
+            "Its tight gameplay and four unique abilities make for a fresh approach to the modding scene, with a narrative commonly seen in indie-game titles.",
+            "The mod can be downloaded and installed through the \"Worthlessness Selected\" page at meku-ria.itch.io/make-me-real, which includes both Make Me Real and its sequel. You can also find several spinoffs of the same series on their page, such as Clearance Sale, Coffee/Break and Dreampunk."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Make Me Real/1.png",
+            "/screenshots/hlm-likes/Make Me Real/5.png",
+            "/screenshots/hlm-likes/Make Me Real/6.png",
+            "/screenshots/hlm-likes/Make Me Real/2.png",
+            "/screenshots/hlm-likes/Make Me Real/4.png",
+            "/screenshots/hlm-likes/Make Me Real/8.png",
+            "/screenshots/hlm-likes/Make Me Real/10.png",
+            "/screenshots/hlm-likes/Make Me Real/12.png",
+            "/screenshots/hlm-likes/Make Me Real/7.png",
+            "/screenshots/hlm-likes/Make Me Real/9.png",
+            "/screenshots/hlm-likes/Make Me Real/3.png",
+            "/screenshots/hlm-likes/Make Me Real/11.png"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Make Me Real 2: Sovereigns",
+        "author": "★ MEKU-RIA",
+        "date": "2nd May 2018",
+        "contents": [
+            "REALIZE THIS! The sequel to the standalone mod features the many quirks of Make Me Real, but much more noisy and grimy.",
+            "Playing as Ted Holden, you're given four new abilities alongside an \"Ensurer\" mode, which you can reach once you hit a high enough combo. Gameplaywise, it's a massive upgrade to its predecessor with its fun abilities, more fluent navigation, faster enemy AI and a much crunchier sound system and its highly energetic soundtrack.",
+            "Its narrative resembles an actual storyline between Ted and the other entities of the dream world. After finishing the main story, you can play the bonus chapter \"The Waiting Room\" and the level rush mode \"dementia\" to test your abilities as one of three characters.",
+            "The mod can be downloaded and installed through the \"Worthlessness Selected\" page at meku-ria.itch.io/make-me-real, which includes both Make Me Real 2: Sovereigns and its predecessor. There's also an official dub of the story at youtu.be/irVH1rE2HdM. "
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Make Me Real 2 Sovereigns/1.png",
+            "/screenshots/hlm-likes/Make Me Real 2 Sovereigns/3.png",
+            "/screenshots/hlm-likes/Make Me Real 2 Sovereigns/2.png",
+            "/screenshots/hlm-likes/Make Me Real 2 Sovereigns/7.png",
+            "/screenshots/hlm-likes/Make Me Real 2 Sovereigns/5.png",
+            "/screenshots/hlm-likes/Make Me Real 2 Sovereigns/10.png",
+            "/screenshots/hlm-likes/Make Me Real 2 Sovereigns/6.png",
+            "/screenshots/hlm-likes/Make Me Real 2 Sovereigns/8.png",
+            "/screenshots/hlm-likes/Make Me Real 2 Sovereigns/4.png",
+            "/screenshots/hlm-likes/Make Me Real 2 Sovereigns/9.png",
+            "/screenshots/hlm-likes/Make Me Real 2 Sovereigns/12.png",
+            "/screenshots/hlm-likes/Make Me Real 2 Sovereigns/11.png"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Midnight Mercenaries",
+        "author": "GermanPeter",
+        "date": "22nd July 2022",
+        "contents": [
+            "Midnight Mercenaries is a fan game that combines Hotline Miami's top-down perspective and pixel art style with the characters and mechanics from Team Fortress 2. It features all nine mercenaries with two subclasses each, a vast amount of levels with obstacles, mechanics and strategies and a new story set in three chapters.",
+            "With the many options given, the game offers a huge variety of play styles, some more aggressive, others more stealthy and creative. The amount of gore and bloodshed is on par with both games' aesthetic, while also having its own charm with its unique postures and enemy designs. Once you're able to find the telephone in the mercs' safehouse, you're in for an interesting spinoff that compliments both games in its own unique way.",
+            "You can download the game at gamejolt.com/games/midnightmercenaries/375928."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Midnight Mercenaries/0.png",
+            "/screenshots/hlm-likes/Midnight Mercenaries/2.png",
+            "/screenshots/hlm-likes/Midnight Mercenaries/4.png",
+            "/screenshots/hlm-likes/Midnight Mercenaries/1.png",
+            "/screenshots/hlm-likes/Midnight Mercenaries/8.png",
+            "/screenshots/hlm-likes/Midnight Mercenaries/5.png",
+            "/screenshots/hlm-likes/Midnight Mercenaries/3.png",
+            "/screenshots/hlm-likes/Midnight Mercenaries/6.png",
+            "/screenshots/hlm-likes/Midnight Mercenaries/13.png",
+            "/screenshots/hlm-likes/Midnight Mercenaries/7.png",
+            "/screenshots/hlm-likes/Midnight Mercenaries/9.png",
+            "/screenshots/hlm-likes/Midnight Mercenaries/10.png",
+            "/screenshots/hlm-likes/Midnight Mercenaries/11.png",
+            "/screenshots/hlm-likes/Midnight Mercenaries/12.png"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Hotline Berzerk",
+        "author": "CrazyJaydon",
+        "date": "31st October 2020",
+        "contents": [
+            "The year is 1989, again. Hotline Berzerk is a fan-made tribute crossover between Dennaton Games' Hotline Miami and Stern Electronics' Berzerk. With a thorough tutorial and 4 levels, it captures the aesthetics of the Atari era with the vibrant colors, furniture and layouts that define Hotline Miami's many visual quirks.",
+            "Each level stars a familiar character from both Hotline Miami and its sequel and ends with a unique cutscene that captures its unique narrative. The little nuances you can explore through the levels on top of the custom soundtrack makes it a very niche reimagining of the main game, while keeping its visual appeal and difficulty intact.",
+            "You can download Hotline Berzerk at crazyjaydon.itch.io/hotline-berzerk."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Hotline Berzerk/1.png",
+            "/screenshots/hlm-likes/Hotline Berzerk/2.png",
+            "/screenshots/hlm-likes/Hotline Berzerk/4.png",
+            "/screenshots/hlm-likes/Hotline Berzerk/6.png",
+            "/screenshots/hlm-likes/Hotline Berzerk/3.png",
+            "/screenshots/hlm-likes/Hotline Berzerk/10.png",
+            "/screenshots/hlm-likes/Hotline Berzerk/5.png",
+            "/screenshots/hlm-likes/Hotline Berzerk/9.png",
+            "/screenshots/hlm-likes/Hotline Berzerk/8.png",
+            "/screenshots/hlm-likes/Hotline Berzerk/7.png",
+            "/screenshots/hlm-likes/Hotline Berzerk/11.png"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Zeit Expanded",
+        "author": "astren & friends",
+        "date": "17th April 2025",
+        "contents": [
+            "A standalone mod of Hotline Miami 1, in which you hit all your targets as fast as you can. Missing a shot adds a second to your timer and may worsen your rating, encouraging both accuracy and overall speed of the player. With 5 levels, you are given a handful of settings, routes and mechanics to reach your goal as fast as possible.",
+            "You can download the mod at astrenn.itch.io/zeit-expanded."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Zeit Expanded/1.png",
+            "/screenshots/hlm-likes/Zeit Expanded/6.png",
+            "/screenshots/hlm-likes/Zeit Expanded/2.png",
+            "/screenshots/hlm-likes/Zeit Expanded/4.png",
+            "/screenshots/hlm-likes/Zeit Expanded/3.png",
+            "/screenshots/hlm-likes/Zeit Expanded/5.png"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Rule Of The Gun",
+        "author": "Thunder",
+        "date": "14th February 2026",
+        "contents": [
+            "ONLY SIX SHOTS. Rule Of The Gun is a top-down, bullet-hell action-puzzle game set in a dark fantasy western, where the player has to deal with a crowd of armed enemies using slow-motion effects.",
+            "Its gameplay is similar to Superhot, where time slows down drastically when not moving and gets faster the more you engage. The twist being only six bullets being given to you per level, as well as the many enemy types thrown in. Throughout the 16 levels you're given more types of bullets to beat the next puzzles, as well as beating your high score on previous levels. You can also play it on hard mode, which encourages speed and efficiency.",
+            "It's currently released as a demo and might be turned into a full game in the future. As for now, it is available at thunderman02.itch.io/rule-of-the-gun."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Rule of the gun/1.png",
+            "/screenshots/hlm-likes/Rule of the gun/3.png",
+            "/screenshots/hlm-likes/Rule of the gun/8.png",
+            "/screenshots/hlm-likes/Rule of the gun/5.png",
+            "/screenshots/hlm-likes/Rule of the gun/4.png",
+            "/screenshots/hlm-likes/Rule of the gun/2.png",
+            "/screenshots/hlm-likes/Rule of the gun/6.png",
+            "/screenshots/hlm-likes/Rule of the gun/7.png"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "DREAMPUNK®: Virtual Unreality",
+        "author": "★ MEKU-RIA",
+        "date": "12th September 2019",
+        "contents": [
+            "Dreampunk is a wave based top-down shooter based on Hotline Miami 1 and is a cyberpunk-themed spinoff to the MAKE ME REAL series, originally made for a community event amongst other modders.",
+            "It offers four different maps, each one of them starring a different character with their own unique weapons, attributes and even aesthetics. Each following wave increases the amount of enemies, making you more reliable to your orientation skills and giving you more chances to use the z-sys, a powerup, that greatly increases your fire rate for a limited time. Beating more waves unlocks more abilities and insight about the character you're playing.",
+            "The game is available at meku-ria.itch.io/dreampunk."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Dreampunk/1.png",
+            "/screenshots/hlm-likes/Dreampunk/2.png",
+            "/screenshots/hlm-likes/Dreampunk/3.png",
+            "/screenshots/hlm-likes/Dreampunk/10.png",
+            "/screenshots/hlm-likes/Dreampunk/7.png",
+            "/screenshots/hlm-likes/Dreampunk/6.png",
+            "/screenshots/hlm-likes/Dreampunk/4.png",
+            "/screenshots/hlm-likes/Dreampunk/5.png",
+            "/screenshots/hlm-likes/Dreampunk/9.png",
+            "/screenshots/hlm-likes/Dreampunk/8.png",
+            "/screenshots/hlm-likes/Dreampunk/11.png"
         ]
     }
 ]

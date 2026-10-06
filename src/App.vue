@@ -63,11 +63,6 @@ body {
 }
 
 @font-face {
-  font-family: "Press Start 2P";
-  src: url('@/assets/fonts/PressStart2P-Regular.ttf');
-}
-
-@font-face {
   font-family: "Atkinson-Hyperlegible";
   src: url('@/assets/fonts/AtkinsonHyperlegible-Bold.ttf')
 }

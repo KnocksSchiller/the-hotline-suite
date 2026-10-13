@@ -1139,7 +1139,7 @@
         "link": "lost-and-found-entries/Tys Story.zip",
         "size": 2.7
     },
-      {
+    {
         "id": 54,
         "title": "Send Help",
         "author": "Club Bang...",
@@ -1157,5 +1157,148 @@
         ],
         "link": "lost-and-found-entries/Send Help.zip",
         "size": 0.69
+    },
+    {
+        "id": 55,
+        "title": "Cultism",
+        "author": "dorikin",
+        "date": "15th August 2016",
+        "contents": [
+            "A 1-level campaign starring a Cthulhu worshiper, clearing out a Russian hideout in the name of his cosmic master."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Cultism/1.png",
+            "screenshots/lost-and-found/Cultism/2.png",
+            "screenshots/lost-and-found/Cultism/3.png",
+            "screenshots/lost-and-found/Cultism/4.png"
+        ],
+        "link": "lost-and-found-entries/Cultism.zip",
+        "size": 2.6
+    },
+    {
+        "id": 56,
+        "title": "Inauguration",
+        "author": "Dr. Wizard",
+        "date": "3rd August 2016",
+        "contents": [
+            "A 6-level long demo starring Carl, Hammarin and other members of 50 Blessings, based around the old tabletop group and 50B role play Subreddit. Plagued by recurring nightmares Carl and other members clear out their objectives while handling a special case revolving Carl's Half-Russian sister."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Inauguration/1.png",
+            "screenshots/lost-and-found/Inauguration/8.png",
+            "screenshots/lost-and-found/Inauguration/3.png",
+            "screenshots/lost-and-found/Inauguration/10.png",
+            "screenshots/lost-and-found/Inauguration/2.png",
+            "screenshots/lost-and-found/Inauguration/4.png",
+            "screenshots/lost-and-found/Inauguration/7.png",
+            "screenshots/lost-and-found/Inauguration/6.png",
+            "screenshots/lost-and-found/Inauguration/9.png",
+            "screenshots/lost-and-found/Inauguration/5.png",
+            "screenshots/lost-and-found/Inauguration/11.png",
+            "screenshots/lost-and-found/Inauguration/12.png",
+            "screenshots/lost-and-found/Inauguration/13.png"
+        ],
+        "link": "lost-and-found-entries/Inauguration.zip",
+        "size": 4.2
+    },
+    {
+        "id": 57,
+        "title": "Saucy",
+        "author": "thebasicbrick",
+        "date": "27th February 2018",
+        "contents": [
+            "A single level initially made for a level contest by TheBlueDoctor, starring Manny Pardo clearing out a pizza restaurant."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Saucy/1.png",
+            "screenshots/lost-and-found/Saucy/2.png",
+            "screenshots/lost-and-found/Saucy/3.png",
+            "screenshots/lost-and-found/Saucy/4.png",
+            "screenshots/lost-and-found/Saucy/5.png"
+        ],
+        "link": "lost-and-found-entries/SAUCY.zip",
+        "size": 0.85
+    },
+    {
+        "id": 58,
+        "title": "Classified",
+        "author": "thebasicbrick",
+        "date": "3rd January 2018",
+        "contents": [
+            "Evan Wright has just infiltrated a 50Blessings office building and stolen top secret files about their shady actions. Will Evan escape with the documents and expose the truth? Or will he be stopped and silenced by 50Blessings...",
+            "A single level by thebasicbrick, noticeable for its orange and cream aesthetic."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Classified/1.png",
+            "screenshots/lost-and-found/Classified/2.png",
+            "screenshots/lost-and-found/Classified/3.png",
+            "screenshots/lost-and-found/Classified/4.png",
+            "screenshots/lost-and-found/Classified/5.png",
+            "screenshots/lost-and-found/Classified/6.png"
+        ],
+        "link": "lost-and-found-entries/CLASSIFIED.zip",
+        "size": 1
+    },
+    {
+        "id": 59,
+        "title": "Slasher",
+        "author": "thebasicbrick",
+        "date": "15th September 2018",
+        "contents": [
+            "A single level by thebasicbrick, starring the Pig Butcher clearing out a Mafia hideout. Noticeable are the spacey hallways and rooms, while keeping the Hotline Miami 1 aesthetic."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Slasher/1.png",
+            "screenshots/lost-and-found/Slasher/2.png",
+            "screenshots/lost-and-found/Slasher/3.png",
+            "screenshots/lost-and-found/Slasher/4.png",
+            "screenshots/lost-and-found/Slasher/5.png",
+            "screenshots/lost-and-found/Slasher/6.png",
+            "screenshots/lost-and-found/Slasher/7.png"
+        ],
+        "link": "lost-and-found-entries/SLASHER.zip",
+        "size": 1.4
+    },
+    {
+        "id": 60,
+        "title": "Spree",
+        "author": "thebasicbrick",
+        "date": "28th January 2018",
+        "contents": [
+            "Jake goes into a strip mall destroyed by the russians, and then kills them all. Just an average day in the life of fat snake man.",
+            "A single level starring Jake, clearing out a mall complex with many interesting places to visit."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Spree/1.png",
+            "screenshots/lost-and-found/Spree/2.png",
+            "screenshots/lost-and-found/Spree/3.png",
+            "screenshots/lost-and-found/Spree/4.png",
+            "screenshots/lost-and-found/Spree/5.png",
+            "screenshots/lost-and-found/Spree/6.png"
+        ],
+        "link": "lost-and-found-entries/SPREE.zip",
+        "size": 0.58
+    },
+    {
+        "id": 61,
+        "title": "Winterlong",
+        "author": "thebasicbrick",
+        "date": "27th May 2018",
+        "contents": [
+            "\"Killin' in a winter wonderland\".",
+            "Winterlong takes place in a small snowy lodge in the middle of Colorado. You play as the parka guy, a vigilante snowmobiler who wields a ice axe. In this level, he busts a group of gun runners who are using a lodge as a front for their illegal operations."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Winterlong/1.png",
+            "screenshots/lost-and-found/Winterlong/2.png",
+            "screenshots/lost-and-found/Winterlong/3.png",
+            "screenshots/lost-and-found/Winterlong/4.png",
+            "screenshots/lost-and-found/Winterlong/5.png",
+            "screenshots/lost-and-found/Winterlong/6.png",
+            "screenshots/lost-and-found/Winterlong/7.png",
+            "screenshots/lost-and-found/Winterlong/8.png"
+        ],
+        "link": "lost-and-found-entries/WINTERLONG.zip",
+        "size": 0.54
     }
 ]

@@ -729,7 +729,7 @@
         "author": "AlpDePalp",
         "date": "19th November 2020",
         "contents": [
-            "Animal Contol 2 is the 11-level-long sequel to its first part. It continues the story of its predecessor, following the story of Daniel, the Henchman, the Russian mafia and the fans. After the colombians pledged allegiance with the furries, all hell broke loose, splitting the fans' and the mafia's comradery and picking up the pieces that remained intact. Will the Russian mafia come back to their strength and defeat the threat?",
+            "Animal Contol 2 is the 11-level long sequel to its first part. It continues the story of its predecessor, following the story of Daniel, the Henchman, the Russian mafia and the fans. After the colombians pledged allegiance with the furries, all hell broke loose, splitting the fans' and the mafia's comradery and picking up the pieces that remained intact. Will the Russian mafia come back to their strength and defeat the threat?",
             "Overall a decent sequel with less vulgarity and much more variety in both level settings and dialogues, featuring a few good jokes about the level editor and the community.",
             "The credits and the first cutscene claim to have a music mod for this campaign. However, we were not able to recover that one. Should you have a version of the original wad, we would love to add it along with the campaign itself. Alternatively, you can search up TheLegoMack's YouTube channel, where he once streamed the campaign a few years ago."
         ],
@@ -1300,5 +1300,124 @@
         ],
         "link": "lost-and-found-entries/WINTERLONG.zip",
         "size": 0.54
+    },
+    {
+        "id": 62,
+        "title": "Fandoms X Fur",
+        "author": "Serious Sam",
+        "date": "3rd September 2016",
+        "contents": [
+            "An 11-level long campaign that takes inspirations from Fandom Adventure, where the Son, Richter, Jacket and more go out and take over Furry fandoms, leading to consequences for both the gang and the communities they invade."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Fandoms X Fur/4.png",
+            "screenshots/lost-and-found/Fandoms X Fur/5.png",
+            "screenshots/lost-and-found/Fandoms X Fur/2.png",
+            "screenshots/lost-and-found/Fandoms X Fur/6.png",
+            "screenshots/lost-and-found/Fandoms X Fur/1.png",
+            "screenshots/lost-and-found/Fandoms X Fur/3.png",
+            "screenshots/lost-and-found/Fandoms X Fur/7.png",
+            "screenshots/lost-and-found/Fandoms X Fur/8.png"
+        ],
+        "link": "lost-and-found-entries/FANDOMS X FUR.zip",
+        "size": 0.11
+    },
+    {
+        "id": 63,
+        "title": "First Date",
+        "author": "Dr. Wizard",
+        "date": "3rd September 2016",
+        "contents": [
+            "A 1-level campaign, which is a reiteration of the same level from \"Inauguration\", featuring Carl clearing out an adult video and entertainment store.",
+            "The main difference between this level and the campaign's level are the Outro, which expands on Carl's relationships with the other 50 Blessings members within the Red Mole Bar."
+        ],
+        "images": [
+            "screenshots/lost-and-found/First Date/1.png",
+            "screenshots/lost-and-found/First Date/2.png",
+            "screenshots/lost-and-found/First Date/3.png",
+            "screenshots/lost-and-found/First Date/4.png",
+            "screenshots/lost-and-found/First Date/5.png"
+        ],
+        "link": "lost-and-found-entries/FIRST DATE.zip",
+        "size": 3.7
+    },
+    {
+        "id": 64,
+        "title": "Overdose",
+        "author": "maxagf",
+        "date": "31st December 2017",
+        "contents": [
+            "A 1-level campaign which is a recreation of Midnight Animals' Level \"Overdose\", featuring John Midnight, his apartment and fancy mask resprites.",
+            "This campaign needs its mods to be put into the global mods folder in order to look properly."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Overdose/1.png",
+            "screenshots/lost-and-found/Overdose/2.png",
+            "screenshots/lost-and-found/Overdose/3.png",
+            "screenshots/lost-and-found/Overdose/4.png",
+            "screenshots/lost-and-found/Overdose/5.png",
+            "screenshots/lost-and-found/Overdose/6.png"
+        ],
+        "link": "lost-and-found-entries/Overdose.zip",
+        "size": 2.5
+    },
+    {
+        "id": 65,
+        "title": "Wazowski Town Part 1",
+        "author": "dr.porkchop",
+        "date": "3rd September 2016",
+        "contents": [
+            "A 4-level long campaign featuring Mike Wazowski and his never ending thirst for blood, leading to consequences both good and bad. A more humorous campaign of a nuanced taste."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Wazowski Town 1/1.png",
+            "screenshots/lost-and-found/Wazowski Town 1/2.png",
+            "screenshots/lost-and-found/Wazowski Town 1/3.png",
+            "screenshots/lost-and-found/Wazowski Town 1/4.png",
+            "screenshots/lost-and-found/Wazowski Town 1/5.png"
+        ],
+        "link": "lost-and-found-entries/Wazowski Town Part 1.zip",
+        "size": 0.15
+    },
+    {
+        "id": 66,
+        "title": "Wazowski Town Part 2",
+        "author": "dr.porkchop",
+        "date": "12th September 2016",
+        "contents": [
+            "A continuation of the first Wazowki Town campagin, now mainly told from the Russian Mafia's perspective, while still keeping track on Mike, Pardo and a copycat killer, that emerged from the consequences of the first campaign.",
+            "This campaign is more tactful with its humor and its level design improved over the short time span."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Wazowski Town 2/1.png",
+            "screenshots/lost-and-found/Wazowski Town 2/2.png",
+            "screenshots/lost-and-found/Wazowski Town 2/3.png",
+            "screenshots/lost-and-found/Wazowski Town 2/4.png",
+            "screenshots/lost-and-found/Wazowski Town 2/6.png",
+            "screenshots/lost-and-found/Wazowski Town 2/7.png",
+            "screenshots/lost-and-found/Wazowski Town 2/8.png",
+            "screenshots/lost-and-found/Wazowski Town 2/9.png"
+        ],
+        "link": "lost-and-found-entries/Wazowski Town Part 2.zip",
+        "size": 0.23
+    },
+    {
+        "id": 67,
+        "title": "Wazowski Town Part 3",
+        "author": "dr.porkchop",
+        "date": "23rd October 2016",
+        "contents": [
+            "The final entry of the Wazowski town trilogy, giving a conclusion to the Snake Killer's legacy. Who will find the true identity of Mike, and how does the Burrito Butcher get involved in this?"
+        ],
+        "images": [
+            "screenshots/lost-and-found/Wazowski Town 3/1.png",
+            "screenshots/lost-and-found/Wazowski Town 3/2.png",
+            "screenshots/lost-and-found/Wazowski Town 3/3.png",
+            "screenshots/lost-and-found/Wazowski Town 3/4.png",
+            "screenshots/lost-and-found/Wazowski Town 3/5.png",
+            "screenshots/lost-and-found/Wazowski Town 3/6.png"
+        ],
+        "link": "lost-and-found-entries/Wazowski Town Part 3.zip",
+        "size": 0.2
     }
 ]

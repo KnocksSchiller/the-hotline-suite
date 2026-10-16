@@ -1,7 +1,8 @@
 <template>
   <header>
     <div class="grid1">
-      <router-link to="/"><img alt="Hotline Suite logo" src="@/assets/icons/logo-placeholder2.png"></router-link>
+      <router-link v-if="!mobile" to="/"><img alt="Header Home icon" src="@/assets/icons/home-header-1.png"></router-link>
+      <router-link v-else to="/"><img alt="Header Home icon" src="@/assets/icons/home-header-2.png"></router-link>
     </div>
     <nav v-if="!mobile">
       <router-link v-for="cat in categories" :to="cat.to">{{ cat.title }}</router-link>
@@ -119,9 +120,12 @@ nav a:hover {
   transform: translateX(0)
 }
 
+
+/* Mobile styling */
 @media(max-width:768px) {
   header img {
-    max-height: 75px;
+    max-height: 70px;
+    margin: 4px 0;
   }
 }
 </style>

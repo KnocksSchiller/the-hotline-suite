@@ -496,12 +496,12 @@
             "Like its prequel, we recommend setting the game's language to Russian, or otherwise the text will only say \"%%%%%%\"."
         ],
         "images": [
-            "/screenshots/lost-and-found/Faded Act 2 Rus/20260112211808_1.jpg",
-            "/screenshots/lost-and-found/Faded Act 2/20260111000347_1.jpg",
             "/screenshots/lost-and-found/Faded Act 2 Rus/20260112212624_1.jpg",
-            "/screenshots/lost-and-found/Faded Act 2/20260111000201_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 2/20260111000347_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 2/20260111002236_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 2 Rus/20260112211808_1.jpg",
+            "/screenshots/lost-and-found/Faded Act 2/20260111001425_1.jpg",
             "/screenshots/lost-and-found/Faded Act 2 Rus/20260112213030_1.jpg",
-            "/screenshots/lost-and-found/Faded Act 2/20260111002113_1.jpg",
             "/screenshots/lost-and-found/Faded Act 2/20260111003314_1.jpg"
         ],
         "link": "lost-and-found-entries/FADED ACT II RUS.zip",
@@ -729,7 +729,7 @@
         "author": "AlpDePalp",
         "date": "19th November 2020",
         "contents": [
-            "Animal Contol 2 is the 11-level-long sequel to its first part. It continues the story of its predecessor, following the story of Daniel, the Henchman, the Russian mafia and the fans. After the colombians pledged allegiance with the furries, all hell broke loose, splitting the fans' and the mafia's comradery and picking up the pieces that remained intact. Will the Russian mafia come back to their strength and defeat the threat?",
+            "Animal Contol 2 is the 11-level long sequel to its first part. It continues the story of its predecessor, following the story of Daniel, the Henchman, the Russian mafia and the fans. After the colombians pledged allegiance with the furries, all hell broke loose, splitting the fans' and the mafia's comradery and picking up the pieces that remained intact. Will the Russian mafia come back to their strength and defeat the threat?",
             "Overall a decent sequel with less vulgarity and much more variety in both level settings and dialogues, featuring a few good jokes about the level editor and the community.",
             "The credits and the first cutscene claim to have a music mod for this campaign. However, we were not able to recover that one. Should you have a version of the original wad, we would love to add it along with the campaign itself. Alternatively, you can search up TheLegoMack's YouTube channel, where he once streamed the campaign a few years ago."
         ],
@@ -1138,5 +1138,287 @@
         ],
         "link": "lost-and-found-entries/Tys Story.zip",
         "size": 2.7
+    },
+    {
+        "id": 54,
+        "title": "Send Help",
+        "author": "Club Bang...",
+        "date": "3rd March 2019",
+        "contents": [
+            "A single level set in Minecraft, where Steve / Herobrine explores the many dangers in the caves while looking for diamonds."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Send Help/screen.png",
+            "screenshots/lost-and-found/Send Help/2.png",
+            "screenshots/lost-and-found/Send Help/1.png",
+            "screenshots/lost-and-found/Send Help/5.png",
+            "screenshots/lost-and-found/Send Help/4.png",
+            "screenshots/lost-and-found/Send Help/3.png"
+        ],
+        "link": "lost-and-found-entries/Send Help.zip",
+        "size": 0.69
+    },
+    {
+        "id": 55,
+        "title": "Cultism",
+        "author": "dorikin",
+        "date": "15th August 2016",
+        "contents": [
+            "A 1-level campaign starring a Cthulhu worshiper, clearing out a Russian hideout in the name of his cosmic master."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Cultism/1.png",
+            "screenshots/lost-and-found/Cultism/2.png",
+            "screenshots/lost-and-found/Cultism/3.png",
+            "screenshots/lost-and-found/Cultism/4.png"
+        ],
+        "link": "lost-and-found-entries/Cultism.zip",
+        "size": 2.6
+    },
+    {
+        "id": 56,
+        "title": "Inauguration",
+        "author": "Dr. Wizard",
+        "date": "3rd August 2016",
+        "contents": [
+            "A 6-level long demo starring Carl, Hammarin and other members of 50 Blessings, based around the old tabletop group and 50B role play Subreddit. Plagued by recurring nightmares Carl and other members clear out their objectives while handling a special case revolving Carl's Half-Russian sister."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Inauguration/1.png",
+            "screenshots/lost-and-found/Inauguration/8.png",
+            "screenshots/lost-and-found/Inauguration/3.png",
+            "screenshots/lost-and-found/Inauguration/10.png",
+            "screenshots/lost-and-found/Inauguration/2.png",
+            "screenshots/lost-and-found/Inauguration/4.png",
+            "screenshots/lost-and-found/Inauguration/7.png",
+            "screenshots/lost-and-found/Inauguration/6.png",
+            "screenshots/lost-and-found/Inauguration/9.png",
+            "screenshots/lost-and-found/Inauguration/5.png",
+            "screenshots/lost-and-found/Inauguration/11.png",
+            "screenshots/lost-and-found/Inauguration/12.png",
+            "screenshots/lost-and-found/Inauguration/13.png"
+        ],
+        "link": "lost-and-found-entries/Inauguration.zip",
+        "size": 4.2
+    },
+    {
+        "id": 57,
+        "title": "Saucy",
+        "author": "thebasicbrick",
+        "date": "27th February 2018",
+        "contents": [
+            "A single level initially made for a level contest by TheBlueDoctor, starring Manny Pardo clearing out a pizza restaurant."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Saucy/1.png",
+            "screenshots/lost-and-found/Saucy/2.png",
+            "screenshots/lost-and-found/Saucy/3.png",
+            "screenshots/lost-and-found/Saucy/4.png",
+            "screenshots/lost-and-found/Saucy/5.png"
+        ],
+        "link": "lost-and-found-entries/SAUCY.zip",
+        "size": 0.85
+    },
+    {
+        "id": 58,
+        "title": "Classified",
+        "author": "thebasicbrick",
+        "date": "3rd January 2018",
+        "contents": [
+            "Evan Wright has just infiltrated a 50Blessings office building and stolen top secret files about their shady actions. Will Evan escape with the documents and expose the truth? Or will he be stopped and silenced by 50Blessings...",
+            "A single level by thebasicbrick, noticeable for its orange and cream aesthetic."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Classified/1.png",
+            "screenshots/lost-and-found/Classified/2.png",
+            "screenshots/lost-and-found/Classified/3.png",
+            "screenshots/lost-and-found/Classified/4.png",
+            "screenshots/lost-and-found/Classified/5.png",
+            "screenshots/lost-and-found/Classified/6.png"
+        ],
+        "link": "lost-and-found-entries/CLASSIFIED.zip",
+        "size": 1
+    },
+    {
+        "id": 59,
+        "title": "Slasher",
+        "author": "thebasicbrick",
+        "date": "15th September 2018",
+        "contents": [
+            "A single level by thebasicbrick, starring the Pig Butcher clearing out a Mafia hideout. Noticeable are the spacey hallways and rooms, while keeping the Hotline Miami 1 aesthetic."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Slasher/1.png",
+            "screenshots/lost-and-found/Slasher/2.png",
+            "screenshots/lost-and-found/Slasher/3.png",
+            "screenshots/lost-and-found/Slasher/4.png",
+            "screenshots/lost-and-found/Slasher/5.png",
+            "screenshots/lost-and-found/Slasher/6.png",
+            "screenshots/lost-and-found/Slasher/7.png"
+        ],
+        "link": "lost-and-found-entries/SLASHER.zip",
+        "size": 1.4
+    },
+    {
+        "id": 60,
+        "title": "Spree",
+        "author": "thebasicbrick",
+        "date": "28th January 2018",
+        "contents": [
+            "Jake goes into a strip mall destroyed by the russians, and then kills them all. Just an average day in the life of fat snake man.",
+            "A single level starring Jake, clearing out a mall complex with many interesting places to visit."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Spree/1.png",
+            "screenshots/lost-and-found/Spree/2.png",
+            "screenshots/lost-and-found/Spree/3.png",
+            "screenshots/lost-and-found/Spree/4.png",
+            "screenshots/lost-and-found/Spree/5.png",
+            "screenshots/lost-and-found/Spree/6.png"
+        ],
+        "link": "lost-and-found-entries/SPREE.zip",
+        "size": 0.58
+    },
+    {
+        "id": 61,
+        "title": "Winterlong",
+        "author": "thebasicbrick",
+        "date": "27th May 2018",
+        "contents": [
+            "\"Killin' in a winter wonderland\".",
+            "Winterlong takes place in a small snowy lodge in the middle of Colorado. You play as the parka guy, a vigilante snowmobiler who wields a ice axe. In this level, he busts a group of gun runners who are using a lodge as a front for their illegal operations."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Winterlong/1.png",
+            "screenshots/lost-and-found/Winterlong/2.png",
+            "screenshots/lost-and-found/Winterlong/3.png",
+            "screenshots/lost-and-found/Winterlong/4.png",
+            "screenshots/lost-and-found/Winterlong/5.png",
+            "screenshots/lost-and-found/Winterlong/6.png",
+            "screenshots/lost-and-found/Winterlong/7.png",
+            "screenshots/lost-and-found/Winterlong/8.png"
+        ],
+        "link": "lost-and-found-entries/WINTERLONG.zip",
+        "size": 0.54
+    },
+    {
+        "id": 62,
+        "title": "Fandoms X Fur",
+        "author": "Serious Sam",
+        "date": "3rd September 2016",
+        "contents": [
+            "An 11-level long campaign that takes inspirations from Fandom Adventure, where the Son, Richter, Jacket and more go out and take over Furry fandoms, leading to consequences for both the gang and the communities they invade."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Fandoms X Fur/4.png",
+            "screenshots/lost-and-found/Fandoms X Fur/5.png",
+            "screenshots/lost-and-found/Fandoms X Fur/2.png",
+            "screenshots/lost-and-found/Fandoms X Fur/6.png",
+            "screenshots/lost-and-found/Fandoms X Fur/1.png",
+            "screenshots/lost-and-found/Fandoms X Fur/3.png",
+            "screenshots/lost-and-found/Fandoms X Fur/7.png",
+            "screenshots/lost-and-found/Fandoms X Fur/8.png"
+        ],
+        "link": "lost-and-found-entries/FANDOMS X FUR.zip",
+        "size": 0.11
+    },
+    {
+        "id": 63,
+        "title": "First Date",
+        "author": "Dr. Wizard",
+        "date": "3rd September 2016",
+        "contents": [
+            "A 1-level campaign, which is a reiteration of the same level from \"Inauguration\", featuring Carl clearing out an adult video and entertainment store.",
+            "The main difference between this level and the campaign's level are the Outro, which expands on Carl's relationships with the other 50 Blessings members within the Red Mole Bar."
+        ],
+        "images": [
+            "screenshots/lost-and-found/First Date/1.png",
+            "screenshots/lost-and-found/First Date/2.png",
+            "screenshots/lost-and-found/First Date/3.png",
+            "screenshots/lost-and-found/First Date/4.png",
+            "screenshots/lost-and-found/First Date/5.png"
+        ],
+        "link": "lost-and-found-entries/FIRST DATE.zip",
+        "size": 3.7
+    },
+    {
+        "id": 64,
+        "title": "Wazowski Town Part 1",
+        "author": "dr.porkchop",
+        "date": "3rd September 2016",
+        "contents": [
+            "A 4-level long campaign featuring Mike Wazowski and his never ending thirst for blood, leading to consequences both good and bad. A more humorous campaign of a nuanced taste."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Wazowski Town 1/1.png",
+            "screenshots/lost-and-found/Wazowski Town 1/2.png",
+            "screenshots/lost-and-found/Wazowski Town 1/3.png",
+            "screenshots/lost-and-found/Wazowski Town 1/4.png",
+            "screenshots/lost-and-found/Wazowski Town 1/5.png"
+        ],
+        "link": "lost-and-found-entries/Wazowski Town Part 1.zip",
+        "size": 0.15
+    },
+    {
+        "id": 65,
+        "title": "Wazowski Town Part 2",
+        "author": "dr.porkchop",
+        "date": "12th September 2016",
+        "contents": [
+            "A continuation of the first Wazowki Town campagin, now mainly told from the Russian Mafia's perspective, while still keeping track on Mike, Pardo and a copycat killer, that emerged from the consequences of the first campaign.",
+            "This campaign is more tactful with its humor and its level design improved over the short time span."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Wazowski Town 2/1.png",
+            "screenshots/lost-and-found/Wazowski Town 2/2.png",
+            "screenshots/lost-and-found/Wazowski Town 2/3.png",
+            "screenshots/lost-and-found/Wazowski Town 2/4.png",
+            "screenshots/lost-and-found/Wazowski Town 2/6.png",
+            "screenshots/lost-and-found/Wazowski Town 2/7.png",
+            "screenshots/lost-and-found/Wazowski Town 2/8.png",
+            "screenshots/lost-and-found/Wazowski Town 2/9.png"
+        ],
+        "link": "lost-and-found-entries/Wazowski Town Part 2.zip",
+        "size": 0.23
+    },
+    {
+        "id": 66,
+        "title": "Wazowski Town Part 3",
+        "author": "dr.porkchop",
+        "date": "23rd October 2016",
+        "contents": [
+            "The final entry of the Wazowski town trilogy, giving a conclusion to the Snake Killer's legacy. Who will find the true identity of Mike, and how does the Burrito Butcher get involved in this?"
+        ],
+        "images": [
+            "screenshots/lost-and-found/Wazowski Town 3/1.png",
+            "screenshots/lost-and-found/Wazowski Town 3/2.png",
+            "screenshots/lost-and-found/Wazowski Town 3/3.png",
+            "screenshots/lost-and-found/Wazowski Town 3/4.png",
+            "screenshots/lost-and-found/Wazowski Town 3/5.png",
+            "screenshots/lost-and-found/Wazowski Town 3/6.png"
+        ],
+        "link": "lost-and-found-entries/Wazowski Town Part 3.zip",
+        "size": 0.2
+    },
+    {
+        "id": 67,
+        "title": "Naked Corey Porno (+18)",
+        "author": "Puzzlebox",
+        "date": "5th February 2018",
+        "contents": [
+            "The infamous campaign known for its ridiculous premise, yet lighthearted humor. Through 4 levels, you play as Corey trying to find her stolen clothes, seeking help from the ace detective Pardo."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Naked Corey/1.png",
+            "screenshots/lost-and-found/Naked Corey/2.png",
+            "screenshots/lost-and-found/Naked Corey/3.png",
+            "screenshots/lost-and-found/Naked Corey/6.png",
+            "screenshots/lost-and-found/Naked Corey/5.png",
+            "screenshots/lost-and-found/Naked Corey/7.png",
+            "screenshots/lost-and-found/Naked Corey/4.png",
+            "screenshots/lost-and-found/Naked Corey/screen.png"
+        ],
+        "link": "lost-and-found-entries/Naked Corey.zip",
+        "size": 1.2
     }
 ]

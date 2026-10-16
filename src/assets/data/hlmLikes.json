@@ -367,5 +367,68 @@
             "/screenshots/hlm-likes/Dreampunk/8.png",
             "/screenshots/hlm-likes/Dreampunk/11.png"
         ]
+    },
+    {
+        "id": 16,
+        "title": "SUPERHOTline Miami",
+        "author": "Albatr",
+        "date": "1st March 2016",
+        "contents": [
+            "SUPERHOTline Miami is a crossover game between Hotline Miami and SUPERHOT, taking the gameplay and puzzle aspects of the original shooter with time slowing down when not moving around, while taking the top-down perspective and pixel art style of Hotline Miami.",
+            "It features seven levels and offers an additional eighth level as a downloadable option. Next to the original version, that includes a level editor, it offers a newer deluxe edition, which is an overall better experience in flow and readability.",
+            "The game can be played both inside a web browser and as a downloadable game at https://albatr.itch.io/superhotline-miami."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/SUPERHOTline Miami/1.png",
+            "/screenshots/hlm-likes/SUPERHOTline Miami/2.png",
+            "/screenshots/hlm-likes/SUPERHOTline Miami/3.png",
+            "/screenshots/hlm-likes/SUPERHOTline Miami/4.png",
+            "/screenshots/hlm-likes/SUPERHOTline Miami/6.png",
+            "/screenshots/hlm-likes/SUPERHOTline Miami/5.png",
+            "/screenshots/hlm-likes/SUPERHOTline Miami/7.png",
+            "/screenshots/hlm-likes/SUPERHOTline Miami/8.png",
+            "/screenshots/hlm-likes/SUPERHOTline Miami/9.png"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "SHOOTOUT INC.",
+        "author": "Albatr",
+        "date": "19th March 2016",
+        "contents": [
+            "SHOOTOUT INC. is a successor to SUPERHOTline Miami, which expands the features of the original game with improved sprites, hitboxes and enemy behaviour as well as adding more guns, grenades, an akimbo feature and a new type of objective.",
+            "Its gameplay flow is nearly identical to its predecessor, combining the gameplay elements of SUPERHOT while taking the artistic features of Hotline Miami's top-down perspective.",
+            "The game is available at https://albatr.itch.io/shootout-inc."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Shootout Inc/1.png",
+            "/screenshots/hlm-likes/Shootout Inc/2.png",
+            "/screenshots/hlm-likes/Shootout Inc/6.png",
+            "/screenshots/hlm-likes/Shootout Inc/3.png",
+            "/screenshots/hlm-likes/Shootout Inc/8.png",
+            "/screenshots/hlm-likes/Shootout Inc/4.png",
+            "/screenshots/hlm-likes/Shootout Inc/5.png",
+            "/screenshots/hlm-likes/Shootout Inc/7.png"
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Vestavia Hills",
+        "author": "MD Wade",
+        "date": "16th February 2020",
+        "contents": [
+            "Vestavia Hills is a crossover of Hotline Miami and Call of Duty: Zombies, taking the top-down perspective and combat of Hotline Miami and turn it into a wave-based zombie shooter with health, stamina, randomized gun drops, boss waves and barricades to immerse yourself into the apocalyptic event you're going through.",
+            "The game can be played both inside a web browser and as a downloadable game at https://md-wade.itch.io/vestavia-hills."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Vestavia Hills/1.png",
+            "/screenshots/hlm-likes/Vestavia Hills/7.png",
+            "/screenshots/hlm-likes/Vestavia Hills/2.png",
+            "/screenshots/hlm-likes/Vestavia Hills/5.png",
+            "/screenshots/hlm-likes/Vestavia Hills/4.png",
+            "/screenshots/hlm-likes/Vestavia Hills/6.png",
+            "/screenshots/hlm-likes/Vestavia Hills/8.png",
+            "/screenshots/hlm-likes/Vestavia Hills/3.png"
+        ]
     }
 ]

@@ -376,7 +376,7 @@
         "contents": [
             "SUPERHOTline Miami is a crossover game between Hotline Miami and SUPERHOT, taking the gameplay and puzzle aspects of the original shooter with time slowing down when not moving around, while taking the top-down perspective and pixel art style of Hotline Miami.",
             "It features seven levels and offers an additional eighth level as a downloadable option. Next to the original version, that includes a level editor, it offers a newer deluxe edition, which is an overall better experience in flow and readability.",
-            "The game can be played both inside a web browser and as a downloadable game at https://albatr.itch.io/superhotline-miami."
+            "The game can be played both inside a web browser and as a downloadable game at albatr.itch.io/superhotline-miami."
         ],
         "images": [
             "/screenshots/hlm-likes/SUPERHOTline Miami/1.png",
@@ -398,7 +398,7 @@
         "contents": [
             "SHOOTOUT INC. is a successor to SUPERHOTline Miami, which expands the features of the original game with improved sprites, hitboxes and enemy behaviour as well as adding more guns, grenades, an akimbo feature and a new type of objective.",
             "Its gameplay flow is nearly identical to its predecessor, combining the gameplay elements of SUPERHOT while taking the artistic features of Hotline Miami's top-down perspective.",
-            "The game is available at https://albatr.itch.io/shootout-inc."
+            "The game is available at albatr.itch.io/shootout-inc."
         ],
         "images": [
             "/screenshots/hlm-likes/Shootout Inc/1.png",
@@ -418,7 +418,7 @@
         "date": "16th February 2020",
         "contents": [
             "Vestavia Hills is a crossover of Hotline Miami and Call of Duty: Zombies, taking the top-down perspective and combat of Hotline Miami and turn it into a wave-based zombie shooter with health, stamina, randomized gun drops, boss waves and barricades to immerse yourself into the apocalyptic event you're going through.",
-            "The game can be played both inside a web browser and as a downloadable game at https://md-wade.itch.io/vestavia-hills."
+            "The game can be played both inside a web browser and as a downloadable game at md-wade.itch.io/vestavia-hills."
         ],
         "images": [
             "/screenshots/hlm-likes/Vestavia Hills/1.png",
@@ -429,6 +429,68 @@
             "/screenshots/hlm-likes/Vestavia Hills/6.png",
             "/screenshots/hlm-likes/Vestavia Hills/8.png",
             "/screenshots/hlm-likes/Vestavia Hills/3.png"
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Half-Line Miami",
+        "author": "Thomas Kole",
+        "date": "21st August 2015",
+        "contents": [
+            "A crossover of Hotline Miami and Half-Life 2, where you play as Gordon Freeman, traversing through eight iconic locations of Half-Life 2 with a more vibrant and Americanized touch on top of Hotline Miami's top-down perspective.",
+            "You're limited to just the Gravity Gun, using props around the many rooms to grab and shoot to your enemies, which vary between the Combine, zombies and antlions.",
+            "The game is available at no cost at thomaskole.itch.io/hlm and indiedb.com/games/halfline-miami-h-m."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Halfline Miami/1.png",
+            "/screenshots/hlm-likes/Halfline Miami/2.png",
+            "/screenshots/hlm-likes/Halfline Miami/3.png",
+            "/screenshots/hlm-likes/Halfline Miami/4.png",
+            "/screenshots/hlm-likes/Halfline Miami/5.png",
+            "/screenshots/hlm-likes/Halfline Miami/6.png",
+            "/screenshots/hlm-likes/Halfline Miami/7.png",
+            "/screenshots/hlm-likes/Halfline Miami/8.png",
+            "/screenshots/hlm-likes/Halfline Miami/9.png"
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Tokyo 2041",
+        "author": "Pi0h1",
+        "date": "19th January 2017",
+        "contents": [
+            "A standalone Hotline Miami mod that takes place in a near-future Japan where the Yakuza has either bribed their way into or taken total control over certain aspects of the Japanese government.",
+            "The mod uses a darker aesthetic while adding giving you three play styles alongside a new enemy type.",
+            "The Project has been cancelled with an old demo of four levels being available at no cost at pi0h1.itch.io/tokyo-2041 and moddb.com/mods/tokyo-2041-beta-demo."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Tokyo 2041/1.png",
+            "/screenshots/hlm-likes/Tokyo 2041/2.png",
+            "/screenshots/hlm-likes/Tokyo 2041/3.png",
+            "/screenshots/hlm-likes/Tokyo 2041/4.png",
+            "/screenshots/hlm-likes/Tokyo 2041/6.png",
+            "/screenshots/hlm-likes/Tokyo 2041/5.png",
+            "/screenshots/hlm-likes/Tokyo 2041/7.png"
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Kitsune - Autumn 2032",
+        "author": "Revolver Alice",
+        "date": "22nd February 2020",
+        "contents": [
+            "Kitsune is a standalone mod for Hotline Miami following Mitsuko Iwakaru, a half-Kitsune samurai seeking escape from a past of guilt, ghosts, and failure.",
+            "This mod focuses heavily on gunplay and environmental changes caused by destructibles as well as an aesthetic that mixes vibrant colors with shaders.",
+            "While the mod itself is most likely cancelled, there's a demo of four levels available at moddb.com/mods/kitsune-a-hotline-miami-mod as well as its own page at pizzaborg.itch.io/kitsune2032."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Kitsune/1.png",
+            "/screenshots/hlm-likes/Kitsune/2.png",
+            "/screenshots/hlm-likes/Kitsune/3.png",
+            "/screenshots/hlm-likes/Kitsune/4.png",
+            "/screenshots/hlm-likes/Kitsune/5.png",
+            "/screenshots/hlm-likes/Kitsune/6.png",
+            "/screenshots/hlm-likes/Kitsune/7.png"
         ]
     }
 ]

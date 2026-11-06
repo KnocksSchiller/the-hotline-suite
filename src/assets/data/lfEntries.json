@@ -1420,5 +1420,95 @@
         ],
         "link": "lost-and-found-entries/Naked Corey.zip",
         "size": 1.2
+    },
+    {
+        "id": 68,
+        "title": "Hammervision",
+        "author": "Metrivus",
+        "date": "11th June 2017",
+        "contents": [
+            "A 12-level long campaign about Hammer and his involvment with 50 Blessings, trying to keep his act together outside of his profession and finding his self-worth.",
+            "Noticable are the very creative characteristics of Hammer and the characters around him as well as the fascinating level settings, varying from simple apartments to surreal, yet thought-out dream sequences.",
+            "The initial campaign file claims to be a work-in-progress still, though it's very unlikely a version with more levels will see the light of day."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Hammervision/1.png",
+            "screenshots/lost-and-found/Hammervision/2.png",
+            "screenshots/lost-and-found/Hammervision/3.png",
+            "screenshots/lost-and-found/Hammervision/7.png",
+            "screenshots/lost-and-found/Hammervision/4.png",
+            "screenshots/lost-and-found/Hammervision/5.png",
+            "screenshots/lost-and-found/Hammervision/9.png",
+            "screenshots/lost-and-found/Hammervision/6.png",
+            "screenshots/lost-and-found/Hammervision/10.png",
+            "screenshots/lost-and-found/Hammervision/8.png",
+            "screenshots/lost-and-found/Hammervision/12.png",
+            "screenshots/lost-and-found/Hammervision/11.png"
+        ],
+        "link": "lost-and-found-entries/Hammervision.zip",
+        "size": 0.4
+    },
+    {
+        "id": 69,
+        "title": "Decisions",
+        "author": "TheOnlyRobert",
+        "date": "30th January 2016",
+        "contents": [
+            "A 21-level long campaign following the story of Pardo and his friend retrieving a stolen clock, the son taking revenge on the Columbian cartel and 50 Blessings, Pardo losing his mind while tracking down the rampant gang violence and Corey on edge between her parents and violent habits.",
+            "The narrative, while visually interesting, is scattered all over the campaign while the level design remains fairly consistent in terms of quality."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Decisions/1.png",
+            "screenshots/lost-and-found/Decisions/2.png",
+            "screenshots/lost-and-found/Decisions/3.png",
+            "screenshots/lost-and-found/Decisions/5.png",
+            "screenshots/lost-and-found/Decisions/4.png",
+            "screenshots/lost-and-found/Decisions/6.png",
+            "screenshots/lost-and-found/Decisions/7.png",
+            "screenshots/lost-and-found/Decisions/9.png",
+            "screenshots/lost-and-found/Decisions/8.png"
+        ],
+        "link": "lost-and-found-entries/Decisions.zip",
+        "size": 0.35
+    },
+    {
+        "id": 70,
+        "title": "Evening Animals",
+        "author": "wildsmiff67",
+        "date": "26th March 2016",
+        "contents": [
+            "A 4-level long campaign about the Pig Butcher going on several rampages against the police force, trying to get a grip on reality while the voice in the mask pushes him to do more evil."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Evening Animals/1.png",
+            "screenshots/lost-and-found/Evening Animals/2.png",
+            "screenshots/lost-and-found/Evening Animals/3.png",
+            "screenshots/lost-and-found/Evening Animals/4.png",
+            "screenshots/lost-and-found/Evening Animals/5.png"
+        ],
+        "link": "lost-and-found-entries/Evening Animals.zip",
+        "size": 0.05
+    },
+    {
+        "id": 71,
+        "title": "Hammered",
+        "author": "Fencing Man",
+        "date": "10th October 2016",
+        "contents": [
+            "A 5-level long campaign featuring Hammer and his involvement with 50 Blessings and their operators at the Red Mole Bar. Here we find out what the quarrel is between 50 Blessings and the gang members, while discovering a new threat from the Columbian cartel.",
+            "For some reason, the 4th level \"Evasion\" won't end after finishing the last enemy, so we took the liberty to include the 4th Outro seperately within the .zip file."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Hammered/1.png",
+            "screenshots/lost-and-found/Hammered/2.png",
+            "screenshots/lost-and-found/Hammered/3.png",
+            "screenshots/lost-and-found/Hammered/4.png",
+            "screenshots/lost-and-found/Hammered/6.png",
+            "screenshots/lost-and-found/Hammered/5.png",
+            "screenshots/lost-and-found/Hammered/7.png",
+            "screenshots/lost-and-found/Hammered/8.png"
+        ],
+        "link": "lost-and-found-entries/Hammered.zip",
+        "size": 0.28
     }
 ]

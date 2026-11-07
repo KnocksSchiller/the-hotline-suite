@@ -53,7 +53,7 @@
         "date": "unknown",
         "contents": [
             "A single level by janja, starring Evan who invades an office complex of some sort.",
-            "Noticable on this level is the rather cryptic dialogue being l33t-speak Russian (don't know how else to describe it). That and an amazing animation of a car crashing into the building similar to the second boss of Hotline Miami."
+            "Noticeable on this level is the rather cryptic dialogue being l33t-speak Russian (don't know how else to describe it). That and an amazing animation of a car crashing into the building similar to the second boss of Hotline Miami."
         ],
         "images": [
             "/screenshots/lost-and-found/2k Act 1/20251011214512_1.jpg",
@@ -73,7 +73,7 @@
         "date": "unknown",
         "contents": [
             "A single level starring Richter, clearing out a subway station.",
-            "One noticable moment is the floor with the train moving in, as well as the small puzzle to open the gate."
+            "One noticeable moment is the floor with the train moving in, as well as the small puzzle to open the gate."
         ],
         "images": [
             "/screenshots/lost-and-found/Chopped/20251011234807_1.jpg",
@@ -381,7 +381,7 @@
         "date": "10th July 2022",
         "contents": [
             "A level initially made for the \"Vinyl Violence\" collection. Set in a city, where you're fighting off terorrists, who just bombed a subway station, all accompanied with competent spritework and thrilling enemy placement.",
-            "Noticable are the radical imagery used to present the enemy faction as well as the chosen track in the background. You can get the music mod from the official steam collection at https://steamcommunity.com/sharedfiles/filedetails/?id=2786920139."
+            "Noticeable are the radical imagery used to present the enemy faction as well as the chosen track in the background. You can get the music mod from the official steam collection at https://steamcommunity.com/sharedfiles/filedetails/?id=2786920139."
         ],
         "images": [
             "/screenshots/lost-and-found/Fascio/screen.png",
@@ -661,7 +661,7 @@
         "date": "1st January 2018",
         "contents": [
             "A 15-levels long sequel to \"The Comedy Hour\". Here, one of the group's associates \"bestname\" wants to avenge the death of his friend Racko by killing the rest of the group. Featuring flashbacks, background lore of the cast, rides through heaven and hell and e-celebrity drama from the time it came out.",
-            "While this campaign still has its fair share of vulgarity, it is fairly tame compared to the first entry. More noticable is their interesting narrative approach of telling the story in a set of blocks, instead of one consecutive cutscene."
+            "While this campaign still has its fair share of vulgarity, it is fairly tame compared to the first entry. More noticeable is their interesting narrative approach of telling the story in a set of blocks, instead of one consecutive cutscene."
         ],
         "images": [
             "screenshots/lost-and-found/Comedy Hour 2/screen.png",
@@ -875,7 +875,7 @@
         "date": "22nd July 2016",
         "contents": [
             "A 5-level campaign featuring Ted going on a killing spree and slowly losing his mind, once he encounters Hammer, who was hired by a civilian to put him down.",
-            "Noticable was Hammer's unique choice of words when encountering Ted or really any character he talked to."
+            "Noticeable was Hammer's unique choice of words when encountering Ted or really any character he talked to."
         ],
         "images": [
             "screenshots/lost-and-found/Dog days/20260612164125_1.jpg",
@@ -1127,7 +1127,7 @@
         "id": 53,
         "title": "Ty's Story",
         "author": "jlrvortex",
-        "date": "6th August 2018",
+        "date": "unknown",
         "contents": [
             "A 4-level long campaign about Ty, the 50 Blessings operative who does what the phonecalls tell him to do and occasionally visits a picnic of three people. While the story and levels are bare-bones, its environmental storytelling did not go unnoticed."
         ],
@@ -1428,7 +1428,7 @@
         "date": "11th June 2017",
         "contents": [
             "A 12-level long campaign about Hammer and his involvment with 50 Blessings, trying to keep his act together outside of his profession and finding his self-worth.",
-            "Noticable are the very creative characteristics of Hammer and the characters around him as well as the fascinating level settings, varying from simple apartments to surreal, yet thought-out dream sequences.",
+            "Noticeable are the very creative characteristics of Hammer and the characters around him as well as the fascinating level settings, varying from simple apartments to surreal, yet thought-out dream sequences.",
             "The initial campaign file claims to be a work-in-progress still, though it's very unlikely a version with more levels will see the light of day."
         ],
         "images": [
@@ -1496,7 +1496,7 @@
         "date": "10th October 2016",
         "contents": [
             "A 5-level long campaign featuring Hammer and his involvement with 50 Blessings and their operators at the Red Mole Bar. Here we find out what the quarrel is between 50 Blessings and the gang members, while discovering a new threat from the Columbian cartel.",
-            "For some reason, the 4th level \"Evasion\" won't end after finishing the last enemy, so we took the liberty to include the 4th Outro seperately within the .zip file."
+            "We took the liberty to adjust Evasion's last floor so you can easily finish the level and not skip the outro."
         ],
         "images": [
             "screenshots/lost-and-found/Hammered/1.png",
@@ -1509,6 +1509,63 @@
             "screenshots/lost-and-found/Hammered/8.png"
         ],
         "link": "lost-and-found-entries/Hammered.zip",
-        "size": 0.28
+        "size": 1.7
+    },
+    {
+        "id": 72,
+        "title": "Hammerkill",
+        "author": "ivlnd03",
+        "date": "unknown",
+        "contents": [
+            "A 4-level long campaign about Hammarin committing atrocities throughout the city's gangs and cartels while the police tracks down his whereabouts.",
+            "Noticeable is the broken English within its narrative, making the campaign, albeit unintentional, rather funny to read through."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Hammerkill/1.png",
+            "screenshots/lost-and-found/Hammerkill/2.png",
+            "screenshots/lost-and-found/Hammerkill/3.png",
+            "screenshots/lost-and-found/Hammerkill/4.png",
+            "screenshots/lost-and-found/Hammerkill/5.png"
+        ],
+        "link": "lost-and-found-entries/Hammerkill.zip",
+        "size": 0.18
+    },
+    {
+        "id": 73,
+        "title": "Masked",
+        "author": "jiik",
+        "date": "2nd January 2016",
+        "contents": [
+            "A 9-level long campaign about Stephanie, a criminal obsessed with her criminal deeds and her friend Amy, trying to get her out of trouble while fighting her own bad habits.",
+            "We took the liberty to change \"Abstract\"'s cutscene slightly, as the original one wouldn't let the player finish the level normally."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Masked/1.png",
+            "screenshots/lost-and-found/Masked/2.png",
+            "screenshots/lost-and-found/Masked/4.png",
+            "screenshots/lost-and-found/Masked/3.png",
+            "screenshots/lost-and-found/Masked/5.png",
+            "screenshots/lost-and-found/Masked/7.png",
+            "screenshots/lost-and-found/Masked/6.png"
+        ],
+        "link": "lost-and-found-entries/Masked.zip",
+        "size": 0.12
+    },
+    {
+        "id": 74,
+        "title": "Skelecrew",
+        "author": "FreemankiR",
+        "date": "unknown",
+        "contents": [
+            "A 1-level long campaign about the author's OC trying to rescue his gang's affiliate from their captive."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Skelecrew/1.png",
+            "screenshots/lost-and-found/Skelecrew/2.png",
+            "screenshots/lost-and-found/Skelecrew/3.png",
+            "screenshots/lost-and-found/Skelecrew/4.png"
+        ],
+        "link": "lost-and-found-entries/Skelecrew.zip",
+        "size": 1.3
     }
 ]

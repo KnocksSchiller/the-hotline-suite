@@ -1567,5 +1567,43 @@
         ],
         "link": "lost-and-found-entries/Skelecrew.zip",
         "size": 1.3
+    },
+    {
+        "id": 75,
+        "title": "(MM) Hawaii 1985",
+        "author": "Mihk0l",
+        "date": "19th October 2021",
+        "contents": [
+            "Originally released for the Modless Mayhem collection, this 3-level long campaign follows the story of Beard and his missions in Hawaii. Because of its interesting night, urban and day settings it was one of the favored campaigns only beaten by Extra Tales of the same collection."
+        ],
+        "images": [
+            "screenshots/lost-and-found/mm hawaii 1985/1.png",
+            "screenshots/lost-and-found/mm hawaii 1985/2.png",
+            "screenshots/lost-and-found/mm hawaii 1985/3.png",
+            "screenshots/lost-and-found/mm hawaii 1985/4.png",
+            "screenshots/lost-and-found/mm hawaii 1985/5.png",
+            "screenshots/lost-and-found/mm hawaii 1985/6.png",
+            "screenshots/lost-and-found/mm hawaii 1985/7.png"
+        ],
+        "link": "lost-and-found-entries/MM Hawaii 1985.zip",
+        "size": 0.63
+    },
+    {
+        "id": 76,
+        "title": "Snowblind Remake",
+        "author": "Mihk0l",
+        "date": "12th August 2021",
+        "contents": [
+            "A remake of Plank's Hunter spinoff (steamcommunity.com/sharedfiles/filedetails/?id=899895011) with the main difference being the player's and enemies' appearance, as well as the furniture's and the landscape's sprites, while the layout and setting itself remains mostly the same.",
+            "It came along with a music wad, which we won't include here since it's a single level with only one song replaced. We recommend to just mute the ingame music and run Reznyck - Maseratiphoïde in the background instead, as that's the intended song for the level."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Snowblind remake/1.png",
+            "screenshots/lost-and-found/Snowblind remake/2.png",
+            "screenshots/lost-and-found/Snowblind remake/3.png",
+            "screenshots/lost-and-found/Snowblind remake/4.png"
+        ],
+        "link": "lost-and-found-entries/Snowblind Remake.zip",
+        "size": 4.8
     }
 ]

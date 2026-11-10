@@ -492,5 +492,44 @@
             "/screenshots/hlm-likes/Kitsune/6.png",
             "/screenshots/hlm-likes/Kitsune/7.png"
         ]
+    },
+    {
+        "id": 22,
+        "title": "Hotline Miami - Open World",
+        "author": "Bruce / WOOTinator",
+        "date": "23rd February 2020",
+        "contents": [
+            "With snippets of gameplay and mechanics going back to January 2017, the Open World project defines an ambitious game made in Unity, that adds open world sandbox features within the world of Hotline Miami while keeping its gameplay as close to the main game.",
+            "Next to Jacket's apartment it offers a weapon inventory, a day and night cycle, drivable vehicles as well as collision physics. It also features a prototype combat level where you can clear out a floor of enemies.",
+            "Eventually, the project was cancelled and was left with a downloadable build of its latest implementation in 2020 at reddit.com/r/HotlineMiami/s/zsgygWs6bh. A fair bit of a warning though, that every aspect mentioned in the game is very clunky and unfinished, and you're likely to break a mechanic by accident very quickly."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/HLM Open World/1.png",
+            "/screenshots/hlm-likes/HLM Open World/2.png",
+            "/screenshots/hlm-likes/HLM Open World/3.png",
+            "/screenshots/hlm-likes/HLM Open World/4.png",
+            "/screenshots/hlm-likes/HLM Open World/5.png",
+            "/screenshots/hlm-likes/HLM Open World/6.png"
+        ]
+    },
+    {
+        "id": 23,
+        "title": "Miami Vandal",
+        "author": "Jason Cai",
+        "date": "27th April 2026",
+        "contents": [
+            "Miami Vandal is a game that takes many stealth features from Intravenous and Metal Gear Solid, while combining the aesthetics of Hotline Miami, Miami Vice and Heat. Here, you play as an undercover cop infiltrating several crime establishments, which can end both peacefully or messy.",
+            "With the many features of sounds, weapon modes, lights throwable items and arresting people, this game offers a wide variety of playstyles, making it as challenging as the player desires.",
+            "The game is available at jason-cai.itch.io/miami-vandal with both English and Chinese localization."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Miami Vandal/1.png",
+            "/screenshots/hlm-likes/Miami Vandal/2.png",
+            "/screenshots/hlm-likes/Miami Vandal/3.png",
+            "/screenshots/hlm-likes/Miami Vandal/4.png",
+            "/screenshots/hlm-likes/Miami Vandal/5.png",
+            "/screenshots/hlm-likes/Miami Vandal/6.png",
+            "/screenshots/hlm-likes/Miami Vandal/7.png"
+        ]
     }
 ]

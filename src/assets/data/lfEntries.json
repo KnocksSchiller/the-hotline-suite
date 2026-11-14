@@ -1450,26 +1450,16 @@
     },
     {
         "id": 69,
-        "title": "Decisions",
-        "author": "TheOnlyRobert",
-        "date": "30th January 2016",
+        "title": "",
+        "author": "",
+        "date": "",
         "contents": [
-            "A 21-level long campaign following the story of Pardo and his friend retrieving a stolen clock, the son taking revenge on the Columbian cartel and 50 Blessings, Pardo losing his mind while tracking down the rampant gang violence and Corey on edge between her parents and violent habits.",
-            "The narrative, while visually interesting, is scattered all over the campaign while the level design remains fairly consistent in terms of quality."
         ],
         "images": [
-            "screenshots/lost-and-found/Decisions/1.png",
-            "screenshots/lost-and-found/Decisions/2.png",
-            "screenshots/lost-and-found/Decisions/3.png",
-            "screenshots/lost-and-found/Decisions/5.png",
-            "screenshots/lost-and-found/Decisions/4.png",
-            "screenshots/lost-and-found/Decisions/6.png",
-            "screenshots/lost-and-found/Decisions/7.png",
-            "screenshots/lost-and-found/Decisions/9.png",
-            "screenshots/lost-and-found/Decisions/8.png"
+            "screenshots/lost-and-found//.png"
         ],
-        "link": "lost-and-found-entries/Decisions.zip",
-        "size": 0.35
+        "link": "lost-and-found-entries/.zip",
+        "size": 0
     },
     {
         "id": 70,

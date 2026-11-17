@@ -734,18 +734,15 @@
             "The credits and the first cutscene claim to have a music mod for this campaign. However, we were not able to recover that one. Should you have a version of the original wad, we would love to add it along with the campaign itself. Alternatively, you can search up TheLegoMack's YouTube channel, where he once streamed the campaign a few years ago."
         ],
         "images": [
-            "screenshots/lost-and-found/Animal Control 2/9.jpg",
             "screenshots/lost-and-found/Animal Control 2/1.png",
             "screenshots/lost-and-found/Animal Control 2/5.jpg",
             "screenshots/lost-and-found/Animal Control 2/6.jpg",
-            "screenshots/lost-and-found/Animal Control 2/13.jpg",
             "screenshots/lost-and-found/Animal Control 2/15.jpg",
             "screenshots/lost-and-found/Animal Control 2/3.jpg",
             "screenshots/lost-and-found/Animal Control 2/7.jpg",
             "screenshots/lost-and-found/Animal Control 2/10.jpg",
             "screenshots/lost-and-found/Animal Control 2/12.jpg",
             "screenshots/lost-and-found/Animal Control 2/11.jpg",
-            "screenshots/lost-and-found/Animal Control 2/2.png",
             "screenshots/lost-and-found/Animal Control 2/14.jpg",
             "screenshots/lost-and-found/Animal Control 2/8.jpg"
         ],
@@ -1450,16 +1447,21 @@
     },
     {
         "id": 69,
-        "title": "",
-        "author": "",
-        "date": "",
+        "title": "HL Chinatown",
+        "author": "Spicy_Chicken_God",
+        "date": "10th March 2016",
         "contents": [
+            "A 1-level campaign following Jacket's order given by Pizza dude to cater a huge party in his special, violent way while Pardo keeps track of his deeds."
         ],
         "images": [
-            "screenshots/lost-and-found//.png"
+            "screenshots/lost-and-found/HL Chinatown/1.png",
+            "screenshots/lost-and-found/HL Chinatown/2.png",
+            "screenshots/lost-and-found/HL Chinatown/3.png",
+            "screenshots/lost-and-found/HL Chinatown/4.png",
+            "screenshots/lost-and-found/HL Chinatown/5.png"
         ],
-        "link": "lost-and-found-entries/.zip",
-        "size": 0
+        "link": "lost-and-found-entries/HL Chinatown.zip",
+        "size": 0.05
     },
     {
         "id": 70,
@@ -1595,5 +1597,43 @@
         ],
         "link": "lost-and-found-entries/Snowblind Remake.zip",
         "size": 4.8
+    },
+    {
+        "id": 77,
+        "title": "Homicide",
+        "author": "Cooper",
+        "date": "unknown",
+        "contents": [
+            "A 5-level campaign about Pardo investigating a local gang and a masked maniac named Rasmus, wearing an owl mask and clearing out Russian hideouts."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Homicide/1.png",
+            "screenshots/lost-and-found/Homicide/2.png",
+            "screenshots/lost-and-found/Homicide/3.png",
+            "screenshots/lost-and-found/Homicide/4.png",
+            "screenshots/lost-and-found/Homicide/5.png",
+            "screenshots/lost-and-found/Homicide/6.png"
+        ],
+        "link": "lost-and-found-entries/Homicide.zip",
+        "size": 0.13
+    },
+    {
+        "id": 78,
+        "title": "Eclipse",
+        "author": "toad'n'toad & Blitzkrieg!",
+        "date": "19th May 2019",
+        "contents": [
+            "Chicago August 2008. The city's police department has been tasked with clearing out an office complex seized by criminals. Be among the first to storm the enemy''s lair and deliver justice.",
+            "Originally a teaser for their upcoming campaign \"Badlands\"."
+        ],
+        "images": [
+            "screenshots/lost-and-found/Eclipse/1.png",
+            "screenshots/lost-and-found/Eclipse/2.png",
+            "screenshots/lost-and-found/Eclipse/3.png",
+            "screenshots/lost-and-found/Eclipse/4.png",
+            "screenshots/lost-and-found/Eclipse/5.jpg"
+        ],
+        "link": "lost-and-found-entries/Eclipse.zip",
+        "size": 1.2
     }
 ]

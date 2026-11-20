@@ -531,5 +531,80 @@
             "/screenshots/hlm-likes/Miami Vandal/6.png",
             "/screenshots/hlm-likes/Miami Vandal/7.png"
         ]
+    },
+    {
+        "id": 24,
+        "title": "Hotline Miami: Redux",
+        "author": "Pi0h1 & Shosray",
+        "date": "19th March 2018",
+        "contents": [
+            "Welcome back to Miami. Hotline Miami: Redux is a mod for Hotline Miami 1 with the intention to enhance the experience of the original game with the help of new sprites, weapon sounds, UI elements, level layouts and visual effects.",
+            "On top of that, it offers a hard mode, which flips the levels vertically, halves the ammo, increases enemy count and turns off the lock-on system. At last, it features two more levels, one of which is a recreation of the first ever Hotline Miami teaser level.",
+            "The mod is available at pi0h1.itch.io/hlm-redux along with a thorough instruction on how to install it."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Hotline Miami Redux/1.png",
+            "/screenshots/hlm-likes/Hotline Miami Redux/2.png",
+            "/screenshots/hlm-likes/Hotline Miami Redux/5.png",
+            "/screenshots/hlm-likes/Hotline Miami Redux/6.png",
+            "/screenshots/hlm-likes/Hotline Miami Redux/3.png",
+            "/screenshots/hlm-likes/Hotline Miami Redux/9.png",
+            "/screenshots/hlm-likes/Hotline Miami Redux/4.png",
+            "/screenshots/hlm-likes/Hotline Miami Redux/8.png",
+            "/screenshots/hlm-likes/Hotline Miami Redux/7.png",
+            "/screenshots/hlm-likes/Hotline Miami Redux/10.png"
+        ]
+    },
+    {
+        "id": 25,
+        "title": "Hotline Miami: Redux-Redux",
+        "author": "Neon Dimensions",
+        "date": "2nd September 2023",
+        "contents": [
+            "Hotline Miami: Redux-Redux is a standalone mod, that takes the original premise of Hotline Miami: Redux and takes a few extra steps with their own dedicated team. Next to the already established sprites, animations and visual effects, this one comes along with plenty more quality of life features in gameplay, HUD elements, mask abilities and player movement.",
+            "It comes with its own (optional) soundtrack, brings back the enemy types from Hotline Miami 2, hard mode, that works like in the original redux mod and offers a wider variety in enemies, their behavior as well as more insightful tips. Along with the original bonus levels this mod features its own take of the first ever teaser level, as well as their own version of \"Clean Hit\".",
+            "The mod is available at neon-dimensions.itch.io/hm-r-r along with its community made spinoff \"Super Redux-Redux\" and a dedicated discord server, where you can ask and discuss with the development team about their future plans of their project."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Hotline Miami Redux Redux/1.png",
+            "/screenshots/hlm-likes/Hotline Miami Redux Redux/2.png",
+            "/screenshots/hlm-likes/Hotline Miami Redux Redux/3.png",
+            "/screenshots/hlm-likes/Hotline Miami Redux Redux/4.png",
+            "/screenshots/hlm-likes/Hotline Miami Redux Redux/5.png",
+            "/screenshots/hlm-likes/Hotline Miami Redux Redux/6.png",
+            "/screenshots/hlm-likes/Hotline Miami Redux Redux/7.png",
+            "/screenshots/hlm-likes/Hotline Miami Redux Redux/8.png",
+            "/screenshots/hlm-likes/Hotline Miami Redux Redux/9.png",
+            "/screenshots/hlm-likes/Hotline Miami Redux Redux/10.png",
+            "/screenshots/hlm-likes/Hotline Miami Redux Redux/11.png"
+        ]
+    },
+    {
+        "id": 26,
+        "title": "Hotline Miami: Super Redux-Redux",
+        "author": "Additional Neon Dimensions",
+        "date": "1st May 2026",
+        "contents": [
+            "Hotline Miami: Super Redux-Redux is a standalone mod, which expands the world of Hotline Miami: Redux-Redux with many more features, from simple gameplay tweaks such as shift-lock to new mask abilities, weapons, gore effects and a lot of secrets to uncover.",
+            "Its Hard Mode features more encounters, harder boss fights, smarter enemy AI, even more secrets to uncover and more insightful tips.",
+            "The mod package is available at neon-dimensions.itch.io/hm-r-r along with the original Redux-Redux modification."
+        ],
+        "images": [
+            "/screenshots/hlm-likes/Hotline Miami Super Redux Redux/1.png",
+            "/screenshots/hlm-likes/Hotline Miami Super Redux Redux/2.png",
+            "/screenshots/hlm-likes/Hotline Miami Super Redux Redux/3.png",
+            "/screenshots/hlm-likes/Hotline Miami Super Redux Redux/5.png",
+            "/screenshots/hlm-likes/Hotline Miami Super Redux Redux/4.png",
+            "/screenshots/hlm-likes/Hotline Miami Super Redux Redux/6.png",
+            "/screenshots/hlm-likes/Hotline Miami Super Redux Redux/7.png",
+            "/screenshots/hlm-likes/Hotline Miami Super Redux Redux/13.png",
+            "/screenshots/hlm-likes/Hotline Miami Super Redux Redux/8.png",
+            "/screenshots/hlm-likes/Hotline Miami Super Redux Redux/9.png",
+            "/screenshots/hlm-likes/Hotline Miami Super Redux Redux/14.png",
+            "/screenshots/hlm-likes/Hotline Miami Super Redux Redux/15.png",
+            "/screenshots/hlm-likes/Hotline Miami Super Redux Redux/10.png",
+            "/screenshots/hlm-likes/Hotline Miami Super Redux Redux/12.png",
+            "/screenshots/hlm-likes/Hotline Miami Super Redux Redux/11.png"
+        ]
     }
 ]

@@ -3,7 +3,7 @@ A Single Page Website, that teaches the many ins and outs of the Hotline Miami m
 
 This website serves as a starting point into the modding scene for newcomers, but also as an archive of lost content, that we managed to preserve.
 
-The project is currently in development and is currently visible in its [dev domain](http://dev.the-hotline-suite.com).
+The project is currently visible at [the-hotline-suite.com](https://the-hotline-suite.com).
 
 ## Who's in charge and how this project is handled
 This project was made and is currently maintained by Knocks Schiller. The content itself is a community effort made by the [fellow contributors](https://github.com/KnocksSchiller/the-hotline-suite/wiki/The-Fellow-Contributors).

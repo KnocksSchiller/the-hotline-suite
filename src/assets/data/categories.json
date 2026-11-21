@@ -1,8 +1,8 @@
 [
     {
         "title": "Getting Started",
-        "description": "Learn how to play, create and search for new custom HLM2 Content.",
-        "descriptionMobile": "How to play and create new Hotline Miami 2 Content.",
+        "description": "Learn how to play, create and search for new custom HLM2 content.",
+        "descriptionMobile": "How to play and create new Hotline Miami 2 content.",
         "icon": "/screenshots/categories/category-getting-started-big.png",
         "to": "/getting-started"
     },

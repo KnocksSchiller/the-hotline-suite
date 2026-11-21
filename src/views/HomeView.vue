@@ -1,6 +1,6 @@
 <template>
   <div class="site-content">
-    <img alt="Hotline Suite logo" src="@/assets/icons/logo-placeholder2.png">
+    <img alt="Hotline Suite logo" src="@/assets/icons/logo-animated.gif">
     <Category :mobile="mobile" :categories="categories" />
     <FoldingText :mobile="mobile" :text="textsections[0]" open />
     <FoldingText :mobile="mobile" :text="textsections[1]" />

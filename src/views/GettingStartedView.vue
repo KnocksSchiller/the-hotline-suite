@@ -5,39 +5,39 @@
             <p> This page teaches you about the ins and outs of <a class="animText">Hotline Miami 2 modding</a> and
                 mainly revolves around <a class="animText">Hotline Miami 2's Level Editor</a> and the workshop around
                 it.</p>
-            <p>For <a class="animText">making standalone mods</a>, see <router-link :to="CatHlm1.to"
+            <p>For <a class="animText">making standalone mods</a> within GameMaker Studio, see <router-link :to="CatHlm1.to"
                     class="animText underline">{{ CatHlm1.title }}</router-link>.
             </p>
-            <p>The following chapters of this page go as followed:</p>
+            <p>The following chapters go as followed:</p>
         </article>
         <nav>
             <ol>
-                <li><a href="#chapter1">{{ textsections[2].title }}</a></li>
-                <li><a href="#chapter2">{{ textsections[3].title }}</a>
+                <li><a href="#how-to-play-custom-levels">{{ textsections[2].title }}</a></li>
+                <li><a href="#how-to-make-custom-content">{{ textsections[3].title }}</a>
                     <ul>
-                        <li><a href="#chapter2-1">{{ textsections[4].title }}</a></li>
-                        <li><a href="#chapter2-2">{{ textsections[5].title }}</a></li>
-                        <li><a href="#chapter2-3">{{ textsections[6].title }}</a></li>
+                        <li><a href="#the-level-editor">{{ textsections[4].title }}</a></li>
+                        <li><a href="#cutscenes">{{ textsections[5].title }}</a></li>
+                        <li><a href="#making-sprites">{{ textsections[6].title }}</a></li>
                     </ul>
                 </li>
-                <li><a href="#chapter3">{{ textsections[7].title }}</a></li>
-                <li><a href="#chapter4">{{ textsections[8].title }}</a></li>
-                <li><a href="#chapter5">{{ textsections[9].title }}</a></li>
+                <li><a href="#tutorials-and-guides">{{ textsections[7].title }}</a></li>
+                <li><a href="#advanced-tools-and-guides">{{ textsections[8].title }}</a></li>
+                <li><a href="#i-want-more">{{ textsections[9].title }}</a></li>
             </ol>
         </nav>
-        <FoldingText id="chapter1" :mobile="mobile" :text="textsections[2]" />
-        <details id="chapter2" open>
+        <FoldingText id="how-to-play-custom-levels" :mobile="mobile" :text="textsections[2]" />
+        <details id="how-to-make-custom-content" open>
             <summary>
                 {{ textsections[3].title }}
             </summary>
             <p>{{ textsections[3].content }}</p>
-            <FoldingText id="chapter2-1" :mobile="mobile" :text="textsections[4]" />
-            <FoldingText id="chapter2-2" :mobile="mobile" :text="textsections[5]" />
-            <FoldingText id="chapter2-3" :mobile="mobile" :text="textsections[6]" />
+            <FoldingText id="the-level-editor" :mobile="mobile" :text="textsections[4]" />
+            <FoldingText id="cutscenes" :mobile="mobile" :text="textsections[5]" />
+            <FoldingText id="making-sprites" :mobile="mobile" :text="textsections[6]" />
         </details>
-        <FoldingText id="chapter3" :mobile="mobile" :text="textsections[7]" />
-        <FoldingText id="chapter4" :mobile="mobile" :text="textsections[8]" />
-        <FoldingText id="chapter5" :mobile="mobile" :text="textsections[9]" />
+        <FoldingText id="tutorials-and-guides" :mobile="mobile" :text="textsections[7]" />
+        <FoldingText id="advanced-tools-and-guides" :mobile="mobile" :text="textsections[8]" />
+        <FoldingText id="i-want-more" :mobile="mobile" :text="textsections[9]" />
     </div>
 </template>
 

@@ -4,9 +4,9 @@
         <article>
             <p>This page revolves all around games, that are <a class="animText">similar to Hotline Miami</a> and<a
                     class="animText"> Hotline Miami 2: Wrong Number</a>. From the newest <a class="animText">AAA</a>
-                titles down to the most <a class="animText">obscure </a>flash games, if the camera is from a top-down
+                titles down to the most <a class="animText">obscure </a>flash games, if the camera watches from a top-down
                 perspective and includes shooting, we probably covered it.</p>
-            <p>We will cover them in terms of <a class="animText">quality</a>, the <a class="animText">similarities and
+            <p>Here, we check each game in terms of <a class="animText">quality</a>, the <a class="animText">similarities and
                     differences</a> to Hotline Miami and <a class="animText">where you can play it</a>.</p>
         </article>
         <SortedNavEntries :mobile="mobile" , :list="hlmLikes" />

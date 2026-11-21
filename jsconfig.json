@@ -1,9 +1,10 @@
 {
   "compilerOptions": {
-    "target": "es5",
+    "target": "es2025",
     "module": "esnext",
     "baseUrl": "./",
     "moduleResolution": "node",
+    "ignoreDeprecations": "6.0",
     "paths": {
       "@/*": [
         "src/*"

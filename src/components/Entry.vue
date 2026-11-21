@@ -22,7 +22,8 @@
         <p v-for="e in entry.contents">{{ e }}</p>
     </article>
     <span v-if="this.isDownload">
-        <button @click="downloadFile(entry.link, entry.title)">Download</button>
+        <button @click="downloadFile(entry.link, entry.title)" :disabled="isDownloading"
+            :class="{ 'downloading': isDownloading }"> {{ isDownloading ? 'Downloading...' : 'Download' }}</button>
         <i>{{ entry.title }}.zip ({{ entry.size }} MB)</i>
     </span>
 </template>
@@ -36,6 +37,7 @@ export default {
     data() {
         return {
             currentScreenshot: 0,
+            isDownloading: false,
         }
     },
     created() {
@@ -55,9 +57,12 @@ export default {
         },
         // taken from https://medium.com/@codesense/how-to-download-file-on-button-click-in-vue-or-nuxt-in-just-2-steps-a0a013b6bd8b
         async downloadFile(link, name) {
+            if (this.isDownloading) return
+            this.isDownloading = true
+            // 3 seconds of waiting, for local testing of download button 
+            // await new Promise(resolve => setTimeout(resolve, 3000))
             try {
                 const response = await axios.get(link, { responseType: 'blob' })
-
                 const fileURL = window.URL.createObjectURL(response.data)
                 const a = document.createElement('a')
                 a.href = fileURL
@@ -69,6 +74,9 @@ export default {
             }
             catch (error) {
                 console.log("Download failed: ", error)
+            }
+            finally {
+                this.isDownloading = false
             }
         }
     }
@@ -134,8 +142,12 @@ i {
         margin: auto;
     }
 
-    div:first-of-type p{
+    div:first-of-type p {
         padding: 0 10px;
+    }
+
+    span:first-of-type {
+        justify-content: initial;
     }
 }
 </style>
